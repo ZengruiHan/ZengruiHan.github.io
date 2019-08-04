@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-These are all mathematics courses which I've taken in the first three years at USTC.
+These are all mathematics courses and programs which I've taken in the first three years at USTC.
 
 **Freshman Year**
 
