@@ -14,9 +14,8 @@ redirect_from:
 
 - B.S. in Mathematics, University of Science and Technology of China, 2020 (expected)
 
-
-
 -Overall GPA: 3.91/4.30
+
 -Overall Percentage: 90.11/100.00
 
 # Research Interests
