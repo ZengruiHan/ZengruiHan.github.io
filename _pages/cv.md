@@ -29,7 +29,7 @@ redirect_from:
 
 Supervisor: [Prof. Lev Borisov](http://sites.math.rutgers.edu/~borisov/)
 
-Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf]()
+Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf](https://zengruihan.github.io/Applications of homological mirror symmetry to hypergeometric systems duality conjectures.pdf)
 
 **McKay Correspondence**                                                                                            (*December 2017 -- October 2018*)
 
@@ -37,7 +37,7 @@ Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mi
 
 Supervisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
 
-Reference: [Final Paper]()
+Reference: [Final Paper](https://zengruihan.github.io/paper.pdf)
 
 # Publications
 
