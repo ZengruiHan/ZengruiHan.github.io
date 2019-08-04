@@ -10,11 +10,3 @@ location: "City, Country"
 
 Lecturer for this course is [Prof. Hongjia Chen](http://staff.ustc.edu.cn/~hjchen/).
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
