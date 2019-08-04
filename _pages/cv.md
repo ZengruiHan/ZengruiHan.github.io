@@ -22,7 +22,7 @@ redirect_from:
 
 # Research Experience
 
-**Hypergeometric Duality Conjecture**                                                                        *July 2019 -- September 2019*
+**Hypergeometric Duality Conjecture**                                                                        (*July 2019 -- September 2019*)
 
 *Mathematics Department, Rutgers*
 
@@ -30,7 +30,7 @@ Supervisor: [Prof. Lev Borisov](http://sites.math.rutgers.edu/~borisov/)
 
 Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf]()
 
-**McKay Correspondence**                                                                                            *December 2017 -- October 2018*
+**McKay Correspondence**                                                                                            (*December 2017 -- October 2018*)
 
 *School of Mathematical Sciences, USTC*
 
