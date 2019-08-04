@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Course"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
 
 ---
 
@@ -21,29 +22,29 @@ redirect_from:
 
 # Research Experience
 
-**Hypergeometric Duality Conjecture** 
+**Hypergeometric Duality Conjecture**                                                                        *July 2019 -- September 2019*
 
 *Mathematics Department, Rutgers*
 
 Supervisor: [Prof. Lev Borisov](http://sites.math.rutgers.edu/~borisov/)
 
-**McKay Correspondence**
+Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf]()
+
+**McKay Correspondence**                                                                                            *December 2017 -- October 2018*
 
 *School of Mathematical Sciences, USTC*
 
 Supervisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
 
+Reference: [Final Paper]()
+
 # Publications
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+No publications yet.
 
 # Talks
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+No talks yet.
 
 # Teaching Assistant Experience
 
