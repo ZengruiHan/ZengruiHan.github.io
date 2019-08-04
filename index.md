@@ -1,12 +1,3 @@
--   [Your Name / Site Title](https://academicpages.github.io/)
--   [Publications](https://academicpages.github.io/publications/)
--   [Talks](https://academicpages.github.io/talks/)
--   [Teaching](https://academicpages.github.io/teaching/)
--   [Portfolio](https://academicpages.github.io/portfolio/)
--   [Blog Posts](https://academicpages.github.io/year-archive/)
--   [CV](https://academicpages.github.io/cv/)
--   [Guide](https://academicpages.github.io/markdown/)
-
 ![Your Sidebar Name](https://academicpages.github.io/images/profile.png)
 
 ### Your Sidebar Name {.author__name}
