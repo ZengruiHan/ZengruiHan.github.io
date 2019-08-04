@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zengrui Han / Zengrui's Homepage"
+title                    : "Zengrui's Homepage"
 title_separator          : "-"
 name                     : &name "Zengrui Han"
 description              : &description "personal description"
