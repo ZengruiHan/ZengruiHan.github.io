@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
+
 # Education
 
 - B.S. in Mathematics, University of Science and Technology of China, 2020 (expected)
@@ -29,7 +31,7 @@ redirect_from:
 
 Supervisor: [Prof. Lev Borisov](http://sites.math.rutgers.edu/~borisov/)
 
-Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf](https://zengruihan.github.io/Applications of homological mirror symmetry to hypergeometric systems duality conjectures.pdf)
+Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf](https://zengruihan.github.io/pdf/Applications of homological mirror symmetry to hypergeometric systems duality conjectures.pdf)
 
 **McKay Correspondence**                                                                                            (*December 2017 -- October 2018*)
 
@@ -37,7 +39,7 @@ Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mi
 
 Supervisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
 
-Reference: [Final Paper](https://zengruihan.github.io/paper.pdf)
+Reference: [Final Paper](https://zengruihan.github.io/pdf/paper.pdf)
 
 # Publications
 
