@@ -12,6 +12,8 @@ redirect_from:
 
 This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
 
+------------------------------------------------
+
 # Education
 
 - B.S. in Mathematics, University of Science and Technology of China, 2020 (expected)
@@ -24,6 +26,8 @@ This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
 
 - Algebraic Geometry
 - Representation Theory
+
+------------------------------------------------
 
 # Research Experience
 
@@ -43,13 +47,19 @@ Supervisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
 
 Reference: [Final Paper](https://zengruihan.github.io/pdf/paper.pdf)
 
+------------------------------------------------
+
 # Publications
 
 No publications yet.
 
+------------------------------------------------
+
 # Talks
 
 No talks yet.
+
+------------------------------------------------
 
 # Teaching Assistant Experience
 
