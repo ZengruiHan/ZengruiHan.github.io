@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-No publication yet.
+No publications yet.
