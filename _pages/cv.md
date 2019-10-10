@@ -30,7 +30,7 @@ This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
 ------------------------------------------------
 
 # Research Experience
-))
+
 **Hypergeometric Duality Conjecture**                                                                        (*July 2019 -- September 2019*)
 
 *Mathematics Department, Rutgers*
