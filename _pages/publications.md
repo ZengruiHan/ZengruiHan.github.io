@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and preprints"
 permalink: /publications/
 author_profile: true
 ---
 
-No publications yet.
+On duality of certain GKZ hypergeometric systems, with Lev Borisov and Chengxi Wang, arXiv:1910.04039.
