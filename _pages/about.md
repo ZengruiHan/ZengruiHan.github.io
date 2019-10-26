@@ -17,7 +17,7 @@ redirect_from:
 
 **News**
 
-- My first paper has been posted on arXiv! You can look at the CV page if you are interested.
+- My first paper has been posted on arXiv! Look at the CV page if you are interested.
 
 - There'll be some mathematics seminars which are organized by USTC professors and students in 2019 Fall semester. You can see the [poster](https://zengruihan.github.io/pdf/Seminar_poster.pdf) we made. If you want to put information of your seminar on it, please contact me.
 
