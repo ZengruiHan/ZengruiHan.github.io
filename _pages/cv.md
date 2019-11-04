@@ -51,7 +51,7 @@ Reference: [Final Paper](https://zengruihan.github.io/pdf/paper.pdf)
 
 # Publications and preprints
 
-- [On duality of certain GKZ hypergeometric systems](https://arxiv.org/abs/1910.04039), with Lev Borisov and Chengxi Wang, arXiv:1910.04039.
+- [On duality of certain GKZ hypergeometric systems](https://arxiv.org/abs/1910.04039), with Lev Borisov and Chengxi Wang, arXiv:1910.04039. Submitted.
 
 ------------------------------------------------
 
