@@ -13,7 +13,7 @@ redirect_from:
 
 - Currently I'm an undergraduate majoring in Pure Mathematics at University of Science and Technology of China, and I will graduate in 2020. 
 
-- My main research interests include topics in algebraic geometry and algebraic representation theory.
+- My main research interests include topics in algebraic geometry, algebraic representation theory and mathematical physics.
 
 **News**
 - This is the mathematics seminars [poster](https://zengruihan.github.io/pdf/2020Spring_Seminar_poster.pdf) for 2020 Spring term.
