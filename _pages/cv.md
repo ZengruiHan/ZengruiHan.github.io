@@ -26,6 +26,7 @@ This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
 
 - Algebraic Geometry
 - Representation Theory
+- Mathematical Physics
 
 ------------------------------------------------
 
