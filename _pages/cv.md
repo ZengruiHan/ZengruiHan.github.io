@@ -15,10 +15,11 @@ This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
 ------------------------------------------------
 
 # Education
+- Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
 
-- B.S. in Mathematics, University of Science and Technology of China, 2020 (expected)
-  - Overall GPA: 3.91/4.30
-  - Overall Percentage: 90.11/100.00
+- B.S. in Mathematics, University of Science and Technology of China, 2016-2020
+  - Thesis Advisor: Prof. Xiao-Wu Chen
+  - Thesis Title: Fourier-Mukai Transforms and Derived McKay Correspondence
   
 ------------------------------------------------
 
@@ -27,26 +28,6 @@ This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
 - Algebraic Geometry
 - Representation Theory
 - Mathematical Physics
-
-------------------------------------------------
-
-# Research Experience
-
-**Hypergeometric Duality Conjecture**                                                                        (*July 2019 -- September 2019*)
-
-*Mathematics Department, Rutgers*
-
-Supervisor: [Prof. Lev Borisov](http://sites.math.rutgers.edu/~borisov/)
-
-Reference: Borisov, L. A., & Horja, R. P. (2015). Applications of homological mirror symmetry to hypergeometric systems: duality conjectures. *Advances in Mathematics*, *271*, 153-187. [pdf](https://zengruihan.github.io/pdf/Applications of homological mirror symmetry to hypergeometric systems duality conjectures.pdf)
-
-**McKay Correspondence**                                                                                            (*December 2017 -- October 2018*)
-
-*School of Mathematical Sciences, USTC*
-
-Supervisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
-
-Reference: [Final Paper](https://zengruihan.github.io/pdf/paper.pdf)
 
 ------------------------------------------------
 
