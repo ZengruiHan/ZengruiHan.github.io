@@ -10,9 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is the [pdf](https://zengruihan.github.io/pdf/CV.pdf) version of this page.
 
-------------------------------------------------
 
 # Education
 - Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
