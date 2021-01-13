@@ -24,8 +24,6 @@ redirect_from:
 # Research Interests
 
 - Algebraic Geometry
-- Representation Theory
-- Mathematical Physics
 
 ------------------------------------------------
 
