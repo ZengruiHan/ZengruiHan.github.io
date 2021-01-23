@@ -11,7 +11,7 @@ redirect_from:
 
 **About Me**
 
-- I’m a first-year Ph.D. student at the Department of Mathematics of Rutgers University. Before that I was an undergraduate student in University of Science and Technology of China (USTC). My main research interest is Algebraic Geometry.
+- I’m a first-year Ph.D. student at the Department of Mathematics of Rutgers University. Prior to that I was an undergraduate student in University of Science and Technology of China (USTC). My main research interest is Algebraic Geometry.
 
 - My name in Chinese characters is <img src='/images/F5DE2F02-3E7A-4294-A2ED-7FB4281DAB47.jpeg' style='transform: rotate(0deg);'>
 
