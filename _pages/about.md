@@ -11,7 +11,7 @@ redirect_from:
 
 **About Me**
 
-- I passed my oral qualifying exam in Febrary 2021, and my advisor is <a href="https://sites.math.rutgers.edu/~borisov/">Prof. Lev Borisov</a>. I'm currently working on algebraic surfaces of general type with geometric genus zero, especially the class of fake projective planes.
+- I passed my oral qualifying exam in Febrary 2021, and my advisor is <a href="https://sites.math.rutgers.edu/~borisov/">Prof. Lev Borisov</a>. I'm interested in mirror symmetry, birational geometry and theory of surfaces. I'm currently working on some special classes of surfaces of general type.
 
 - I’m a first-year Ph.D. student at the Department of Mathematics of Rutgers University. Prior to that I was an undergraduate student in University of Science and Technology of China (USTC). My main research interest is Algebraic Geometry.
 
