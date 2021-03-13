@@ -14,6 +14,7 @@ redirect_from:
 
 # Education
 - Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
+  - Advisor: Prof. Lev Borisov
 
 - B.S. in Mathematics, University of Science and Technology of China, 2016-2020
   - Thesis Advisor: Prof. Xiao-Wu Chen
@@ -23,7 +24,7 @@ redirect_from:
 
 # Research Interests
 
-- Algebraic Geometry
+- Algebraic Geometry, especially mirror symmetry, birational geometry and algebraic surfaces
 
 ------------------------------------------------
 
