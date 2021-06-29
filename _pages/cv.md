@@ -24,7 +24,7 @@ redirect_from:
 
 # Research Interests
 
-- Algebraic Geometry, especially mirror symmetry, birational geometry and algebraic surfaces
+- Algebraic Geometry, especially mirror symmetry, toric geometry, birational geometry and algebraic surfaces
 
 ------------------------------------------------
 
