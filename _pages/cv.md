@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-A PDF version can be found [here](https://github.com/ZengruiHan/ZengruiHan.github.io/blob/2838c1f4f509fc5127309334fa112e1f110ef543/main.pdf).
+A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han_CV.pdf).
 
 # Education
 - Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
