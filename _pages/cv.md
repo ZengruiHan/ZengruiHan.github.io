@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+A PDF version can be found [here](ZengruiHan.github.io/main.pdf).
 
 # Education
 - Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
@@ -40,8 +40,16 @@ No talks yet.
 
 ------------------------------------------------
 
-# Teaching Assistant Experience
+# Teaching Experience
 
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Rutgers University
+
+- Math 251H: Multivariable Calculus, Teaching Assistant, Fall 2021
+- Math 503: Theory of Functions of a Complex Variable I, Grader, Fall 2021
+
+## University of Science and Technology of China
+
+- Foundation of Algebra, Teaching Assistant, Fall 2019
+- Modern Algebra, Teaching Assistant, Spring 2019
+- Foundation of Algebra, Teaching Assistant, Fall 2018
+
