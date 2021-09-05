@@ -42,12 +42,12 @@ No talks yet.
 
 # Teaching Experience
 
-## Rutgers University
+### Rutgers University
 
 - Math 251H: Multivariable Calculus, Teaching Assistant, Fall 2021
 - Math 503: Theory of Functions of a Complex Variable I, Grader, Fall 2021
 
-## University of Science and Technology of China
+### University of Science and Technology of China
 
 - Foundation of Algebra, Teaching Assistant, Fall 2019
 - Modern Algebra, Teaching Assistant, Spring 2019
