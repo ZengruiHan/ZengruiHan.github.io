@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-A PDF version can be found [here](ZengruiHan.github.io/blob/master/main.pdf).
+A PDF version can be found [here](main.pdf).
 
 # Education
 - Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
