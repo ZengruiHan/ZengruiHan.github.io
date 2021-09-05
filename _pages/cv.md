@@ -8,7 +8,6 @@ redirect_from:
 
 ---
 
-{% include base_path %}
 
 A PDF version can be found [here](ZengruiHan.github.io/blob/master/main.pdf).
 
