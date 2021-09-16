@@ -11,7 +11,9 @@ redirect_from:
 
 **About Me**
 
-- I’m a second year Ph.D. student at the Department of Mathematics of Rutgers University. I passed my oral qualifying exam in Febrary 2021, and my advisor is <a href="https://sites.math.rutgers.edu/~borisov/">Prof. Lev Borisov</a>. Prior to that I was an undergraduate student in University of Science and Technology of China (USTC). My main research interest is Algebraic Geometry, especially mirror symmetry, toric geometry, birational geometry and theory of surfaces.
+- My main research interest is Algebraic Geometry, especially mirror symmetry, toric geometry, birational geometry and theory of surfaces. I'm currently working on questions related to quantum cohomology of homogeneous varieties.
+
+- I’m a second year Ph.D. student at the Department of Mathematics of Rutgers University. I passed my oral qualifying exam in Febrary 2021, and my advisor is <a href="https://sites.math.rutgers.edu/~borisov/">Prof. Lev Borisov</a>. Prior to that I was an undergraduate student in University of Science and Technology of China (USTC).
 
 - My name in Chinese characters is <img src='/images/F5DE2F02-3E7A-4294-A2ED-7FB4281DAB47.jpeg' style='transform: rotate(0deg);'>
 
