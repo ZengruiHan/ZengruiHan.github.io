@@ -13,10 +13,10 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 # Education
 - Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
-  - Advisor: Prof. Lev Borisov
+  - Advisor: [Prof. Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
 
 - B.S. in Mathematics, University of Science and Technology of China, 2016-2020
-  - Thesis Advisor: Prof. Xiao-Wu Chen
+  - Thesis Advisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
   - Thesis Title: Fourier-Mukai Transforms and Derived McKay Correspondence
   
 ------------------------------------------------
