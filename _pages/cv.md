@@ -17,7 +17,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 - B.S. in Mathematics, University of Science and Technology of China, 2016-2020
   - Thesis Advisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
-  - Thesis Title: Fourier-Mukai Transforms and Derived McKay Correspondence
+  - Thesis Title: *Fourier-Mukai Transforms and Derived McKay Correspondence*
   
 ------------------------------------------------
 
