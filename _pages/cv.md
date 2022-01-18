@@ -43,6 +43,7 @@ No talks yet.
 
 ### Rutgers University
 
+- Math 251: Multivariable Calculus, Teaching Assistant, Spring 2022
 - Math 251H: Multivariable Calculus, Teaching Assistant, Fall 2021
 - Math 503: Theory of Functions of a Complex Variable I, Grader, Fall 2021
 
