@@ -11,7 +11,7 @@ redirect_from:
 
 **About Me**
 
-- My main research interest is Algebraic Geometry, especially mirror symmetry, toric geometry, birational geometry and theory of surfaces. I'm currently working on questions related to GKZ hypergeometric systems.
+- My main research interest is Algebraic Geometry, especially mirror symmetry, toric geometry and D-modules. I'm currently working on questions related to GKZ hypergeometric systems.
 
 - I’m a third year Ph.D. student at the Department of Mathematics of Rutgers University. My advisor is <a href="https://sites.math.rutgers.edu/~borisov/">Prof. Lev Borisov</a>. Prior to that I was an undergraduate student in University of Science and Technology of China (USTC).
 
