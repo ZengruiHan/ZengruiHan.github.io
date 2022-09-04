@@ -17,4 +17,8 @@ The best symphony after Beethoven and before Mahler. Only after I listened to it
 
 Grosse Fuge was originally the last movement of String Quartet No.13, which is really difficult to understand. It is described as "an absolutely contemporary piece of music that will be contemporary forever" by Stravinsky. Its value was not recognized by people at that time, but nowadays it's thought to be one of the greatest piece of Beethoven. Besides Grosse Fuge, the exquisitely heartfelt Cavatina movement (5th movement) is also astonishing. 
 
+## [Bach, Chaconne, Partita No.2 in D Minor, BWV 1004](https://www.youtube.com/watch?v=vhOaS_Cy8_8) ([Piano Transcription by Busoni](https://www.youtube.com/watch?v=KHYW76fuNKU))
+
+I was immediately attracted by the theme at the very beginning when I listened to this piece for the first time. Brahms wrote: "Using the technique adapted to a small instrument, the man writes a whole world of the deepest thoughts and most powerful feelings." 
+
 To be continued...
