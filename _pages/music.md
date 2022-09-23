@@ -21,7 +21,7 @@ Grosse Fuge was originally the last movement of String Quartet No.13, which is r
 
 I was immediately attracted by the theme at the very beginning when I listened to this piece for the first time. Brahms wrote: "Using the technique adapted to a small instrument, the man writes a whole world of the deepest thoughts and most powerful feelings." 
 
-## [Beethoven Piano Sonata No.31 in A-flat Major (Op.110)]([https://www.youtube.com/watch?v=XIn3ictF9SA](https://www.youtube.com/watch?v=DbnM-1MQSGw&list=RDDbnM-1MQSGw&start_radio=1])
+## [Beethoven Piano Sonata No.31 in A-flat Major (Op.110)][https://www.youtube.com/watch?v=XIn3ictF9SA](https://www.youtube.com/watch?v=DbnM-1MQSGw&list=RDDbnM-1MQSGw&start_radio=1]
 
 One of my favourite piano pieces. I was fortunate to have listened to Evgeny Kissin's performance of this piece in Philadelphia. Very impressive.
 
