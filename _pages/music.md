@@ -11,7 +11,7 @@ Among all composers in history, Ludwig van Beethoven is always my favorite. His 
 
 ## [Brahms Symphony No.4 in E Minor, Op.98](https://www.youtube.com/watch?v=0KBAy7M2w74)
 
-The best symphony after Beethoven and before Mahler. Only after I listened to it I realized why Brahms is thought to be the greatest composer after Bach, Mozart and Beethoven. The tragedy involved in 4th movement always touches me deep inside. 
+The best symphony after Beethoven and before Mahler. Only after I listened to it I realized why Brahms is thought to be the greatest composer after Bach, Mozart and Beethoven. The tragedy involved in 4th movement always touches me deep inside. "...Their (variations in the last movement) quixotic moods remind us that this man Johannes Brahms was not only a great composer, but also a person with joys and sorrows like the rest of us", quote from website of New Jersey Symphony.
 
 ## [Beethoven String Quartet No.13 in B-flat Major (Op.130)](https://www.youtube.com/watch?v=XIn3ictF9SA) and [Grosse Fuge (Op.133)](https://www.youtube.com/watch?v=13ygvpIg-S0)
 
