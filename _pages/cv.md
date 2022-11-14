@@ -45,6 +45,7 @@ No talks yet.
 
 ### Rutgers University
 
+- Math 354: Linear Optimization, Teaching Assistant, Fall 2022
 - Math 501: Theory of Functions of a Real Variable I, Grader, Fall 2022
 - Math 251: Multivariable Calculus, Grader, Summer 2022
 - Math 251: Multivariable Calculus, Teaching Assistant, Spring 2022
