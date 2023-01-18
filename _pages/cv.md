@@ -43,15 +43,16 @@ No talks yet.
 
 ------------------------------------------------
 
-# Teaching Experience
+# Teaching
 
 ### Rutgers University
 
-- Math 354: Linear Optimization, Teaching Assistant, Fall 2022
+- Math 244: Differential Equations for Engineering and Physics, TA, Spring 2023
+- Math 354: Linear Optimization, TA, Fall 2022
 - Math 501: Theory of Functions of a Real Variable I, Grader, Fall 2022
 - Math 251: Multivariable Calculus, Grader, Summer 2022
-- Math 251: Multivariable Calculus, Teaching Assistant, Spring 2022
-- Math 251H: Multivariable Calculus, Teaching Assistant, Fall 2021
+- Math 251: Multivariable Calculus, TA, Spring 2022
+- Math 251H: Multivariable Calculus, TA, Fall 2021
 - Math 503: Theory of Functions of a Complex Variable I, Grader, Fall 2021
 
 ### University of Science and Technology of China
