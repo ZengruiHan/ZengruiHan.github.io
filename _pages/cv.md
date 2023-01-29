@@ -23,7 +23,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 # Research Interests
 
-- Algebraic Geometry, especially mirror symmetry and toric geometry.
+- Algebraic Geometry, especially mirror symmetry and related areas.
 
 ------------------------------------------------
 
