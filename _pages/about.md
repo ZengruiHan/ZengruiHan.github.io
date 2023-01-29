@@ -11,7 +11,7 @@ redirect_from:
 
 **About Me**
 
-- My main research interest is Algebraic Geometry, especially mirror symmetry and toric geometry.
+- My main research interest is Algebraic Geometry, especially mirror symmetry and related areas.
 
 - I’m a third year Ph.D. student at the Department of Mathematics of Rutgers University. My advisor is <a href="https://sites.math.rutgers.edu/~borisov/">Prof. Lev Borisov</a>. Prior to that I was an undergraduate student in University of Science and Technology of China (USTC).
 
