@@ -39,7 +39,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 # Talks
 
-No talks yet.
+- [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), February 15, 2023.
 
 ------------------------------------------------
 
