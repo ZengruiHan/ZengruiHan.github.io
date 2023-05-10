@@ -17,7 +17,7 @@ redirect_from:
 
 - Besides mathematics, I'm also a great fan of classical music. <a href="https://zengruihan.github.io/music/">Here</a> are some of my favorite pieces.
 
-- My name in Chinese characters is <img src='/images/F5DE2F02-3E7A-4294-A2ED-7FB4281DAB47.jpeg' style='transform: rotate(0deg);'>
+- My name in Chinese characters is <img src='/images/F5DE2F02-3E7A-4294-A2ED-7FB4281DAB47.jpeg' style='transform: rotate(0deg);'>.
 
 - Due to constant spam emails, I have had to set the strictest possible incoming mail rules for my email inbox. If you would like to reach out to me, please do NOT: 1. use personal email address (gmail, outlook, etc) 2. send me emails in Chinese.
 
