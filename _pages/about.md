@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Zengrui Han <img src='/images/F5DE2F02-3E7A-4294-A2ED-7FB4281DAB47.jpeg' style='transform: rotate(0deg);'>'s homepage"
+title: "Welcome to Zengrui Han's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
