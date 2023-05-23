@@ -21,7 +21,7 @@ redirect_from:
 
 - Due to constant spam emails, I have had to set the strictest possible incoming mail rules for my email inbox. If you would like to reach out to me, please do NOT: 1. use personal email address (gmail, outlook, etc) 2. send me emails in Chinese.
 
-<h1 style="text-align:right">居右对齐 </h1>
+<h1 style="text-align:right"><font size=1>(Last Update: 01/17/2023)</font> </h1>
 
 <a href="https://info.flagcounter.com/u8zB"><img src="https://s11.flagcounter.com/count/u8zB/bg_FFFFFF/txt_000000/border_FFFFFF/columns_2/maxflags_6/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
