@@ -21,9 +21,7 @@ redirect_from:
 
 - Due to constant spam emails, I have had to set the strictest possible incoming mail rules for my email inbox. If you would like to reach out to me, please do NOT: 1. use personal email address (gmail, outlook, etc) 2. send me emails in Chinese.
 
-<p align="right"><font size=1>"Prince, what you are, you are through chance and birth; what I am, I am through my own labor.</font> </p>
-
-<p align="right"><font size=1>There are many princes and there will continue to be thousands more, but there is only one Beethoven."</font> </p>
+<p align="right"><font size=1>"Prince, what you are, you are through chance and birth; what I am, I am through my own labor.<br /> There are many princes and there will continue to be thousands more, but there is only one Beethoven."</font> </p>
 
 <p align="right"><font size=1>--Ludwig van Beethoven</font> </p>
 
