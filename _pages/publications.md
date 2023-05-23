@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Analytic continuation transformations of better-behaved GKZ systems and Fourier-Mukai transforms, in preparation. (Title subject to change)
+- Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241).
 
 - On Hypergeometric Duality Conjecture, with Lev Borisov. [arXiv:2301.01374](https://arxiv.org/abs/2301.01374). Submitted.
 
