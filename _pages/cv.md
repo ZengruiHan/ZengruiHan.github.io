@@ -47,6 +47,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 ### Rutgers University
 
+- Math 477: Mathematical Theory of Probability, TA, Fall 2023
 - Math 244: Differential Equations for Engineering and Physics, TA, Spring 2023
 - Math 354: Linear Optimization, TA, Fall 2022
 - Math 501: Theory of Functions of a Real Variable I, Grader, Fall 2022
