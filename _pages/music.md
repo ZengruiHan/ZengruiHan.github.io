@@ -5,6 +5,24 @@ permalink: /music/
 author_profile: true
 ---
 
+# Some upcoming concerts in 2023-2024 season:
+
+| Time | Location | Performed by | Remarks |
+| ---- | ---- | ---- | ---- |
+| 10/05/2023 | NYC | NY Phil | Beethoven Piano Concerto No.5, Schubert Symphony No.8 |
+| 10/07/2023 | Philadelphia | Phil Orch & Trifonov | Brahms Piano Concerto No.1 |
+| 10/12/2023 | NYC | NY Phil | Schumann Piano Concerto |
+| 10/14/2023 | Philadelphia | Phil Orch | Rachmaninoff Symphony No.2 |
+| 10/15/2023 | New Brunswick | NJ Symphony Orchestra | Dvorak Symphony No.9 |
+| 10/20/2023 | Princeton | NJ Symphony Orchestra | Schumann Cello Concerto |
+| 10/21/2023 | Phildadelphia | Phil Orch | Bruckner Symphony No.6 |
+| 11/09/2023 | NYC | NY Phil | Beethoven Violin Concerto |
+
+
+
+
+# Some of my favorite pieces:
+
 ## [Beethoven Symphony No.9 in D Minor, Op.125](https://www.youtube.com/watch?v=O3MVY6UiMag)
 
 Among all composers in history, Ludwig van Beethoven is always my favorite. His last symphony, in my opinion, is the greatest music artwork of all time which represents the peak of wisdom of human kind. My eyes are filled with tears every time I listen to this masterpiece.
