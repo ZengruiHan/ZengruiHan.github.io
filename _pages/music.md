@@ -15,7 +15,8 @@ author_profile: true
 | 10/15/2023 | New Brunswick | NJ Symphony Orchestra | Dvorak Symphony No.9 |
 | 10/20/2023 | Princeton | NJ Symphony Orchestra | Schumann Cello Concerto |
 | 10/21/2023 | Phildadelphia | Phil Orch | Bruckner Symphony No.6 |
-| 11/09/2023 | NYC | NY Phil | Beethoven Violin Concerto |
+| 11/05/2023 | Fair Lawn, NJ | Adelphi Orch | Sun, 2pm, Beethoven Violin Concerto |
+| 11/09/2023 | NYC | NY Phil | Thu, 7:30pm, Beethoven Violin Concerto |
 | 11/17/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
 | 12/01/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
 | 12/03/2023 | New Brunswick | NJ Symphony Orchestra | Sun, 8pm, Mendelssohn Violin Concerto, Beethoven Symphony No.4 |
