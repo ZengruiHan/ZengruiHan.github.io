@@ -10,13 +10,20 @@ author_profile: true
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
 | 10/05/2023 | NYC | NY Phil | Beethoven Piano Concerto No.5, Schubert Symphony No.8 |
-| 10/07/2023 | Philadelphia | Phil Orch & Trifonov | Brahms Piano Concerto No.1 |
 | 10/12/2023 | NYC | NY Phil | Schumann Piano Concerto |
 | 10/14/2023 | Philadelphia | Phil Orch | Rachmaninoff Symphony No.2 |
 | 10/15/2023 | New Brunswick | NJ Symphony Orchestra | Dvorak Symphony No.9 |
 | 10/20/2023 | Princeton | NJ Symphony Orchestra | Schumann Cello Concerto |
 | 10/21/2023 | Phildadelphia | Phil Orch | Bruckner Symphony No.6 |
 | 11/09/2023 | NYC | NY Phil | Beethoven Violin Concerto |
+| 11/17/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
+| 12/01/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
+| 12/03/2023 | New Brunswick | NJ Symphony Orchestra | Sun, 8pm, Mendelssohn Violin Concerto, Beethoven Symphony No.4 |
+| 01/04/2023 | NYC | NY Phil | Thu, 7:30pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
+| 01/05/2023 | Phildadelphia | Phil Orch | Fri, 2pm, several pieces of Mozart |
+| 01/13/2023 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
+| 01/27/2023 | Phildadelphia | Curtis Symphony Orch | Sat, 3pm, Beethoven Violin Concerto |
+| 01/27/2023 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
 
 
 
