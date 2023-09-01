@@ -47,6 +47,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 ### Rutgers University
 
+- Math 552: Abstract Algebra II, Review Session Leader, Spring 2024
+- Math 551: Abstract Algebra I, Review Session Leader, Fall 2023
 - Math 477: Mathematical Theory of Probability, TA, Fall 2023
 - Math 244: Differential Equations for Engineering and Physics, TA, Spring 2023
 - Math 354: Linear Optimization, TA, Fall 2022
