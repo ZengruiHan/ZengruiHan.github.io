@@ -29,6 +29,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 # Publications and preprints
 
+- Lattice structure of better-behaved GKZ systems, period integrals and tropical geometry, in preparation. (Title subject to change)
+
 - Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241). Submitted.
 
 - On Hypergeometric Duality Conjecture, with Lev Borisov. [arXiv:2301.01374](https://arxiv.org/abs/2301.01374). Submitted.
