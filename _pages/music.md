@@ -9,23 +9,25 @@ author_profile: true
 
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
+| 09/22/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.13 with Grosse Fuge |
 | 10/05/2023 | NYC | NY Phil | Beethoven Piano Concerto No.5, Schubert Symphony No.8 |
 | 10/07/2023 | Philadelphia | Phil Orch | Gershwin Piano Concerto |
 | 10/12/2023 | NYC | NY Phil | Schumann Piano Concerto |
-| 10/14/2023 | Philadelphia | Phil Orch | Rachmaninoff Symphony No.2 |
+| 10/15/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.14 |
 | 10/20/2023 | Princeton | NJ Symphony Orchestra | Fri, 8pm, Schumann Cello Concerto |
 | 10/21/2023 | Phildadelphia | Phil Orch | Bruckner Symphony No.6 |
 | 11/05/2023 | Fair Lawn, NJ | Adelphi Orch | Sun, 2pm, Beethoven Violin Concerto |
 | 11/09/2023 | NYC | NY Phil | Thu, 7:30pm, Beethoven Violin Concerto |
 | 11/17/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
 | 12/01/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
-| 12/03/2023 | New Brunswick | NJ Symphony Orchestra | Sun, 8pm, Mendelssohn Violin Concerto, Beethoven Symphony No.4 |
+| 12/03/2023 | Phildadelphia | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
 | 01/04/2023 | NYC | NY Phil | Thu, 7:30pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
 | 01/05/2023 | Phildadelphia | Phil Orch | Fri, 2pm, several pieces of Mozart |
 | 01/13/2023 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
 | 01/27/2023 | Phildadelphia | Curtis Symphony Orch | Sat, 3pm, Beethoven Violin Concerto |
 | 01/27/2023 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
-
+| 03/05/2023 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
+| 05/01/2023 | Phildadelphia | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
 
 
 
