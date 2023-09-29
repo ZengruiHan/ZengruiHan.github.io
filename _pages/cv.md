@@ -41,6 +41,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 # Talks
 
+- Algebraic Geometry Northeastern Series, 5-minute talk, University of Pennsylvania, October 14, 2023.
+
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), February 15, 2023.
 
 ------------------------------------------------
