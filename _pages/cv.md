@@ -41,7 +41,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 # Talks
 
-- [Algebraic Geometry Northeastern Series](https://sites.google.com/site/agneshomepage/upenn-2023?authuser=0), 5-minute talk, University of Pennsylvania, October 14, 2023.
+- [Algebraic Geometry Northeastern Series](https://sites.google.com/site/agneshomepage/upenn-2023?authuser=0), 5-minute talk, University of Pennsylvania, October 14, 2023. [Slides](https://zengruihan.github.io/files/GKZ.pdf)
 
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), February 15, 2023.
 
