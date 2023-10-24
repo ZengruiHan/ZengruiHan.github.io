@@ -21,17 +21,17 @@ author_profile: true
 | 11/17/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
 | 12/01/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
 | 12/03/2023 | Phildadelphia | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
-| 01/04/2023 | NYC | NY Phil | Thu, 7:30pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
-| 01/05/2023 | Phildadelphia | Phil Orch | Fri, 2pm, several pieces of Mozart |
-| 01/13/2023 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
-| 01/27/2023 | Phildadelphia | Curtis Symphony Orch | Sat, 3pm, Beethoven Violin Concerto |
-| 01/27/2023 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
+| 01/04/2024 | NYC | NY Phil | Thu, 7:30pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
+| 01/05/2024 | Phildadelphia | Phil Orch | Fri, 2pm, several pieces of Mozart |
+| 01/13/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
+| 01/27/2024 | Phildadelphia | Curtis Symphony Orch | Sat, 3pm, Beethoven Violin Concerto |
+| 01/27/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
 | 02/24/2024 | New Brunswick, NJ | Itzhak Perlman | Sat, 8pm |
-| 03/05/2023 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
-| 03/19/2023 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
-| 05/01/2023 | Phildadelphia | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
-| 06/01/2023 | NYC | NY Phil | Sat, 8:00pm, Brahms Concerto for violin, cello & orchestra "Double" |
-| 06/07/2023 | NYC | NY Phil | Fri, 8:00pm, Mahler Symphony No.2 "Resurrection" |
+| 03/05/2024 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
+| 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
+| 05/01/2024 | Phildadelphia | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
+| 06/01/2024 | NYC | NY Phil | Sat, 8:00pm, Brahms Concerto for violin, cello & orchestra "Double" |
+| 06/07/2024 | NYC | NY Phil | Fri, 8:00pm, Mahler Symphony No.2 "Resurrection" |
 
 
 
