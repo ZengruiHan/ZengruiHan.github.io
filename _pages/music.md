@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-# Some upcoming concerts in 2023-2024 season:
+# Some concerts in 2023-2024 season:
 
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
