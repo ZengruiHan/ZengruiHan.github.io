@@ -17,8 +17,7 @@ author_profile: true
 | 11/17/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
 | 12/01/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
 | 12/03/2023 | Phildadelphia | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
-| 01/04/2024 | NYC | NY Phil | Thu, 7:30pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
-| 01/05/2024 | Phildadelphia | Phil Orch | Fri, 2pm, several pieces of Mozart |
+| 01/05/2024 | NYC | NY Phil | Fri, 2:00pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
 | 01/13/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
 | 01/27/2024 | Phildadelphia | Curtis Symphony Orch | Sat, 3pm, Beethoven Violin Concerto |
 | 01/27/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
