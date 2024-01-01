@@ -9,9 +9,9 @@ author_profile: true
 
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
-| 09/22/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.13 with Grosse Fuge |
+| 09/22/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.13 (Op.130) with Grosse Fuge (Op.133) |
 | 10/07/2023 | Philadelphia | Phil Orch | Gershwin Piano Concerto |
-| 10/15/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.14 |
+| 10/15/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.14 (Op.131) |
 | 11/05/2023 | Fair Lawn, NJ | Adelphi Orch | Sun, 2pm, Beethoven Violin Concerto |
 | 11/10/2023 | NYC | NY Phil | Fri, 8:00pm, Beethoven Violin Concerto |
 | 11/17/2023 | Phildadelphia | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
@@ -22,6 +22,7 @@ author_profile: true
 | 01/27/2024 | Phildadelphia | Curtis Symphony Orch | Sat, 3pm, Beethoven Violin Concerto |
 | 01/27/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
 | 02/24/2024 | New Brunswick, NJ | Itzhak Perlman | Sat, 8pm |
+| 03/01/2024 | Phildadelphia | Hagen Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 (Op.132)|
 | 03/05/2024 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
 | 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
 | 05/01/2024 | Phildadelphia | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
