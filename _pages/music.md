@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-# Some concerts in 2023-2024 season:
+# Concerts in 2023-2024 season:
 
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -19,7 +19,6 @@ author_profile: true
 | 12/03/2023 | Phildadelphia | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
 | 01/05/2024 | NYC | NY Phil | Fri, 2:00pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
 | 01/13/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
-| 01/27/2024 | Phildadelphia | Curtis Symphony Orch | Sat, 3pm, Beethoven Violin Concerto |
 | 01/27/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
 | 02/24/2024 | New Brunswick, NJ | Itzhak Perlman | Sat, 8pm |
 | 02/29/2024 | Phildadelphia | Haochen Zhang & Phil Orch | Tue, 7:30pm, Beethoven Piano Concerto No.5 & Symphony No.7 |
@@ -27,6 +26,8 @@ author_profile: true
 | 03/05/2024 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
 | 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
 | 05/01/2024 | Phildadelphia | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
+| 05/04/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
+| 05/15/2024 | Phildadelphia | Evgeny Kissin | Wed, 8pm, Pieces of Beethoven, Brahms, Rachmaninoff and Prokofiev |
 | 06/01/2024 | NYC | NY Phil | Sat, 8:00pm, Brahms Concerto for violin, cello & orchestra "Double" |
 | 06/07/2024 | NYC | NY Phil | Fri, 8:00pm, Mahler Symphony No.2 "Resurrection" |
 
