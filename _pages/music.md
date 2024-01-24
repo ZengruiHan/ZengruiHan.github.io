@@ -19,7 +19,7 @@ author_profile: true
 | 12/03/2023 | Phildadelphia | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
 | 01/05/2024 | NYC | NY Phil | Fri, 2:00pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
 | 01/13/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
-| 01/27/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms A German Requiem |
+| 01/26/2024 | Phildadelphia | Phil Orch | Fri, 2pm, Brahms, Ein deutsches Requiem |
 | 02/24/2024 | New Brunswick, NJ | Itzhak Perlman | Sat, 8pm |
 | 02/29/2024 | Phildadelphia | Haochen Zhang & Phil Orch | Tue, 7:30pm, Beethoven Piano Concerto No.5 & Symphony No.7 |
 | 03/01/2024 | Phildadelphia | Hagen Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 (Op.132)|
