@@ -21,7 +21,7 @@ author_profile: true
 | 01/13/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
 | 01/26/2024 | Phildadelphia | Phil Orch | Fri, 2pm, Brahms, Ein deutsches Requiem |
 | 02/24/2024 | New Brunswick, NJ | Itzhak Perlman | Sat, 8pm |
-| 02/29/2024 | Phildadelphia | Haochen Zhang & Phil Orch | Tue, 7:30pm, Beethoven Piano Concerto No.5 & Symphony No.7 |
+| 02/29/2024 | Phildadelphia | Haochen Zhang & Phil Orch | Thu, 7:30pm, Beethoven Piano Concerto No.5 & Symphony No.7 |
 | 03/01/2024 | Phildadelphia | Hagen Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 (Op.132)|
 | 03/05/2024 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
 | 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
