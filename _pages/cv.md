@@ -51,6 +51,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 ### Rutgers University
 
+- Math 111: Precalculus, TA, Spring 2024
 - Math 552: Abstract Algebra II, TA, Spring 2024
 - Math 551: Abstract Algebra I, TA, Fall 2023
 - Math 477: Mathematical Theory of Probability, TA, Fall 2023
