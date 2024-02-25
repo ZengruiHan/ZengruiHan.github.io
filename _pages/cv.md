@@ -29,7 +29,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/Zengrui_Han
 
 # Publications and preprints
 
-- Stringy E-function of generalized Pfaffian double mirrors, in preparation. (Title subject to change)
+- Stringy E-functions of generalized Pfaffian double mirrors, in preparation. (Title subject to change)
 
 - Central charges, hypergeometric duality and tropical geometry, in preparation. (Title subject to change)
 
