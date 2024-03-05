@@ -26,6 +26,7 @@ author_profile: true
 | 03/05/2024 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
 | 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
 | 05/01/2024 | Phildadelphia | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
+| 05/03/2024 | NYC | Dame Imogen Cooper | Fri, 7:30pm, Beethoven Piano Sonata No.31 |
 | 05/04/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
 | 05/15/2024 | Phildadelphia | Evgeny Kissin | Wed, 8pm, Pieces of Beethoven, Brahms, Rachmaninoff and Prokofiev |
 | 06/01/2024 | NYC | NY Phil | Sat, 8:00pm, Brahms Concerto for violin, cello & orchestra "Double" |
