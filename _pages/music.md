@@ -25,6 +25,7 @@ author_profile: true
 | 03/01/2024 | Phildadelphia | Hagen Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 (Op.132)|
 | 03/05/2024 | Phildadelphia | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
 | 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
+| 03/21/2024 | NYC | Quatuor Van Kuijk | Thu, 7:30pm, Beethoven String Quartet No.14 |
 | 05/01/2024 | Phildadelphia | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
 | 05/03/2024 | NYC | Dame Imogen Cooper | Fri, 7:30pm, Beethoven Piano Sonata No.31 |
 | 05/04/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
