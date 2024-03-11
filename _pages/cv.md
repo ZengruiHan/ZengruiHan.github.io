@@ -35,7 +35,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241). Under revision.
 
-- On hypergeometric duality conjecture, with Lev Borisov. **Advances in Mathematics**, Volume 442 (2024), 109582. [arXiv:2301.01374](https://arxiv.org/abs/2301.01374). 
+- On hypergeometric duality conjecture, with Lev Borisov. **Advances in Mathematics**, Volume 442 (2024), 109582. [arXiv:2301.01374](https://arxiv.org/abs/2301.01374) [journal](https://www.sciencedirect.com/science/article/pii/S0001870824000975)
 
 - On duality of certain GKZ hypergeometric systems, with Lev Borisov and Chengxi Wang, **Asian Journal of Mathematics**, Volume 25 (2021), No.1, 65-88. [arXiv:1910.04039](https://arxiv.org/abs/1910.04039) [journal](https://www.intlpress.com/site/pub/pages/journals/items/ajm/content/vols/0025/0001/a005/index.php)
 
