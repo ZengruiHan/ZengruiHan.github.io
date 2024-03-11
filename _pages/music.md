@@ -32,6 +32,33 @@ author_profile: true
 | 05/15/2024 | Phildadelphia | Evgeny Kissin | Wed, 8pm, Pieces of Beethoven, Brahms, Rachmaninoff and Prokofiev |
 | 06/01/2024 | NYC | NY Phil | Sat, 8:00pm, Brahms Concerto for violin, cello & orchestra "Double" |
 | 06/07/2024 | NYC | NY Phil | Fri, 8:00pm, Mahler Symphony No.2 "Resurrection" |
+| 06/18/2024 | Phildadelphia | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.6, Swan Lake (suite), the 1812 overture |
+
+# Concerts in 2024-2025 season:
+
+| Time | Location | Performed by | Remarks |
+| ---- | ---- | ---- | ---- |
+| 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
+| 01/11/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.9 |
+| 01/25/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.9 |
+| 02/22/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
+| 03/01/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
+| 03/08/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
+| 03/15/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mendelssohn Violin Concerto |
+| 03/29/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Cello Concerto |
+| 04/10/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
+| 04/26/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
+| 05/29/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Beethoven Symphony No.9, "Choral" |
+
+
+
+
+
+
+
+
+
+
 
 
 
