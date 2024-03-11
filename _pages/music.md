@@ -40,7 +40,7 @@ author_profile: true
 | ---- | ---- | ---- | ---- |
 | 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
 | 01/11/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.9 |
-| 01/25/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.9 |
+| 01/25/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.6 |
 | 02/22/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
 | 03/01/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
 | 03/08/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
