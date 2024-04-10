@@ -29,6 +29,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Publications and preprints
 
+For a detailed description of these papers, see [here](https://zengruihan.github.io/research).
+
 - Elliptic genera of Pfaffian-Grassmannian double mirrors, in progress.
 
 - Stringy E-functions of generalized Pfaffian double mirrors, in preparation.
