@@ -10,7 +10,7 @@ author_profile: true
 ## Elliptic genera of Pfaffian-Grassmannian double mirrors
 **In progress.**
 
-In this project, we aim to prove the elliptic genera of Pfaffian-Grassmannian double mirrors of odd dimension coincide with each other.
+In this project we aim to prove the elliptic genera of Pfaffian-Grassmannian double mirrors of odd dimension coincide with each other.
 
 ***
 
