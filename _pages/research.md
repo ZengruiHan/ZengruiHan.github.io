@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Elliptic genera of Pfaffian-Grassmannian double mirrors
-**In progress.**
+In progress.
 
 ## Stringy E-functions of generalized Pfaffian double mirrors
 **In preparation.**
