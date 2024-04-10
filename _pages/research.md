@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-- Elliptic genera of Pfaffian-Grassmannian double mirrors, in progress.
+### Elliptic genera of Pfaffian-Grassmannian double mirrors
+In progress.
 
-- Stringy E-functions of generalized Pfaffian double mirrors, in preparation.
+### Stringy E-functions of generalized Pfaffian double mirrors
+In preparation.
 
 
 ### Central charges in local mirror symmetry via hypergeometric duality 
