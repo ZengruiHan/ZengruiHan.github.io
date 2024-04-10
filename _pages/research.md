@@ -1,8 +1,10 @@
 ---
 layout: archive
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
 ***
 ## Elliptic genera of Pfaffian-Grassmannian double mirrors
 **In progress.**
