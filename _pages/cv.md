@@ -29,7 +29,9 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Publications and preprints
 
-- Stringy E-functions of generalized Pfaffian double mirrors, in preparation. (Title subject to change)
+- Elliptic genera of Pfaffian-Grassmannian double mirrors, in progress.
+
+- Stringy E-functions of generalized Pfaffian double mirrors, in preparation.
 
 - Central charges in local mirror symmetry via hypergeometric duality, forthcoming. (Draft available upon request)
 
