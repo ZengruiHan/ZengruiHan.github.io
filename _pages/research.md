@@ -12,8 +12,10 @@ author_profile: true
 ---
 ### Central charges in local mirror symmetry via hypergeometric duality 
 Forthcoming. (Draft available upon request)
+
 - In this paper we study the central charges of Hori-Vafa mirror pairs, where the A-model is given by a family of affine hypersurfaces in algebraic torus and the B-model is given by toric Calabi-Yau orbifolds.  We combine the [tropical method](https://arxiv.org/abs/1809.02177) of Abouzaid-Ganatra-Iritani-Sheridan and the [hypergeometric duality](https://arxiv.org/abs/2301.01374) of Borisov and myself to settle a [conjecture](https://arxiv.org/abs/hep-th/0404043) of Hosono. This could also be seen as a generalization of the Gamma conjecture for the local mirror symmetry setting.
 ---
+  
 ### Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms 
 Under minor revision at Épijournal de Géométrie Algébrique. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241). 
 - A companion paper to the paper "On hypergeometric duality conjecture". We settled the analytic continuation conjecture in [Borisov-Horja](https://arxiv.org/abs/1308.2238) in full generality. We use the tool of Mellin-Branes integral to compute analytic continuations of hypergeometric series. 
