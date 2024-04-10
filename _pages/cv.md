@@ -31,7 +31,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - Stringy E-functions of generalized Pfaffian double mirrors, in preparation. (Title subject to change)
 
-- Central charges, hypergeometric duality and tropical geometry, in preparation. (Title subject to change)
+- Central charges in local mirror symmetry via hypergeometric duality, forthcoming. (Draft available upon request)
 
 - Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241). Under revision.
 
