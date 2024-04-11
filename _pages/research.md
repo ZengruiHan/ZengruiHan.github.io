@@ -29,7 +29,7 @@ In this paper we study the central charges of Hori-Vafa mirror pairs, where the 
 ## Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms
 **Under minor revision at Épijournal de Géométrie Algébrique. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241).**
 
-A companion paper to the paper "On hypergeometric duality conjecture". We settled the analytic continuation conjecture in [Borisov-Horja](https://arxiv.org/abs/1308.2238) in full generality. We use the tool of Mellin-Branes integral to compute analytic continuations of hypergeometric series.
+A companion paper to the paper "On hypergeometric duality conjecture". We settled the analytic continuation conjecture of [Borisov-Horja](https://arxiv.org/abs/1308.2238) in full generality. We use the tool of Mellin-Branes integral to compute analytic continuations of hypergeometric series.
 
 ***
 
