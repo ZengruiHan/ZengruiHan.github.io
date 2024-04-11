@@ -10,14 +10,12 @@ author_profile: true
 ## Elliptic genera of Pfaffian-Grassmannian double mirrors
 **In progress.**
 
-In this project we aim to prove the elliptic genera of Pfaffian-Grassmannian double mirrors of odd dimension coincide with each other.
 
 ***
 
 ## Stringy E-functions of generalized Pfaffian double mirrors
 **In preparation.**
 
-In this project we aim to prove that the stringy E-functions of the generalized Pfaffian double mirrors of even dimension coincide with each other, hence generalize the result of [Borisov-Libgober](https://arxiv.org/abs/1502.03702v2). However, as indicated by section 6 in this paper, a modification of the definition of stringy E-function is necessary.
 
 ***
 
