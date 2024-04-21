@@ -39,6 +39,8 @@ author_profile: true
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
 | 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
+| 11/23/2024 | NYC | NY Phil | Sat, 7:30pm, Beethoven Piano Concerto No.3 |
+| 11/30/2024 | NYC | NY Phil | Sat, 7:30pm, Chopin Piano Concerto No.2 |
 | 01/11/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.9 |
 | 01/25/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.6 |
 | 02/22/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
