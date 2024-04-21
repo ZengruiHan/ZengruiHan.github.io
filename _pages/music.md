@@ -44,11 +44,14 @@ author_profile: true
 | 01/11/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.9 |
 | 01/25/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.6 |
 | 02/22/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
+| 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
 | 03/01/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
 | 03/08/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
 | 03/15/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mendelssohn Violin Concerto |
 | 03/29/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Cello Concerto |
+| 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
 | 04/10/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
+| 04/24/2025 | NYC | Boston Symphony Orchestra | Thu, 8:00pm, Shostakovich Symphony No.11, "The Year 1905" |
 | 04/26/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
 | 05/29/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Beethoven Symphony No.9, "Choral" |
 
