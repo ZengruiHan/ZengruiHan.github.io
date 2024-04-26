@@ -35,7 +35,7 @@ For a detailed description of these papers and projects, see [here](https://zeng
 
 - Stringy E-functions of generalized Pfaffian double mirrors, in preparation.
 
-- Central charges in local mirror symmetry via hypergeometric duality, forthcoming. (Draft available upon request)
+- Central charges in local mirror symmetry via hypergeometric duality. [arXiv:2404.16258](https://arxiv.org/abs/2404.16258v1)
 
 - Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241). Under revision.
 
