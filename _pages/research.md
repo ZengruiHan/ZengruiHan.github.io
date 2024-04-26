@@ -20,7 +20,7 @@ author_profile: true
 ***
 
 ## Central charges in local mirror symmetry via hypergeometric duality 
-**Forthcoming. (Draft available upon request)**
+**[arXiv:2404.16258](https://arxiv.org/abs/2404.16258v1)**
 
 In this paper we study the central charges of Hori-Vafa mirror pairs, where the A-model is given by a family of affine hypersurfaces in algebraic torus and the B-model is given by toric Calabi-Yau orbifolds.  We combine the tropical method of Abouzaid-Ganatra-Iritani-Sheridan and the hypergeometric duality of Borisov and myself to settle [a conjecture of Hosono](https://arxiv.org/abs/hep-th/0404043). This could also be seen as a generalization of the Gamma conjecture for the local mirror symmetry setting.
 
