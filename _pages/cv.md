@@ -33,7 +33,7 @@ For a detailed description of these papers and projects, see [here](https://zeng
 
 - Elliptic genera of Pfaffian-Grassmannian double mirrors, in progress.
 
-- Stringy E-functions of generalized Pfaffian double mirrors, in preparation.
+- Stringy Hodge numbers of generalized Pfaffian double mirrors, in preparation.
 
 - Central charges in local mirror symmetry via hypergeometric duality. [[arXiv:2404.16258]](https://arxiv.org/abs/2404.16258). Submitted.
 
