@@ -14,7 +14,7 @@ The Pfaffian-Grassmannian double mirror is the first example of derived-equivale
 
 ***
 
-## Stringy E-functions of generalized Pfaffian double mirrors
+## Stringy Hodge numbers of generalized Pfaffian double mirrors
 **In preparation.**
 
 The generalized Pfaffian double mirror is a generalization of the Pfaffian-Grassmannian double mirror. In the case of odd dimensions, Borisov and Libgober proved that the stringy Hodge numbers on the two sides coincide. The case of even dimension is more subtle since the two sides are not double mirror to each other in the strict sense (e.g. they have different dimensions). More precisely, a modification of discrepancy of resolution of singularities is needed to obtain the desired equality of Hodge numbers.
