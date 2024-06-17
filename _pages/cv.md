@@ -47,11 +47,11 @@ For a detailed description of these papers and projects, see [here](https://zeng
 
 # Talks and Presentations
 
-- [Richmond Geometry Meeting](https://math.vcu.edu/rgm/), Poster, Virginia Commonwealth University, Aug 2024.
+- [Richmond Geometry Meeting](https://math.vcu.edu/rgm/) (poster) Virginia Commonwealth University, Aug 2024.
 
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, April 2024.
 
-- [Algebraic Geometry Northeastern Series](https://sites.google.com/site/agneshomepage/upenn-2023?authuser=0), 5-minute talk, University of Pennsylvania, October 2023. [Slides](https://zengruihan.github.io/files/GKZ.pdf) (See also the [talk](https://www.youtube.com/watch?v=3hhRGgBJdZU&t=15s) given by Lev Borisov based on the same project)
+- [Algebraic Geometry Northeastern Series](https://sites.google.com/site/agneshomepage/upenn-2023?authuser=0) (5-minute talk) University of Pennsylvania, October 2023. [Slides](https://zengruihan.github.io/files/GKZ.pdf) (See also the [talk](https://www.youtube.com/watch?v=3hhRGgBJdZU&t=15s) given by Lev Borisov based on the same project)
 
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, February 2023.
 
