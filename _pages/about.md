@@ -18,7 +18,7 @@ redirect_from:
 - My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. Currently I'm interested in problems related to GKZ hypergeometric systems, A-infinity categories and dg categories, categorical resolution of singularities, and invariants of algebraic varieties that are related to mirror symmetry (stringy Hodge numbers, elliptic genus, Gromov-Witten invariants etc).
 
 
-<p align="right"><font size=1>lebt wohl und vergeßt mich nicht ganz im Tode, ich habe es um euch verdient,<br /> indem ich in meinem Leben oft an euch gedacht, euch glücklich zu machen, seid es - <br /> --Ludwig van Beethoven</font> </p>
+<p align="right"><font size=1>lebt wohl und vergeßt mich nicht ganz im Tode, ich habe es um euch verdient,<br /> indem ich in meinem Leben oft an euch gedacht, euch glücklich zu machen, seid es - <br /> --Ludwig van Beethoven <br /> Heiligenstadt <br /> October 6th, 1802 </font> </p>
 
 <a href="https://info.flagcounter.com/u8zB"><img src="https://s11.flagcounter.com/count/u8zB/bg_FFFFFF/txt_000000/border_FFFFFF/columns_2/maxflags_6/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
