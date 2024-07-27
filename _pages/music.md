@@ -34,7 +34,7 @@ author_profile: true
 | 06/07/2024 | NYC | NY Phil | Fri, 8:00pm, Mahler Symphony No.2 "Resurrection" |
 | 06/18/2024 | Phildadelphia | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.6, Swan Lake (suite), the 1812 overture |
 | 07/15/2024 | Princeton, NJ | Balourdet Quartet | Mon, 7pm, Mozart String Quartet No.23, Beethoven String Quartet No.16 |
-| 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7:00pm, Mahler Symphony No.1 |
+| 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7pm, Mahler Symphony No.1 |
 
 # Concerts in 2024-2025 season:
 
