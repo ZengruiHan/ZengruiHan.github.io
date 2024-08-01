@@ -47,7 +47,7 @@ For a detailed description of these papers and projects, see [here](https://zeng
 
 # Talks and Presentations
 
-- [Richmond Geometry Meeting](https://math.vcu.edu/rgm/), Virginia Commonwealth University, Aug 2024. [Poster]
+- [Richmond Geometry Meeting](https://math.vcu.edu/rgm/), Virginia Commonwealth University, Aug 2024. [Poster](https://zengruihan.github.io/files/poster_virginia.pdf)
 
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, April 2024.
 
