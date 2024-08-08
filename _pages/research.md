@@ -17,14 +17,14 @@ The Pfaffian-Grassmannian double mirror is the first example of derived-equivale
 ## Stringy Hodge numbers of generalized Pfaffian double mirrors
 **In preparation.**
 
-The generalized Pfaffian double mirror is a generalization of the Pfaffian-Grassmannian double mirror. In the case of odd dimensions, Borisov and Libgober proved that the stringy Hodge numbers on the two sides coincide. The case of even dimension is more subtle since the two sides are not double mirror to each other in the strict sense (e.g. they have different dimensions). More precisely, a modification of discrepancy of resolution of singularities is needed to obtain the desired equality of Hodge numbers.
+The generalized Pfaffian double mirror is a generalization of the Pfaffian-Grassmannian double mirror. In the case of odd dimensions, Borisov and Libgober studied the stringy Hodge numbers on the two sides. This paper could be seen as a generalization of their result in the sense that we include the even dimensional cases, and allow the dimension of the generic subspace to vary, which is a crucial ingredient in the definition of the double mirror construction. We also make connections to Kuznetsov's Homological projective duality (HPD) for Pfaffian varieties.
 
 ***
 
 ## Central charges in local mirror symmetry via hypergeometric duality 
 **[arXiv:2404.16258](https://arxiv.org/abs/2404.16258)**. Submitted.
 
-In this paper we study the central charges of Hori-Vafa mirror pairs, where the A-model is given by a family of affine hypersurfaces in algebraic torus and the B-model is given by toric Calabi-Yau orbifolds.  We combine the tropical method of Abouzaid-Ganatra-Iritani-Sheridan and the hypergeometric duality of Borisov and myself to settle [a conjecture of Hosono](https://arxiv.org/abs/hep-th/0404043). This could also be seen as a generalization of the Gamma conjecture for the local mirror symmetry setting.
+In this paper we study central charges of Hori-Vafa mirror pairs, where the A-model is given by a family of affine hypersurfaces in an algebraic torus and the B-model is given by toric Calabi-Yau orbifolds.  We combine the tropical method of Abouzaid-Ganatra-Iritani-Sheridan and the hypergeometric duality of Borisov and myself to settle [Hosono's conjecture](https://arxiv.org/abs/hep-th/0404043). This could also be viewed as a generalization of the Gamma conjecture within the context of local mirror symmetry.
 
 ***
 
