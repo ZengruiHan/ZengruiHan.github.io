@@ -5,6 +5,32 @@ permalink: /music/
 author_profile: true
 ---
 
+
+# Concerts in 2024-2025 season:
+
+| Time | Location | Performed by | Remarks |
+| ---- | ---- | ---- | ---- |
+| 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
+| 11/23/2024 | NYC, Carnegie Hall | Royal Concertgebouw Orchestra | Sat, 8pm, Schoenberg Verklärte Nacht, Mahler Symphony No.1 "Titan" |
+| 11/23/2024 | NYC | NY Phil | Sat, 7:30pm, Beethoven Piano Concerto No.3 |
+| 11/30/2024 | NYC | NY Phil | Sat, 7:30pm, Chopin Piano Concerto No.2 |
+| 01/11/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.9 |
+| 01/25/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.6 |
+| 02/22/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
+| 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
+| 03/01/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
+| 03/08/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
+| 03/15/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mendelssohn Violin Concerto |
+| 03/29/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Cello Concerto |
+| 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
+| 04/10/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
+| 04/24/2025 | NYC, Carnegie Hall | Boston Symphony Orchestra | Thu, 8:00pm, Shostakovich Symphony No.11, "The Year 1905" |
+| 04/26/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
+| 05/29/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Beethoven Symphony No.9, "Choral" |
+
+
+
+
 # Concerts in 2023-2024 season:
 
 | Time | Location | Performed by | Remarks |
@@ -35,29 +61,6 @@ author_profile: true
 | 06/18/2024 | Phildadelphia | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.6, Swan Lake (suite), the 1812 overture |
 | 07/15/2024 | Princeton, NJ | Balourdet Quartet | Mon, 7pm, Mozart String Quartet No.23, Beethoven String Quartet No.16 |
 | 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7pm, Mahler Symphony No.1 |
-
-# Concerts in 2024-2025 season:
-
-| Time | Location | Performed by | Remarks |
-| ---- | ---- | ---- | ---- |
-| 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
-| 11/23/2024 | NYC, Carnegie Hall | Royal Concertgebouw Orchestra | Sat, 8pm, Schoenberg Verklärte Nacht, Mahler Symphony No.1 "Titan" |
-| 11/23/2024 | NYC | NY Phil | Sat, 7:30pm, Beethoven Piano Concerto No.3 |
-| 11/30/2024 | NYC | NY Phil | Sat, 7:30pm, Chopin Piano Concerto No.2 |
-| 01/11/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.9 |
-| 01/25/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.6 |
-| 02/22/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
-| 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
-| 03/01/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
-| 03/08/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
-| 03/15/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Mendelssohn Violin Concerto |
-| 03/29/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Cello Concerto |
-| 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
-| 04/10/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
-| 04/24/2025 | NYC, Carnegie Hall | Boston Symphony Orchestra | Thu, 8:00pm, Shostakovich Symphony No.11, "The Year 1905" |
-| 04/26/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
-| 05/29/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Beethoven Symphony No.9, "Choral" |
-
 
 
 
