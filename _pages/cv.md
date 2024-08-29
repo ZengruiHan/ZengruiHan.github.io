@@ -47,6 +47,8 @@ For a detailed description of these papers and projects, see [here](https://zeng
 
 # Talks and Presentations
 
+- [Columbia Enumerative Geometry Seminar](https://www.math.columbia.edu/~ccliu/Seminars/EG_F24.html), Columbia University, Sept 2024.
+
 - [Richmond Geometry Meeting](https://math.vcu.edu/rgm/), Virginia Commonwealth University, Aug 2024. [Poster](https://zengruihan.github.io/files/poster_virginia.pdf)
 
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, April 2024.
