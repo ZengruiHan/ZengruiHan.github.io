@@ -13,7 +13,7 @@ redirect_from:
 
 - I will be on the job market this fall.
 
-- I’m a fourth year Ph.D. student at the Department of Mathematics of Rutgers University, working under <a href="https://sites.math.rutgers.edu/~borisov/">Professor Lev Borisov</a>. I obtained my bachelor's degree from University of Science and Technology of China (USTC) in 2020.
+- I’m a fifth year Ph.D. student at the Department of Mathematics of Rutgers University, working under <a href="https://sites.math.rutgers.edu/~borisov/">Professor Lev Borisov</a>. I obtained my bachelor's degree from University of Science and Technology of China (USTC) in 2020.
 
 - My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. See my research statement (in preparation) or [this page](https://zengruihan.github.io/research/) for a more detailed description of what I have done so far and what I'm planning to do in the future.
 
