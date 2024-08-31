@@ -10,7 +10,7 @@ author_profile: true
 
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
-| 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Listz Piano Sonata in B minor |
+| 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
 | 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
 | 11/23/2024 | NYC, Carnegie Hall | Royal Concertgebouw Orchestra | Sat, 8pm, Schoenberg Verklärte Nacht, Mahler Symphony No.1 "Titan" |
 | 11/23/2024 | NYC | NY Phil | Sat, 7:30pm, Beethoven Piano Concerto No.3 |
