@@ -73,18 +73,18 @@ author_profile: true
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" |  |
 | Op.58 | Piano Concerto No.4 in G major |  |
 | Op.61 | Violin Concerto in D major |  |
-| Op.67 | Symphony No.5 in C minor |  |
+| Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY  |
 | Op.68 | Symphony No.6 in F major, "Pastoral" |  |
 | Op.73 | Piano Concerto No.5 in E flat major, "Emperor" |  |
 | Op.90 | Piano Sonata No.27 in E minor |  |
 | Op.92 | Symphony No.7 in A major |  |
 | Op.110 | Piano Sonata No.31 in A flat major |  |
 | Op.125 | Symphony No.9 in D minor, "Choral" |  |
-| Op.130 | String Quartet No.13 in B flat major |  |
-| Op.131 | String Quartet No.14 in C sharp minor |  |
-| Op.132 | String Quartet No.15 in A minor |  |
-| Op.133 | Grosse Fuge |  |
-| Op.135 | String Quartet No.16 in F minor |  |
+| Op.130 | String Quartet No.13 in B flat major | 09/22/2023, Emerson String Quartet, Cleveland, OH |
+| Op.131 | String Quartet No.14 in C sharp minor | 10/15/2023, Emerson String Quartet, Cleveland, OH |
+| Op.132 | String Quartet No.15 in A minor | 03/01/2024, Hagen Quartet, Philadelphia, PA |
+| Op.133 | Grosse Fuge | 09/22/2023, Emerson String Quartet, Cleveland, OH |
+| Op.135 | String Quartet No.16 in F minor | 07/15/2024, Balourdet Quartet, Princeton, NJ |
 
 
 
