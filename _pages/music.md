@@ -65,12 +65,28 @@ author_profile: true
 | 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7pm, Mahler Symphony No.1 |
 
 
-# List of works by Beethoven (with opus numbers)
+# Beethoven's works that I've listened to in a live performance 
 
-| opus | works | live performance? |
+| opus | works | remarks |
 | ---- | ---- | ---- |
-| Op.1 | No.1: Piano Trio No.1 in E flat major <br> No.2: Piano Trio No.2 in G major <br> No.3: Piano Trio No.3 in C minor |  |
-| Op.2 | No.1: Piano Sonata No.1 in F minor <br> No.2: Piano Sonata No.2 in A major <br> No.3: Piano Sonata No.3 in C major |  |
+| Op.55 | Symphony No.3 in E flat major, "Eroica" |  |
+| Op.57 | Piano Sonata No.23 in F minor, "Appassionata" |  |
+| Op.58 | Piano Concerto No.4 in G major |  |
+| Op.61 | Violin Concerto in D major |  |
+| Op.67 | Symphony No.5 in C minor |  |
+| Op.68 | Symphony No.6 in F major, "Pastoral" |  |
+| Op.73 | Piano Concerto No.5 in E flat major, "Emperor" |  |
+| Op.90 | Piano Sonata No.27 in E minor |  |
+| Op.92 | Symphony No.7 in A major |  |
+| Op.110 | Piano Sonata No.31 in A flat major |  |
+| Op.125 | Symphony No.9 in D minor, "Choral" |  |
+| Op.130 | String Quartet No.13 in B flat major |  |
+| Op.131 | String Quartet No.14 in C sharp minor |  |
+| Op.132 | String Quartet No.15 in A minor |  |
+| Op.133 | Grosse Fuge |  |
+| Op.135 | String Quartet No.16 in F minor |  |
+
+
 
 
 
