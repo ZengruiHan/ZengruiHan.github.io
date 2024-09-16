@@ -65,9 +65,12 @@ author_profile: true
 | 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7pm, Mahler Symphony No.1 |
 
 
+# List of works by Beethoven (with opus numbers)
 
-
-
+| Opus | Location | Performed by |
+| ---- | ---- | ---- |
+| Op.1 | No.1: Piano Trio No.1 in E flat major <br> No.2: Piano Trio No.2 in G major <br> No.3: Piano Trio No.3 in C minor |  |
+| Op.2 | No.1: Piano Sonata No.1 in F minor <br> No.2: Piano Sonata No.2 in A major <br> No.3: Piano Sonata No.3 in C major |  |
 
 
 
