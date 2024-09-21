@@ -65,6 +65,7 @@ For a detailed description of these papers and projects, see [here](https://zeng
 
 ### Rutgers University
 
+- Math 551: Abstract Algebra I, TA, Fall 2024
 - Math 111: Precalculus, TA, Spring 2024
 - Math 552: Abstract Algebra II, TA, Spring 2024
 - Math 551: Abstract Algebra I, TA, Fall 2023
