@@ -13,6 +13,11 @@ author_profile: true
 | 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
 | 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
 | 10/11/2024 | NYC, Carnegie Hall | Xiyao Luo | Fri, 8pm, Beethoven Piano Sonata No.5, Op.10 No.1 |
+| 10/20/2024 | NYC, Alice Tully Hall |  | Sun, 5pm, Beethoven Septet in E-flat major for Winds and Strings, Op. 20 |
+| 10/22/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.1-3, Op.18 No.1-3 |
+| 10/25/2024 | NYC, Alice Tully Hall |  | Fri, 7:30pm, Beethoven Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 |
+| 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven Beethoven String Quartets No.4-6, Op.18 No.4-6 |
+
 | 11/23/2024 | NYC, Carnegie Hall | Royal Concertgebouw Orchestra | Sat, 8pm, Schoenberg Verklärte Nacht, Mahler Symphony No.1 "Titan" |
 | 11/23/2024 | NYC | NY Phil | Sat, 7:30pm, Beethoven Piano Concerto No.3 |
 | 11/30/2024 | NYC | NY Phil | Sat, 7:30pm, Chopin Piano Concerto No.2 |
@@ -29,6 +34,9 @@ author_profile: true
 | 04/10/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
 | 04/24/2025 | NYC, Carnegie Hall | Boston Symphony Orchestra | Thu, 8:00pm, Shostakovich Symphony No.11, "The Year 1905" |
 | 04/26/2025 | Phildadelphia | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
+| 05/06/2025 | NYC, Alice Tully Hall |  | Tue, 7:30pm, Beethoven Sonata in D major for Cello and Piano, Op.102, No.2 |
+| 05/09/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Fri, 7:30pm, Beethoven String Quartets No.13 (with Grosse Fuge) and No.15, Op.130, 132, 133 |
+| 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
 | 05/29/2025 | Phildadelphia | Phil Orch | Thu, 7:30pm, Beethoven Symphony No.9, "Choral" |
 
 
