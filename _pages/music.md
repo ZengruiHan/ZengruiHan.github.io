@@ -12,6 +12,7 @@ author_profile: true
 | ---- | ---- | ---- | ---- |
 | 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
 | 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
+| 10/11/2024 | NYC, Carnegie Hall | Xiyao Luo | Fri, 8pm, Beethoven Piano Sonata No.5, Op.10 No.1 |
 | 11/23/2024 | NYC, Carnegie Hall | Royal Concertgebouw Orchestra | Sat, 8pm, Schoenberg Verklärte Nacht, Mahler Symphony No.1 "Titan" |
 | 11/23/2024 | NYC | NY Phil | Sat, 7:30pm, Beethoven Piano Concerto No.3 |
 | 11/30/2024 | NYC | NY Phil | Sat, 7:30pm, Chopin Piano Concerto No.2 |
