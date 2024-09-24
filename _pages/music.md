@@ -11,6 +11,7 @@ author_profile: true
 | Time | Location | Performed by | Remarks |
 | ---- | ---- | ---- | ---- |
 | 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
+| 09/27/2024 | Phildadelphia | Phil Orch & Seong-Jin Cho | Fri, 2pm, Beethoven Piano Concerto No.2 & Bruckner Symphony No.7 |
 | 10/05/2024 | Phildadelphia | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
 | 10/11/2024 | NYC, Carnegie Hall | Xiyao Luo | Fri, 8pm, Beethoven Piano Sonata No.5, Op.10 No.1 |
 | 10/20/2024 | NYC, Alice Tully Hall |  | Sun, 5pm, Beethoven Septet in E-flat major for Winds and Strings, Op. 20 |
