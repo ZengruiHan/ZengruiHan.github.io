@@ -85,15 +85,26 @@ author_profile: true
 | 01/21/2023 | Philadelphia, PA | Phil Orch & Seong-Jin Cho | Sat, 8pm, Brahms Piano Concerto No.2 |
 | 02/03/2023 | Philadelphia, PA | Phil Orch & Tony Siqi Yun | Fri, 2pm, Schumann Piano Concerto |
 | 02/10/2023 | Philadelphia, PA | Phil Orch & Gil Shaham | Fri, 2pm, Brahms Violin Concerto |
+| 03/04/2023 | Philadelphia, PA | Phil Orch, Herbert Blomstedt, Emanuel Ax | Sat, 8pm, Mozart Piano Concerto No.18, Bruckner Symphony No.4 "Romantic" |
 | 03/11/2023 | East Brunswick, NJ | Daniel Colalillo | Sat, 7pm, Beethoven Piano Sonata No.23 with pieces of Schubert, Liszt, Chopin, Rachmaninoff |
 | 03/19/2023 | Fair Lawn, NJ | Adelphi Orchestra & Ming-Feng Hsin | Sun, 2pm, Dvorak Cello Concerto, Mendelssohn Symphony No.4 "Italian" |
+| 04/01/2023 | Philadelphia, PA | Phil Orch | Sat, 8pm, Stravinsky "The Rite of Spring" |
+| 04/14/2023 | Philadelphia, PA | Phil Orch | Fri, 2pm, Strauss "Also sprach Zarathustra" |
+| 05/06/2023 | Philadelphia, PA | Phil Orch | Sat, 8pm, Bruckner Symphony No.9 & Te Deum |
+| 05/11/2023 | Philadelphia, PA | Phil Orch | Thu, 7:30pm, Berlioz Symphonie fantastique |
+| 05/18/2023 | Philadelphia, PA | Phil Orch | Thu, 8pm, Beethoven Symphony No.9 "Choral" |
+| 06/20/2023 | Philadelphia, PA | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.5, "Romeo and Juliet", 1812 Overture |
 
 
 # Concerts in 2021-2022 season:
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
+| 05/06/2022 | Philadelphia, PA | Evgeny Kissin | Fri, 8pm, Various pieces including Beethoven Piano Sonata No.31 |
+| 05/14/2022 | Philadelphia, PA | Phil Orch & Daniel Lozakovich | Sat, 8pm, Prokofiev Violin Concerto No.2 & Tchaikovsky Symphony No.6 |
 | 05/22/2022 | Fair Lawn, NJ | Adelphi Orchestra & Bethany Bobbs | Sun, 2pm, Beethoven Violin Concerto |
+| 06/04/2022 | Philadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Symphony No.9 "Choral" |
+
 
 
 
@@ -104,17 +115,17 @@ author_profile: true
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
 | Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) |
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
-| Op.58 | Piano Concerto No.4 in G major |  |
+| Op.58 | Piano Concerto No.4 in G major | 01/05/2024, NY Philharmonic, NYC |
 | Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
 | Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY  |
-| Op.68 | Symphony No.6 in F major, "Pastoral" |  |
-| Op.73 | Piano Concerto No.5 in E flat major, "Emperor" |  |
-| Op.90 | Piano Sonata No.27 in E minor |  |
-| Op.92 | Symphony No.7 in A major |  |
-| Op.110 | Piano Sonata No.31 in A flat major |  |
-| Op.125 | Symphony No.9 in D minor, "Choral" |  |
+| Op.68 | Symphony No.6 in F major, "Pastoral" | 11/17/2023, Philadelphia Orchestra, Philadelphia, PA |
+| Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA |
+| Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
+| Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA |
+| Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
+| Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY |
 | Op.130 | String Quartet No.13 in B flat major | 09/22/2023, Emerson String Quartet, Cleveland, OH |
-| Op.131 | String Quartet No.14 in C sharp minor | 10/15/2023, Emerson String Quartet, Cleveland, OH |
+| Op.131 | String Quartet No.14 in C sharp minor | 10/15/2023, Emerson String Quartet, Cleveland, OH <br> 03/21/2024, Quatuor Van Kuijk, NYC |
 | Op.132 | String Quartet No.15 in A minor | 03/01/2024, Hagen Quartet, Philadelphia, PA |
 | Op.133 | Grosse Fuge | 09/22/2023, Emerson String Quartet, Cleveland, OH |
 | Op.135 | String Quartet No.16 in F minor | 07/15/2024, Balourdet Quartet, Princeton, NJ |
