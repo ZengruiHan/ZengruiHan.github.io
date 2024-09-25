@@ -79,8 +79,11 @@ author_profile: true
 | ---- | ---- | ---- | ---- |
 | 09/30/2022 | Fair Lawn, NJ | Adelphi Orchestra | Fri, 7:30pm, Brahms Symphony No.1 |
 | 10/01/2022 | Philadelphia, PA | Phil Orch & Daniil Trifonov | Sat, 8pm, Liszt Piano Concerto No.1 & Dvorak Symphony No.8 |
-| 10/15/2023 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concert & Debussy La Mer |
-| 12/03/2023 | Philadelphia, PA | Phil Orch | Sat, 8pm, Dvorak Symphony No.9 |
+| 10/08/2022 | Red Bank, NJ | NJ Symphony & Yefim Bronfman | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
+| 10/17/2022 | Princeton, NJ | NJ Symphony | Fri, 8pm, Brahms Symphony No.4 |
+
+| 10/15/2022 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concert & Debussy La Mer |
+| 12/03/2022 | Philadelphia, PA | Phil Orch | Sat, 8pm, Dvorak Symphony No.9 |
 | 01/06/2023 | Princeton, NJ | New Jersey Symphony & Daniil Trifonov | Fri, 8pm, Brahms Piano Concerto No.2 |
 | 01/21/2023 | Philadelphia, PA | Phil Orch & Seong-Jin Cho | Sat, 8pm, Brahms Piano Concerto No.2 |
 | 02/03/2023 | Philadelphia, PA | Phil Orch & Tony Siqi Yun | Fri, 2pm, Schumann Piano Concerto |
@@ -93,6 +96,8 @@ author_profile: true
 | 05/06/2023 | Philadelphia, PA | Phil Orch | Sat, 8pm, Bruckner Symphony No.9 & Te Deum |
 | 05/11/2023 | Philadelphia, PA | Phil Orch | Thu, 7:30pm, Berlioz Symphonie fantastique |
 | 05/18/2023 | Philadelphia, PA | Phil Orch | Thu, 8pm, Beethoven Symphony No.9 "Choral" |
+| 06/02/2023 | Princeton, NJ | NJ Symphony & Randall Goosby | Fri, 8pm, Tchaikovsky Violin Concerto |
+| 06/10/2023 | Red Bank, NJ | NJ Symphony | Sat, 8pm, Stravinsky "The Rite of Spring" |
 | 06/20/2023 | Philadelphia, PA | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.5, "Romeo and Juliet", 1812 Overture |
 
 
