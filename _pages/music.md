@@ -8,7 +8,7 @@ author_profile: true
 
 # Concerts in 2024-2025 season:
 
-| Time | Location | Performed by | Remarks |
+| Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
 | 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
 | 09/27/2024 | Phildadelphia, PA | Phil Orch & Seong-Jin Cho | Fri, 2pm, Beethoven Piano Concerto No.2 & Bruckner Symphony No.7 |
@@ -44,7 +44,7 @@ author_profile: true
 
 # Concerts in 2023-2024 season:
 
-| Time | Location | Performed by | Remarks |
+| Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
 | 09/22/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.13 (Op.130) with Grosse Fuge (Op.133) |
 | 10/07/2023 | Philadelphia, PA | Phil Orch | Gershwin Piano Concerto |
@@ -75,7 +75,7 @@ author_profile: true
 
 # Concerts in 2022-2023 season:
 
-| Time | Location | Performed by | Remarks |
+| Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
 | 10/01/2022 | Philadelphia, PA | Phil Orch & Daniil Trifonov | Sat, 8pm, Liszt Piano Concerto No.1 & Dvorak Symphony No.8 |
 | 10/15/2023 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concert & Debussy La Mer |
