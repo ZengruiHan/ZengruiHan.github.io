@@ -49,7 +49,7 @@ author_profile: true
 | 09/22/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.13 (Op.130) with Grosse Fuge (Op.133) |
 | 10/07/2023 | Philadelphia, PA | Phil Orch | Gershwin Piano Concerto |
 | 10/15/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.14 (Op.131) |
-| 11/05/2023 | Fair Lawn, NJ | Adelphi Orch | Sun, 2pm, Beethoven Violin Concerto |
+| 11/05/2023 | Fair Lawn, NJ | Adelphi Orch & Nathan Meltzer | Sun, 2pm, Beethoven Violin Concerto |
 | 11/10/2023 | NYC | NY Phil | Fri, 8:00pm, Beethoven Violin Concerto |
 | 11/17/2023 | Phildadelphia, PA | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
 | 12/01/2023 | Phildadelphia, PA | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
@@ -77,6 +77,7 @@ author_profile: true
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
+| 09/30/2022 | Fair Lawn, NJ | Adelphi Orchestra | Fri, 7:30pm, Brahms Symphony No.1 |
 | 10/01/2022 | Philadelphia, PA | Phil Orch & Daniil Trifonov | Sat, 8pm, Liszt Piano Concerto No.1 & Dvorak Symphony No.8 |
 | 10/15/2023 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concert & Debussy La Mer |
 | 12/03/2023 | Philadelphia, PA | Phil Orch | Sat, 8pm, Dvorak Symphony No.9 |
@@ -84,6 +85,16 @@ author_profile: true
 | 01/21/2023 | Philadelphia, PA | Phil Orch & Seong-Jin Cho | Sat, 8pm, Brahms Piano Concerto No.2 |
 | 02/03/2023 | Philadelphia, PA | Phil Orch & Tony Siqi Yun | Fri, 2pm, Schumann Piano Concerto |
 | 02/10/2023 | Philadelphia, PA | Phil Orch & Gil Shaham | Fri, 2pm, Brahms Violin Concerto |
+| 03/11/2023 | East Brunswick, NJ | Daniel Colalillo | Sat, 7pm, Beethoven Piano Sonata No.23 with pieces of Schubert, Liszt, Chopin, Rachmaninoff |
+| 03/19/2023 | Fair Lawn, NJ | Adelphi Orchestra & Ming-Feng Hsin | Sun, 2pm, Dvorak Cello Concerto, Mendelssohn Symphony No.4 "Italian" |
+
+
+# Concerts in 2021-2022 season:
+
+| Date | Location | Performers | Remarks |
+| ---- | ---- | ---- | ---- |
+| 05/22/2022 | Fair Lawn, NJ | Adelphi Orchestra & Bethany Bobbs | Sun, 2pm, Beethoven Violin Concerto |
+
 
 
 # Beethoven's works that I've listened to in a live performance 
@@ -92,9 +103,9 @@ author_profile: true
 | ---- | ---- | ---- |
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
 | Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) |
-| Op.57 | Piano Sonata No.23 in F minor, "Appassionata" |  |
+| Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
 | Op.58 | Piano Concerto No.4 in G major |  |
-| Op.61 | Violin Concerto in D major |  |
+| Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
 | Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY  |
 | Op.68 | Symphony No.6 in F major, "Pastoral" |  |
 | Op.73 | Piano Concerto No.5 in E flat major, "Emperor" |  |
