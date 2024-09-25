@@ -81,7 +81,6 @@ author_profile: true
 | 10/01/2022 | Philadelphia, PA | Phil Orch & Daniil Trifonov | Sat, 8pm, Liszt Piano Concerto No.1 & Dvorak Symphony No.8 |
 | 10/08/2022 | Red Bank, NJ | NJ Symphony & Yefim Bronfman | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
 | 10/17/2022 | Princeton, NJ | NJ Symphony | Fri, 8pm, Brahms Symphony No.4 |
-
 | 10/15/2022 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concert & Debussy La Mer |
 | 12/03/2022 | Philadelphia, PA | Phil Orch | Sat, 8pm, Dvorak Symphony No.9 |
 | 01/06/2023 | Princeton, NJ | New Jersey Symphony & Daniil Trifonov | Fri, 8pm, Brahms Piano Concerto No.2 |
