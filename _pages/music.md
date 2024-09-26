@@ -17,6 +17,7 @@ author_profile: true
 | 10/20/2024 | NYC, Alice Tully Hall |  | Sun, 5pm, Beethoven Septet in E-flat major for Winds and Strings, Op. 20 |
 | 10/22/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.1-3, Op.18 No.1-3 |
 | 10/25/2024 | NYC, Alice Tully Hall |  | Fri, 7:30pm, Beethoven Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 |
+| 10/26/2024 | Phildadelphia, PA | Phil Orch & Riccardo Muti | Sat, 8pm, Verdi, Requiem |
 | 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven Beethoven String Quartets No.4-6, Op.18 No.4-6 |
 | 11/12/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven String Quartet No.8, "Rasumovsky", Op.59 No.2 |
 | 11/23/2024 | NYC, Carnegie Hall | Royal Concertgebouw Orchestra | Sat, 8pm, Schoenberg Verklärte Nacht, Mahler Symphony No.1 "Titan" |
