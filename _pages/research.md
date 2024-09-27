@@ -15,7 +15,7 @@ The Pfaffian-Grassmannian double mirror is the first example of derived-equivale
 ***
 
 ## Stringy Hodge numbers of generalized Pfaffian double mirrors
-**[arXiv:2409.17449](https://arxiv.org/abs/2409.17449)**
+**[arXiv:2409.17449](https://arxiv.org/abs/2409.17449)**.
 
 We study the stringy Hodge numbers of Pfaffian double mirrors, generalizing previous results of Borisov and Libgober. In the even-dimensional cases, we introduce a modified version of stringy E-functions and obtain interesting relations between the modified stringy E-functions on the two sides. We use them to make numerical predictions on the Lefschetz decompositions of the categorical crepant resolutions of Pfaffian varieties.
 
