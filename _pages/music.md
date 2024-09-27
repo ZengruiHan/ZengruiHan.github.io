@@ -119,6 +119,7 @@ author_profile: true
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
+| Op.19 | Piano Concerto No. 2 in B-flat major | 09/27/2024, Phil Orch & Seong-Jin Cho, Philadelphia, PA | 
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
 | Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) |
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
