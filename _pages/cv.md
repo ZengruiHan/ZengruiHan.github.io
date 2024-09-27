@@ -33,7 +33,7 @@ For a detailed description of these papers and projects, see [here](https://zeng
 
 - Elliptic genera of Pfaffian-Grassmannian double mirrors, in progress.
 
-- Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality, in preparation.
+- Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality, [[arXiv:2409.17449]](https://arxiv.org/abs/2409.17449).
 
 - Central charges in local mirror symmetry via hypergeometric duality. [[arXiv:2404.16258]](https://arxiv.org/abs/2404.16258). Submitted.
 
