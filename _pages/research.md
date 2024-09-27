@@ -15,9 +15,9 @@ The Pfaffian-Grassmannian double mirror is the first example of derived-equivale
 ***
 
 ## Stringy Hodge numbers of generalized Pfaffian double mirrors
-**In preparation.**
+**[arXiv:2409.17449](https://arxiv.org/abs/2409.17449)**
 
-The generalized Pfaffian double mirror is a generalization of the Pfaffian-Grassmannian double mirror. In the case of odd dimensions, Borisov and Libgober studied the stringy Hodge numbers on the two sides. This paper could be seen as a generalization of their result in the sense that we include the even dimensional cases, and allow the dimension of the generic subspace to vary, which is a crucial ingredient in the definition of the double mirror construction. We also make connections to Kuznetsov's Homological projective duality (HPD) for Pfaffian varieties.
+We study the stringy Hodge numbers of Pfaffian double mirrors, generalizing previous results of Borisov and Libgober. In the even-dimensional cases, we introduce a modified version of stringy E-functions and obtain interesting relations between the modified stringy E-functions on the two sides. We use them to make numerical predictions on the Lefschetz decompositions of the categorical crepant resolutions of Pfaffian varieties.
 
 ***
 
