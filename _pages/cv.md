@@ -29,7 +29,6 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Publications and preprints
 
-For a detailed description of these papers and projects, see [here](https://zengruihan.github.io/research).
 
 - Elliptic genera of Pfaffian-Grassmannian double mirrors, in progress.
 
@@ -72,15 +71,12 @@ For a detailed description of these papers and projects, see [here](https://zeng
 - Math 477: Mathematical Theory of Probability, TA, Fall 2023
 - Math 244: Differential Equations for Engineering and Physics, TA, Spring 2023
 - Math 354: Linear Optimization, TA, Fall 2022
-- Math 501: Theory of Functions of a Real Variable I, Grader, Fall 2022
-- Math 251: Multivariable Calculus, Grader, Summer 2022
 - Math 251: Multivariable Calculus, TA, Spring 2022
 - Math 251H: Multivariable Calculus, TA, Fall 2021
-- Math 503: Theory of Functions of a Complex Variable I, Grader, Fall 2021
 
 ### University of Science and Technology of China
 
-- Foundation of Algebra, Teaching Assistant, Fall 2019
-- Modern Algebra, Teaching Assistant, Spring 2019
-- Foundation of Algebra, Teaching Assistant, Fall 2018
+- Foundation of Algebra, TA, Fall 2019
+- Modern Algebra, TA, Spring 2019
+- Foundation of Algebra, TA, Fall 2018
 
