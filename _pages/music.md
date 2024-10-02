@@ -38,6 +38,7 @@ author_profile: true
 | 04/24/2025 | NYC, Carnegie Hall | Boston Symphony Orchestra | Thu, 8:00pm, Shostakovich Symphony No.11, "The Year 1905" |
 | 04/26/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
 | 05/01/2025 | NYC, Carnegie Hall | Emanuel Ax | Thu, 8pm, Beethoven Piano Sonatas No.13 & 14, Op.27 No.1 & 2 |
+| 05/04/2025 | NYC, Carnegie Hall | Pierre-Laurent Aimard | Sun, 3pm, Beethoven Fantasia in G minor, Op.77 |
 | 05/06/2025 | NYC, Alice Tully Hall |  | Tue, 7:30pm, Beethoven Sonata in D major for Cello and Piano, Op.102, No.2 |
 | 05/09/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Fri, 7:30pm, Beethoven String Quartets No.13 (with Grosse Fuge) and No.15, Op.130, 132, 133 |
 | 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
