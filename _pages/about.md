@@ -15,7 +15,7 @@ redirect_from:
 
 - I’m a fifth year Ph.D. student at the Department of Mathematics of Rutgers University, working under <a href="https://sites.math.rutgers.edu/~borisov/">Professor Lev Borisov</a>. I obtained my bachelor's degree from University of Science and Technology of China (USTC) in 2020.
 
-- My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. See my [research statement](https://zengruihan.github.io/files/Research%20Statement.pdf) for details.
+- My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. 
 
 
 <p align="right"><font size=1>lebt wohl und vergeßt mich nicht ganz im Tode, ich habe es um euch verdient,<br /> indem ich in meinem Leben oft an euch gedacht, euch glücklich zu machen, seid es - <br /> Ludwig van Beethoven <br /> Heiligenstadt <br /> October 6th, 1802 </font> </p>
