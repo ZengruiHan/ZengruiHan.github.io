@@ -46,6 +46,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Talks and Presentations
 
+- [Western Algebraic Geometry Symposium](https://sites.google.com/a/wagsymposium.org/current/ua-fall-2024?authuser=0), University of Arizona, Nov 2024. Poster
+
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, Oct 2024.
 
 - [Columbia Enumerative Geometry Seminar](https://www.math.columbia.edu/~ccliu/Seminars/EG_F24.html), Columbia University, Sept 2024.
