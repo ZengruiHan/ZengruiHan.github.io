@@ -13,6 +13,7 @@ author_profile: true
 | 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
 | 09/27/2024 | Phildadelphia, PA | Phil Orch & Seong-Jin Cho | Fri, 2pm, Beethoven Piano Concerto No.2 & Bruckner Symphony No.7 |
 | 10/05/2024 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
+| 10/10/2024 | Fair Lawn, NJ | Adelphi Orchestra | Thu, 7:30pm, Beethoven Symphony No.3, "Eroica" |
 | 10/11/2024 | NYC, Carnegie Hall | Xiyao Luo | Fri, 8pm, Beethoven Piano Sonata No.5, Op.10 No.1 |
 | 10/20/2024 | NYC, Alice Tully Hall |  | Sun, 5pm, Beethoven Septet in E-flat major for Winds and Strings, Op. 20 |
 | 10/22/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.1-3, Op.18 No.1-3 |
@@ -124,7 +125,7 @@ author_profile: true
 | Op.19 | Piano Concerto No. 2 in B-flat major | 09/27/2024, Phil Orch & Seong-Jin Cho, Philadelphia, PA | 
 | Op.47 | Sonata for Violin and Piano No. 9 in A major, "Kreutzer" | 02/24/2024, Itzhak Perlman, New Brunswick, NJ |
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
-| Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) |
+| Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) <br> 10/10/2024, Adelphi Orchestra, Fair Lawn, NJ |
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
 | Op.58 | Piano Concerto No.4 in G major | 01/05/2024, NY Philharmonic, NYC |
 | Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
