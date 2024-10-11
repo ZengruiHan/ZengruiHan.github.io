@@ -32,6 +32,7 @@ author_profile: true
 | 03/08/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
 | 03/15/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Mendelssohn Violin Concerto |
 | 03/29/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Schumann Cello Concerto |
+| 03/29/2025 | NYC, 92NY center | Leonkoro Quartet | Sat, 7:30pm, Beethoven String Quartet in A minor, Op.132 |
 | 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
 | 04/08/2025 | Phildadelphia, PA | Doric Quartet | Tue, 7:30pm, Beethoven String Quartet No.15 & 16 |
 | 04/10/2025 | Phildadelphia, PA | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
