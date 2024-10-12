@@ -123,6 +123,7 @@ author_profile: true
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
+| Op.10 | Piano Sonata No.5 in C minor, Op.10 No.1 | 10/11/2024, Xiyao Luo, New York City, NY | 
 | Op.19 | Piano Concerto No. 2 in B-flat major | 09/27/2024, Phil Orch & Seong-Jin Cho, Philadelphia, PA | 
 | Op.47 | Sonata for Violin and Piano No. 9 in A major, "Kreutzer" | 02/24/2024, Itzhak Perlman, New Brunswick, NJ |
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
