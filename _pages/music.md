@@ -24,8 +24,6 @@ author_profile: true
 | 11/23/2024 | NYC | NY Phil | Sat, 7:30pm, Beethoven Piano Concerto No.3 |
 | 11/30/2024 | NYC | NY Phil | Sat, 7:30pm, Chopin Piano Concerto No.2 |
 | 12/10/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven String Quartet No.9, "Rasumovsky", Op.59 No.3 |
-| 01/11/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Mahler Symphony No.9 |
-| 01/25/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.6 |
 | 02/22/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
 | 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
 | 03/01/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
