@@ -8,6 +8,16 @@ redirect_from:
 
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QXQBFVXYCD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QXQBFVXYCD');
+</script>
+
 
 A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
