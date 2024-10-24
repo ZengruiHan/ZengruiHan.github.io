@@ -49,17 +49,19 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - [Western Algebraic Geometry Symposium](https://sites.google.com/a/wagsymposium.org/current/ua-fall-2024?authuser=0), University of Arizona, Nov 2024. Poster
 
+- [Algebraic Geometry Northeastern Series](https://sites.google.com/site/agneshomepage/dartmouth-2024?authuser=0), 5-minute talk & poster, Dartmouth College, Nov 2024. 
+
 - [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, Oct 2024.
 
 - [Columbia Enumerative Geometry Seminar](https://www.math.columbia.edu/~ccliu/Seminars/EG_F24.html), Columbia University, Sept 2024.
 
 - [Richmond Geometry Meeting](https://math.vcu.edu/rgm/), Virginia Commonwealth University, Aug 2024. [Poster](https://zengruihan.github.io/files/poster_virginia.pdf)
 
-- [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, April 2024.
+- [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, Apr 2024.
 
-- [Algebraic Geometry Northeastern Series](https://sites.google.com/site/agneshomepage/upenn-2023?authuser=0), 5-minute talk, University of Pennsylvania, October 2023. [Slides](https://zengruihan.github.io/files/GKZ.pdf) (See also the [talk](https://www.youtube.com/watch?v=3hhRGgBJdZU&t=15s) given by Lev Borisov based on the same project)
+- [Algebraic Geometry Northeastern Series](https://sites.google.com/site/agneshomepage/upenn-2023?authuser=0), 5-minute talk, University of Pennsylvania, Oct 2023. [Slides](https://zengruihan.github.io/files/GKZ.pdf) (See also the [talk](https://www.youtube.com/watch?v=3hhRGgBJdZU&t=15s) given by Lev Borisov based on the same project)
 
-- [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, February 2023.
+- [Rutgers Algebra Seminar](https://sites.math.rutgers.edu/~weibel/algebra.seminar.html), Rutgers University, Feb 2023.
 
 ------------------------------------------------
 
