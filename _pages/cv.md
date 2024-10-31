@@ -37,7 +37,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - Central charges in local mirror symmetry via hypergeometric duality. [[arXiv:2404.16258]](https://arxiv.org/abs/2404.16258). Submitted.
 
-- Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. [[arXiv:2305.12241]](https://arxiv.org/abs/2305.12241). Under revision.
+- Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. **Épijournal de Géométrie Algébrique**, to appear. [[arXiv:2305.12241]](https://arxiv.org/abs/2305.12241)
 
 - On hypergeometric duality conjecture, with Lev Borisov. **Advances in Mathematics**, Volume 442 (2024), 109582. [[arXiv:2301.01374]](https://arxiv.org/abs/2301.01374) [[journal]](https://www.sciencedirect.com/science/article/pii/S0001870824000975)
 
