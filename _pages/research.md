@@ -15,7 +15,7 @@ The Pfaffian-Grassmannian double mirror is the first example of derived-equivale
 ***
 
 ## Stringy Hodge numbers of generalized Pfaffian double mirrors
-**[arXiv:2409.17449](https://arxiv.org/abs/2409.17449)**.
+**[arXiv:2409.17449](https://arxiv.org/abs/2409.17449)**. Submitted.
 
 We study the stringy Hodge numbers of Pfaffian double mirrors, generalizing previous results of Borisov and Libgober. In the even-dimensional cases, we introduce a modified version of stringy E-functions and obtain interesting relations between the modified stringy E-functions on the two sides. We use them to make numerical predictions on the Lefschetz decompositions of the categorical crepant resolutions of Pfaffian varieties.
 
@@ -29,7 +29,7 @@ In this paper we study central charges of Hori-Vafa mirror pairs, where the A-mo
 ***
 
 ## Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms
-**Under minor revision at Épijournal de Géométrie Algébrique. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241).**
+**Épijournal de Géométrie Algébrique, to appear. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241).**
 
 A companion paper to the paper "On hypergeometric duality conjecture". We settled the analytic continuation conjecture of Borisov-Horja in full generality. We use the tool of Mellin-Branes integral to compute analytic continuations of hypergeometric series.
 
