@@ -18,7 +18,7 @@ redirect_from:
 
 - My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. Currently I'm interested in the following two kinds of questions:
   - Toric mirror symmetry. For example, understanding derived equivalence between different crepant resolutions of affine toric Gorenstein singularities (categorification of GKZ systems), unification of different combinatorial mirror constructions (Batyrev-Borisov and Berglund-Hübsch-Krawitz), relations to tropical geometry, etc.
-  - Homological Projective Duality. For example, explicit constructions of the HP duals of some specific varieties.
+  - Derived categories of algebraic varieties. For example, questions related to Kuznetsov's Homological Projective Duality.
 
 
 <p align="right"><font size=1>lebt wohl und vergeßt mich nicht ganz im Tode, ich habe es um euch verdient,<br /> indem ich in meinem Leben oft an euch gedacht, euch glücklich zu machen, seid es - <br /> Ludwig van Beethoven <br /> Heiligenstadt <br /> October 6th, 1802 </font> </p>
