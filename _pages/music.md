@@ -21,7 +21,11 @@ author_profile: true
 | 10/25/2024 | NYC, Alice Tully Hall |  | Fri, 7:30pm, Beethoven Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 |
 | 10/26/2024 | Phildadelphia, PA | Phil Orch & Riccardo Muti | Sat, 8pm, Verdi, Requiem |
 | 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven Beethoven String Quartets No.4-6, Op.18 No.4-6 |
-| 12/10/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven String Quartet No.9, "Rasumovsky", Op.59 No.3 |
+| 11/20/2024 | NYC | NY Phil & Yefim Bronfman | Wed, 7:30pm, Beethoven Piano Concerto No.3 in C minor, Op.37 |
+| 01/26/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 |
+| 01/28/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.7-9, Op.59 No.1-3, "Rasumovsky" |
+| 02/02/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in A major for Cello and Piano, Op. 69 & Sonata in G major for Violin and Piano, Op. 96 |
+| 02/04/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartet No.10, Op.74 "Harp"; String Quartet No.11, Op.95 "Serioso"; String Quartet No.12, Op.127 |
 | 02/22/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
 | 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
 | 03/01/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
@@ -124,6 +128,7 @@ author_profile: true
 | Op.18 | String Quartet No.1 in F major, Op.18 No.1 <br>  String Quartet No.2 in G major, Op.18 No.2 <br> String Quartet No.3 in D major, Op.18 No.3 <br> String Quartet No.4 in C minor, Op.18 No.4 <br> String Quartet No.5 in A major, Op.18 No.5 <br> String Quartet No.6 in B-flat major, Op.18 No.6 | 10/22/2024, Calidore String Quartet, NYC <br> 10/27/2024, Calidore String Quartet, NYC | 
 | Op.19 | Piano Concerto No. 2 in B-flat major | 09/27/2024, Phil Orch & Seong-Jin Cho, Philadelphia, PA | 
 | Op.20 | Septet in E-flat major for Winds and Strings | 10/20/2024, Alice Tully Hall, NYC, NY | 
+| Op.37 | Piano Concerto No.3 in C minor | 11/20/2024, NY Philharmonic & Yefim Bronfman, New York City, NY  |
 | Op.47 | Sonata for Violin and Piano No. 9 in A major, "Kreutzer" | 02/24/2024, Itzhak Perlman, New Brunswick, NJ |
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
 | Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) <br> 10/10/2024, Adelphi Orchestra, Fair Lawn, NJ |
