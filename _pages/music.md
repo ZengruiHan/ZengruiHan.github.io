@@ -23,9 +23,9 @@ author_profile: true
 | 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven Beethoven String Quartets No.4-6, Op.18 No.4-6 |
 | 11/20/2024 | NYC | NY Phil & Yefim Bronfman | Wed, 7:30pm, Beethoven Piano Concerto No.3 in C minor, Op.37 |
 | 01/26/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 |
-| 01/28/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.7-9, Op.59 No.1-3, "Rasumovsky" |
+| 01/28/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.7-9, Op.59 No.1-3, "Rasumovsky" |
 | 02/02/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in A major for Cello and Piano, Op. 69 & Sonata in G major for Violin and Piano, Op. 96 |
-| 02/04/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartet No.10, Op.74 "Harp"; String Quartet No.11, Op.95 "Serioso"; String Quartet No.12, Op.127 |
+| 02/04/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartet No.10, Op.74 "Harp"; String Quartet No.11, Op.95 "Serioso"; String Quartet No.12, Op.127 |
 | 02/22/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
 | 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
 | 03/01/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
