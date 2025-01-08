@@ -31,7 +31,6 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 # Publications and preprints
 
 
-- Elliptic genera of Pfaffian-Grassmannian double mirrors, in progress.
 
 - Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [[arXiv:2409.17449]](https://arxiv.org/abs/2409.17449). Submitted.
 
