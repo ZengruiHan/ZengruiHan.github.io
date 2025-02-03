@@ -121,6 +121,10 @@ author_profile: true
 
 # Beethoven's works that I've listened to in a live performance 
 
+(My goal is to collect more than 120 out of the total 135 works before I die.)
+
+Current progress: 25 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
+
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
 | Op.1 | Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 | 10/25/2024, Alice Tully Hall, NYC, NY |
@@ -138,10 +142,12 @@ author_profile: true
 | Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
 | Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY  |
 | Op.68 | Symphony No.6 in F major, "Pastoral" | 11/17/2023, Philadelphia Orchestra, Philadelphia, PA |
+| Op.69 | Sonata in A major for Cello and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.70 | Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 | 01/26/2025, Alice Tully Hall, NYC, NY |
 | Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA |
+| Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
 | Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY |
 | Op.130 | String Quartet No.13 in B flat major | 09/22/2023, Emerson String Quartet, Cleveland, OH |
