@@ -29,7 +29,10 @@ author_profile: true
 | 02/22/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
 | 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
 | 03/01/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
+| 03/04/2025 | NYC, Lincoln center | Metropolitan Opera | Beethoven, Fidelio, Op.72 |
 | 03/08/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
+| 03/12/2025 | NYC, Kaufman center |  | Wed, Beethoven Coriolan Overture Op.62, Piano Concerto No.5 "Emperor" Op.73, Symphony No.7 Op.92 |
+| 03/13/2025 | NYC, Carnegie Hall |  | Thu, Beethoven Piano Sonata No.32 in C minor, Op.111 |
 | 03/15/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Mendelssohn Violin Concerto |
 | 03/29/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Schumann Cello Concerto |
 | 03/29/2025 | NYC, 92NY center | Leonkoro Quartet | Sat, 7:30pm, Beethoven String Quartet in A minor, Op.132 |
