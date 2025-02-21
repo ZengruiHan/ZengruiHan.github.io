@@ -26,8 +26,6 @@ author_profile: true
 | 01/28/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.7-9, Op.59 No.1-3, "Rasumovsky" |
 | 02/02/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in A major for Cello and Piano, Op. 69 & Sonata in G major for Violin and Piano, Op. 96 |
 | 02/04/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartet No.10, Op.74 "Harp"; String Quartet No.11, Op.95 "Serioso"; String Quartet No.12, Op.127 |
-| 02/22/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Symphony No.4 |
-| 02/23/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Chopin Piano Concerto No.1, Brahms Symphony No.1 |
 | 03/01/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Brahms Piano Concerto No.1 |
 | 03/04/2025 | NYC, Lincoln center | Metropolitan Opera | Beethoven, Fidelio, Op.72 |
 | 03/08/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Symphony No.3, "Eroica" |
