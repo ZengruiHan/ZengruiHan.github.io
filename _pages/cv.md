@@ -13,7 +13,7 @@ redirect_from:
 A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Education
-- Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-present
+- Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-2025
   - Advisor: [Prof. Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
 
 - B.S. in Mathematics, University of Science and Technology of China, 2016-2020
