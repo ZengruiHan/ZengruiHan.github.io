@@ -5,7 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
+Here are the summaries of my papers.
+
 ***
+
+## GKZ hypergeometric systems and toric mirror symmetry
+**Ph.D. Thesis.**
+
+My Ph.D. Thesis written under the guidance of Lev Borisov at Rutgers University. It is mainly based on my papers [arXiv:2305.12241](https://arxiv.org/abs/2305.12241) and [arXiv:2404.16258](https://arxiv.org/abs/2404.16258).
 
 ## Elliptic genera of Pfaffian-Grassmannian double mirrors
 **In progress.**
