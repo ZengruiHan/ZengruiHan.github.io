@@ -49,6 +49,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Talks and Presentations
 
+- [Georgia Algebraic Geometry Symposium](https://sites.google.com/view/gags2025), mini-talk, Mar 2025.
+
 - [Syzygies and Mirror Symmetry Virtual Seminar](https://sites.google.com/umn.edu/smsseminar?usp=sharing), Feb 2025.
 
 - [Western Algebraic Geometry Symposium](https://sites.google.com/a/wagsymposium.org/current/ua-fall-2024?authuser=0), University of Arizona, Nov 2024. [Poster](https://zengruihan.github.io/files/poster_arizona.pdf)
