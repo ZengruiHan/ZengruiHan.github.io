@@ -15,9 +15,10 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 # Education
 - Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-2025
   - Advisor: [Prof. Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
+  - Thesis title: *GKZ hypergeometric systems and toric mirror symmetry*
 
 - B.S. in Mathematics, University of Science and Technology of China, 2016-2020
-  - Thesis Advisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
+  - Advisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
   - Thesis Title: *Fourier-Mukai Transforms and Derived McKay Correspondence*
   
 ------------------------------------------------
@@ -30,17 +31,19 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Publications and preprints
 
+- GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis.
+
+- Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [arXiv:2409.17449](https://arxiv.org/abs/2409.17449). Submitted.
+
+- Central charges in local mirror symmetry via hypergeometric duality. [arXiv:2404.16258](https://arxiv.org/abs/2404.16258). Submitted.
+
+- Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. **Épijournal de Géométrie Algébrique**, to appear. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241)
+
+- On hypergeometric duality conjecture, with Lev Borisov. **Advances in Mathematics**, Volume 442 (2024), 109582. [arXiv:2301.01374](https://arxiv.org/abs/2301.01374) [journal](https://www.sciencedirect.com/science/article/pii/S0001870824000975)
+
+- On duality of certain GKZ hypergeometric systems, with Lev Borisov and Chengxi Wang, **Asian Journal of Mathematics**, Volume 25 (2021), No.1, 65-88. [arXiv:1910.04039](https://arxiv.org/abs/1910.04039) [journal](https://www.intlpress.com/site/pub/pages/journals/items/ajm/content/vols/0025/0001/a005/index.php)
 
 
-- Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [[arXiv:2409.17449]](https://arxiv.org/abs/2409.17449). Submitted.
-
-- Central charges in local mirror symmetry via hypergeometric duality. [[arXiv:2404.16258]](https://arxiv.org/abs/2404.16258). Submitted.
-
-- Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. **Épijournal de Géométrie Algébrique**, to appear. [[arXiv:2305.12241]](https://arxiv.org/abs/2305.12241)
-
-- On hypergeometric duality conjecture, with Lev Borisov. **Advances in Mathematics**, Volume 442 (2024), 109582. [[arXiv:2301.01374]](https://arxiv.org/abs/2301.01374) [[journal]](https://www.sciencedirect.com/science/article/pii/S0001870824000975)
-
-- On duality of certain GKZ hypergeometric systems, with Lev Borisov and Chengxi Wang, **Asian Journal of Mathematics**, Volume 25 (2021), No.1, 65-88. [[arXiv:1910.04039]](https://arxiv.org/abs/1910.04039) [[journal]](https://www.intlpress.com/site/pub/pages/journals/items/ajm/content/vols/0025/0001/a005/index.php)
 
 ------------------------------------------------
 
