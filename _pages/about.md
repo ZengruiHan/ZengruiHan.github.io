@@ -12,6 +12,8 @@ redirect_from:
 
 **About Me**
 
+- Starting in Fall 2025, I will be a Brin Postdoctoral Fellow in the Mathematics Department at the University of Maryland, College Park.
+
 - I’m a fifth year Ph.D. student at the Department of Mathematics of Rutgers University, working under <a href="https://sites.math.rutgers.edu/~borisov/">Professor Lev Borisov</a>. I obtained my bachelor's degree from University of Science and Technology of China (USTC) in 2020.
 
 - My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. Currently I'm interested in the following three kinds of questions:
