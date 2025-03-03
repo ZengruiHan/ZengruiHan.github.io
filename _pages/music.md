@@ -35,6 +35,7 @@ author_profile: true
 | 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
 | 04/08/2025 | Phildadelphia, PA | Doric Quartet | Tue, 7:30pm, Beethoven String Quartet No.15 & 16 |
 | 04/10/2025 | Phildadelphia, PA | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
+| 04/11/2025 | NYC, Carnegie Hall | The Choral Society and Orchestra of Grace Church in New York | Fri, 8:00pm, Verdi, Messa da Requiem |
 | 04/15/2025 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.14 in c-sharp minor, "Moonlight", Op.27 No.2 |
 | 04/24/2025 | NYC, Carnegie Hall | Boston Symphony Orchestra | Thu, 8:00pm, Shostakovich Symphony No.11, "The Year 1905" |
 | 04/26/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
