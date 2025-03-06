@@ -16,7 +16,7 @@ redirect_from:
 
 - I’m a fifth year Ph.D. student at the Department of Mathematics of Rutgers University, working under <a href="https://sites.math.rutgers.edu/~borisov/">Professor Lev Borisov</a>. I obtained my bachelor's degree from University of Science and Technology of China (USTC) in 2020.
 
-- My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. Currently I'm interested in the following three kinds of questions:
+- My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. Here are some of the questions that I'm currently interested in:
   - Toric mirror symmetry. For example, understanding derived equivalence between different crepant resolutions of affine toric Gorenstein singularities (categorification of GKZ systems), unification of different combinatorial mirror constructions (Batyrev-Borisov and Berglund-Hübsch-Krawitz), relations to tropical geometry, etc.
   - Derived categories of algebraic varieties. For example, questions related to Kuznetsov's Homological Projective Duality, categorical resolutions and noncommutative resolution of singularities.
   - Grothendieck ring of varieties, D- and L- equivalences.
