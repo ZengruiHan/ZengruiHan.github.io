@@ -123,7 +123,7 @@ author_profile: true
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 27 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
+Current progress: 28 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -151,6 +151,7 @@ Current progress: 27 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
 | Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
+| Op.111 | Piano Sonata No.32 in C minor | 03/13/2024, Danny Driver, Carnegie Hall, NYC |
 | Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY |
 | Op.130 | String Quartet No.13 in B flat major | 09/22/2023, Emerson String Quartet, Cleveland, OH |
 | Op.131 | String Quartet No.14 in C sharp minor | 10/15/2023, Emerson String Quartet, Cleveland, OH <br> 03/21/2024, Quatuor Van Kuijk, NYC |
