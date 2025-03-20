@@ -29,7 +29,7 @@ author_profile: true
 | 03/07/2025 | NYC, Lincoln center | Metropolitan Opera | Fri, 7:00pm,  Beethoven, Fidelio, Op.72 |
 | 03/12/2025 | NYC, Kaufman center |  | Wed, Beethoven Coriolan Overture Op.62, Piano Concerto No.5 "Emperor" Op.73, Symphony No.7 Op.92 |
 | 03/13/2025 | NYC, Carnegie Hall |  | Thu, Beethoven Piano Sonata No.32 in C minor, Op.111 |
-| 03/15/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Mendelssohn Violin Concerto |
+| 03/20/2025 | New Brunswick, NJ | NJ Symphony | Thu, 7:30pm, Brahms Violin Concerto |
 | 03/29/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Schumann Cello Concerto |
 | 03/29/2025 | NYC, 92NY center | Leonkoro Quartet | Sat, 7:30pm, Beethoven String Quartet in A minor, Op.132 |
 | 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
