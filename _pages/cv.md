@@ -19,12 +19,12 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Education
 - Ph.D. in Mathematics, **Rutgers, the State University of New Jersey**, 2020-2025
-  - Advisor: [Prof. Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
-  - Thesis title: *GKZ hypergeometric systems and toric mirror symmetry*
+   - Advisor: [Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
+   - Thesis title: GKZ hypergeometric systems and toric mirror symmetry
 
 - B.S. in Mathematics, **University of Science and Technology of China**, 2016-2020
-  - Advisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
-  - Thesis Title: *Fourier-Mukai Transforms and Derived McKay Correspondence*
+  - Advisor: [Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
+  - Thesis Title: Fourier-Mukai Transforms and Derived McKay Correspondence
   
 ------------------------------------------------
 
@@ -36,7 +36,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Publications and preprints
 
-- GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis.
+- GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis. [PDF](https://zengruihan.github.io/files/thesis.pdf)
 
 - Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [arXiv:2409.17449](https://arxiv.org/abs/2409.17449). Submitted.
 
@@ -96,3 +96,12 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 - Modern Algebra, TA, Spring 2019
 - Foundation of Algebra, TA, Fall 2018
 
+------------------------------------------------
+
+# Awards and Honors
+
+- Rutgers SAS Fellowship, Rutgers University, 2025
+- Summer PhD student Research Fellowship, Rutgers University, 2024
+- Huang Yu Memorial Scholarship, University of Science and Technology of China, 2019
+- Outstanding Student Scholarship, Silver Award, University of Science and Technology of China, 2018 & 2017
+- Chinese Mathematical Olympaid (CMO), Bronze Medal, 2015
