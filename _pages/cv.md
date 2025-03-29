@@ -12,12 +12,17 @@ redirect_from:
 
 A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
+# Appointments
+
+- 2025-2028, **University of Maryland, College Park**, Brin Postdoctoral Fellow
+- 2020-2021, **University of Science and Technology of China**, Research Assistant
+
 # Education
-- Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-2025
+- Ph.D. in Mathematics, **Rutgers, the State University of New Jersey**, 2020-2025
   - Advisor: [Prof. Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
   - Thesis title: *GKZ hypergeometric systems and toric mirror symmetry*
 
-- B.S. in Mathematics, University of Science and Technology of China, 2016-2020
+- B.S. in Mathematics, **University of Science and Technology of China**, 2016-2020
   - Advisor: [Prof. Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
   - Thesis Title: *Fourier-Mukai Transforms and Derived McKay Correspondence*
   
