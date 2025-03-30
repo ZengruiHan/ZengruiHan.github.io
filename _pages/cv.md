@@ -12,10 +12,15 @@ redirect_from:
 
 A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
+
+
 # Appointments
 
 - 2025-2028, **University of Maryland, College Park**, Brin Postdoctoral Fellow
 - 2020-2021, **University of Science and Technology of China**, Research Assistant
+
+------------------------------------------------
+
 
 # Education
 - Ph.D. in Mathematics, **Rutgers, the State University of New Jersey**, 2020-2025
