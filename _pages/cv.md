@@ -95,12 +95,6 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 - Math 251: Multivariable Calculus, TA, Spring 2022
 - Math 251H: Multivariable Calculus, TA, Fall 2021
 
-### University of Science and Technology of China
-
-- Foundation of Algebra, TA, Fall 2019
-- Modern Algebra, TA, Spring 2019
-- Foundation of Algebra, TA, Fall 2018
-
 ------------------------------------------------
 
 # Awards and Honors
