@@ -5,6 +5,15 @@ permalink: /music/
 author_profile: true
 ---
 
+# Concerts in 2025-2026 season:
+
+| Date | Location | Performers | Remarks |
+| ---- | ---- | ---- | ---- |
+| 10/18/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Beethoven Egmont Overture Op.84, Violin Concerto in D major Op. 61, Symphony No.7 in A major Op.92 |
+| 11/15/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Beethoven Piano Concerto No.1 in C major, No.15, Saint-Saëns Symphony No. 3, “Organ Symphony” |
+| 12/04/2025 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
+| 01/17/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra & Daniil Trifonov | Sat, 8pm, Brahms Piano Concerto No.1, Stravinsky, "The Rite of Spring" |
+| 02/07/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Tchaikovsky Piano Concerto No. 1 |
 
 
 # Concerts in 2024-2025 season:
