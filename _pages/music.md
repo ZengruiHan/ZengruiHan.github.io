@@ -30,7 +30,7 @@ author_profile: true
 | 03/12/2025 | NYC, Kaufman center |  | Wed, Beethoven Coriolan Overture Op.62, Piano Concerto No.5 "Emperor" Op.73, Symphony No.7 Op.92 |
 | 03/13/2025 | NYC, Carnegie Hall |  | Thu, Beethoven Piano Sonata No.32 in C minor, Op.111 |
 | 03/20/2025 | New Brunswick, NJ | NJ Symphony | Thu, 7:30pm, Brahms Violin Concerto |
-| 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
+| 04/05/2025 | Newark, NJ | NJ Symphony | Sat, 8pm, Beethoven Symphony No.9, "Choral" |
 | 04/08/2025 | Phildadelphia, PA | Doric Quartet | Tue, 7:30pm, Beethoven String Quartet No.15 & 16 |
 | 04/10/2025 | Phildadelphia, PA | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
 | 04/11/2025 | NYC, Carnegie Hall | The Choral Society and Orchestra of Grace Church in New York | Fri, 8:00pm, Verdi, Messa da Requiem |
