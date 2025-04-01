@@ -9,11 +9,21 @@ author_profile: true
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
+| 07/19/2025 | NYC, Alice Tully Hall |  | Sat, 5:00pm, Beethoven Quintet in E-flat major for Oboe, Clarinet, Bassoon, Horn, and Piano, Op.16 |
+| 10/16/2025 | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Thu, 7:30pm, Bruckner Symphony No.4 "Romantic" |
 | 10/18/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Beethoven Egmont Overture Op.84, Violin Concerto in D major Op. 61, Symphony No.7 in A major Op.92 |
 | 11/15/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Beethoven Piano Concerto No.1 in C major, No.15, Saint-Saëns Symphony No. 3, “Organ Symphony” |
 | 12/04/2025 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
+| [12/10/2025](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/chamber-orchestra-of-europe) | Kimmel center, Philadelphia, PA | Chamber Orchestra of Europe | Wed, 7:30pm, Brahms Tragic Overture, Double Concerto, Symphony No.1 |
+| [01/09/2026 - 01/11/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahlers-symphony-no-4) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.4 |
 | 01/17/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra & Daniil Trifonov | Sat, 8pm, Brahms Piano Concerto No.1, Stravinsky, "The Rite of Spring" |
+| 01/25/2026 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in E-flat major for Violin and Piano, Op.12 No.3,  Trio in D major for Violin, Viola, and Cello, Op.9 No.2, Trio in B-flat major for Piano, Violin, and Cello, Op. 97, “Archduke” |
 | 02/07/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Tchaikovsky Piano Concerto No. 1 |
+| [03/06/2026 - 03/08/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahlers-symphony-no-2) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.2, "Resurrection" |
+| 03/19/2026 | Kimmel center, Philadelphia, PA | Víkingur Ólafsson | Thu, 7:30pm, Beethoven Piano Sonata No.30, No.31, No.32 |
+| [04/10/2026 - 04/12/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mozart-great-and-glorious) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Symphony No.40 & Requiem |
+| [05/07/2026 - 05/09/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/bach-and-mozart-piano-classics) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Piano Concerto No.23 |
+| [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
 
 
 # Concerts in 2024-2025 season:
@@ -47,13 +57,13 @@ author_profile: true
 | 04/11/2025 | NYC, Carnegie Hall | The Choral Society and Orchestra of Grace Church in New York | Fri, 8:00pm, Verdi, Messa da Requiem |
 | 04/15/2025 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.14 in C-sharp minor, "Moonlight", Op.27 No.2 |
 | 04/24/2025 | NYC, Carnegie Hall | Boston Symphony Orchestra | Thu, 8:00pm, Shostakovich Symphony No.11, "The Year 1905" |
-| 04/26/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Schumann Piano Concerto & Beethoven Symphony No.4 |
+| 04/26/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Piano Concerto No.5 & Symphony No.4 |
 | 05/01/2025 | NYC, Carnegie Hall | Emanuel Ax | Thu, 8pm, Beethoven Piano Sonatas No.13 & 14, Op.27 No.1 & 2, Schumann Fantasie in C major |
 | 05/04/2025 | NYC, Carnegie Hall | Pierre-Laurent Aimard | Sun, 3pm, Beethoven Fantasia in G minor, Op.77 |
 | 05/06/2025 | NYC, Alice Tully Hall |  | Tue, 7:30pm, Beethoven Sonata in D major for Cello and Piano, Op.102, No.2 |
 | 05/09/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Fri, 7:30pm, Beethoven String Quartets No.13 (with Grosse Fuge) and No.15, Op.130, 132, 133 |
 | 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
-| 05/29/2025 | Phildadelphia, PA | Phil Orch | Thu, 7:30pm, Beethoven Symphony No.9, "Choral" |
+| 05/23/2025 | Phildadelphia, PA | Phil Orch | Fri, 2:00pm, Beethoven Symphony No.9, "Choral" |
 
 
 
