@@ -99,6 +99,8 @@ author_profile: true
 | 07/15/2024 | Princeton, NJ | Balourdet Quartet | Mon, 7pm, Mozart String Quartet No.23, Beethoven String Quartet No.16 |
 | 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7pm, Mahler Symphony No.1 |
 
+Total: 26
+
 # Concerts in 2022-2023 season:
 
 | Date | Location | Performers | Remarks |
@@ -125,6 +127,8 @@ author_profile: true
 | 06/10/2023 | Red Bank, NJ | NJ Symphony | Sat, 8pm, Stravinsky "The Rite of Spring" |
 | 06/20/2023 | Philadelphia, PA | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.5, "Romeo and Juliet", 1812 Overture |
 
+Total: 21
+
 
 # Concerts in 2021-2022 season:
 
@@ -135,6 +139,7 @@ author_profile: true
 | 05/22/2022 | Fair Lawn, NJ | Adelphi Orchestra & Bethany Bobbs | Sun, 2pm, Beethoven Violin Concerto |
 | 06/04/2022 | Philadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Symphony No.9 "Choral" |
 
+Total: 4
 
 
 
