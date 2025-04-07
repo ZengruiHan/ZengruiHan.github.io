@@ -17,12 +17,16 @@ author_profile: true
 | [12/10/2025](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/chamber-orchestra-of-europe) | Kimmel center, Philadelphia, PA | Chamber Orchestra of Europe | Wed, 7:30pm, Brahms Tragic Overture, Double Concerto, Symphony No.1 |
 | [01/09/2026 - 01/11/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahlers-symphony-no-4) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.4 |
 | 01/17/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra & Daniil Trifonov | Sat, 8pm, Brahms Piano Concerto No.1, Stravinsky, "The Rite of Spring" |
+| 01/22/2026 | NYC, Carnegie Hall | Igor Levit | Thu, 8:00pm, Beethoven 32 Variations on a Waltz by Diabelli, Op.120 |
 | 01/25/2026 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in E-flat major for Violin and Piano, Op.12 No.3,  Trio in D major for Violin, Viola, and Cello, Op.9 No.2, Trio in B-flat major for Piano, Violin, and Cello, Op. 97, “Archduke” |
 | 02/07/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Tchaikovsky Piano Concerto No. 1 |
+| 02/26/2026 | NYC, Carnegie Hall | Leonkoro Quartet | Thu, 7:30pm, Mendelssohn String Quartet in A minor, Op.13, Schubert String Quartet in D minor, D.810, "Death and the Maiden" |
 | [03/06/2026 - 03/08/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahlers-symphony-no-2) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.2, "Resurrection" |
 | 03/19/2026 | Kimmel center, Philadelphia, PA | Víkingur Ólafsson | Thu, 7:30pm, Beethoven Piano Sonata No.30, No.31, No.32 |
 | [04/10/2026 - 04/12/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mozart-great-and-glorious) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Symphony No.40 & Requiem |
+| 04/15/2026 | NYC, Carnegie Hall | Khatia Buniatishvili | Wed, 8:00pm, Schubert Sonata in B-flat Major, D.960, Beethoven Piano Sonata No.17 in D minor, Op.31 No.2, "The Tempest" |
 | [05/07/2026 - 05/09/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/bach-and-mozart-piano-classics) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Piano Concerto No.23 |
+| 05/13/2026 | NYC, Carnegie Hall | Evgeny Kissin | Wed, 8:00pm, Beethoven Piano Sonata No.7 in D Major, Op.10 No.3 |
 | [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
 
 
