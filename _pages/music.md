@@ -60,6 +60,9 @@ author_profile: true
 | 04/10/2025 | Phildadelphia, PA | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
 | 04/11/2025 | NYC, Carnegie Hall | The Choral Society and Orchestra of Grace Church in New York | Fri, 8:00pm, Verdi, Messa da Requiem |
 | 04/15/2025 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.14 in C-sharp minor, "Moonlight", Op.27 No.2 |
+| 04/17/2025 | NYC | Juilliard School | Thu, 5:30pm, Beethoven Sonata in C major for Cello and Piano, Op.102 No.1 |
+| 04/21/2025 | Phildadelphia, PA | Curtis Recital Series | Mon, 7:30pm, Beethoven Sonata in D major for Cello and Piano, Op.102 No.2 |
+| 04/24/2025 | Phildadelphia, PA | Curtis Recital Series | Thu, 7:30pm, Beethoven, Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte, Op. 66 |
 | 04/26/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Piano Concerto No.5 & Symphony No.4 |
 | 05/01/2025 | NYC, Carnegie Hall | Emanuel Ax | Thu, 8pm, Beethoven Piano Sonatas No.13 & 14, Op.27 No.1 & 2, Schumann Fantasie in C major |
 | 05/04/2025 | NYC, Carnegie Hall | Pierre-Laurent Aimard | Sun, 3pm, Beethoven Fantasia in G minor, Op.77 |
