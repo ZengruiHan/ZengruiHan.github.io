@@ -154,7 +154,7 @@ Total: 4
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 28 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
+Current progress: 31 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -162,7 +162,8 @@ Current progress: 28 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 | Op.10 | Piano Sonata No.5 in C minor, Op.10 No.1 | 10/11/2024, Xiyao Luo, New York City, NY | 
 | Op.18 | String Quartet No.1 in F major, Op.18 No.1 <br>  String Quartet No.2 in G major, Op.18 No.2 <br> String Quartet No.3 in D major, Op.18 No.3 <br> String Quartet No.4 in C minor, Op.18 No.4 <br> String Quartet No.5 in A major, Op.18 No.5 <br> String Quartet No.6 in B-flat major, Op.18 No.6 | 10/22/2024, Calidore String Quartet, NYC <br> 10/27/2024, Calidore String Quartet, NYC | 
 | Op.19 | Piano Concerto No. 2 in B-flat major | 09/27/2024, Phil Orch & Seong-Jin Cho, Philadelphia, PA | 
-| Op.20 | Septet in E-flat major for Winds and Strings | 10/20/2024, Alice Tully Hall, NYC, NY | 
+| Op.20 | Septet in E-flat major for Winds and Strings | 10/20/2024, Alice Tully Hall, NYC, NY |
+| Op.27 | Piano Sonata No.14 in C-sharp minor, Op.27 No.2 | 04/15/2025, Princeton, NJ | 
 | Op.37 | Piano Concerto No.3 in C minor | 11/20/2024, NY Philharmonic & Yefim Bronfman, New York City, NY  |
 | Op.47 | Sonata for Violin and Piano No. 9 in A major, "Kreutzer" | 02/24/2024, Itzhak Perlman, New Brunswick, NJ |
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
@@ -178,12 +179,16 @@ Current progress: 28 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 | Op.70 | Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 | 01/26/2025, Alice Tully Hall, NYC, NY |
 | Op.72 | Fidelio | 03/07/2025, Metropolitan Opera, NYC, NY |
 | Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
+| Op.74 | String Quartet No.10 in E-flat major, "Harp" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
+| Op.95 | String Quartet No.11 in F minor, "Serioso" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
+| Op.102 | Beethoven Sonata in C major for Cello and Piano, Op.102 No.1| 04/17/2025, Juilliard School, NYC |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
 | Op.111 | Piano Sonata No.32 in C minor | 03/13/2024, Danny Driver, Carnegie Hall, NYC |
 | Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY <br> 04/04/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/05/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/06/2025, NJ Symphony Orchestra, New Brunswick, NJ |
+| Op.127 | String Quartet No.12 in E-flat major | 02/04/2025, Alice Tully Hall, NYC, NY |
 | Op.130 | String Quartet No.13 in B flat major | 09/22/2023, Emerson String Quartet, Cleveland, OH |
 | Op.131 | String Quartet No.14 in C sharp minor | 10/15/2023, Emerson String Quartet, Cleveland, OH <br> 03/21/2024, Quatuor Van Kuijk, NYC |
 | Op.132 | String Quartet No.15 in A minor | 03/01/2024, Hagen Quartet, Philadelphia, PA |
