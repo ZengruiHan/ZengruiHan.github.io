@@ -154,7 +154,7 @@ Total: 4
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 31 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
+Current progress: 32 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -173,6 +173,7 @@ Current progress: 31 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/
 | Op.59 | String Quartet No.7 in F major, "Razumovsky", Op.59 No.1 <br>  String Quartet No.8 in E minor, "Razumovsky", Op.59 No.2 <br> String Quartet No.9 in C major, "Razumovsky", Op.59 No.3  | 01/28/2025, Calidore String Quartet, NYC | 
 | Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
 | Op.62 | Coriolan Overture | 03/12/2025, Kaufman center, New York City, NY  |
+| Op.66 | Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte |  04/24/2025, Curtis Institute of Music, Philadelphia, PA | 
 | Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY  |
 | Op.68 | Symphony No.6 in F major, "Pastoral" | 11/17/2023, Philadelphia Orchestra, Philadelphia, PA |
 | Op.69 | Sonata in A major for Cello and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
