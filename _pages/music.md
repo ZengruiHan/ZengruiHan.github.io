@@ -154,7 +154,7 @@ Total: 4
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 32 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
+Current progress: 33 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -171,6 +171,7 @@ Current progress: 32 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
 | Op.58 | Piano Concerto No.4 in G major | 01/05/2024, NY Philharmonic, NYC |
 | Op.59 | String Quartet No.7 in F major, "Razumovsky", Op.59 No.1 <br>  String Quartet No.8 in E minor, "Razumovsky", Op.59 No.2 <br> String Quartet No.9 in C major, "Razumovsky", Op.59 No.3  | 01/28/2025, Calidore String Quartet, NYC | 
+| Op.60 | Symphony No.4 in B-flat major | 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
 | Op.62 | Coriolan Overture | 03/12/2025, Kaufman center, New York City, NY  |
 | Op.66 | Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte |  04/24/2025, Curtis Institute of Music, Philadelphia, PA | 
@@ -179,7 +180,7 @@ Current progress: 32 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.27) + 1/2 (Op.70) + 1/
 | Op.69 | Sonata in A major for Cello and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.70 | Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 | 01/26/2025, Alice Tully Hall, NYC, NY |
 | Op.72 | Fidelio | 03/07/2025, Metropolitan Opera, NYC, NY |
-| Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
+| Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY <br> 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.74 | String Quartet No.10 in E-flat major, "Harp" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
