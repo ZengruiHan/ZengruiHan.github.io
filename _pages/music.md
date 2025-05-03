@@ -67,6 +67,7 @@ author_profile: true
 | 05/01/2025 | NYC, Carnegie Hall | Emanuel Ax | Thu, 8pm, Beethoven Piano Sonatas No.13 & 14, Op.27 No.1 & 2, Schumann Fantasie in C major |
 | 05/04/2025 | NYC, Carnegie Hall | Pierre-Laurent Aimard | Sun, 3pm, Beethoven Fantasia in G minor, Op.77 |
 | 05/06/2025 | NYC, Alice Tully Hall |  | Tue, 7:30pm, Beethoven Sonata in D major for Cello and Piano, Op.102, No.2 |
+| 05/07/2025 | NYC | Juilliard School | Wed, 5:30pm, Beethoven Kakadu Variations, Op.121a |
 | 05/09/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Fri, 7:30pm, Beethoven String Quartets No.13 (with Grosse Fuge) and No.15, Op.130, 132, 133 |
 | 05/17/2025 | Madison, NJ | Concert Hall at Drew University | Sat, 7:30pm, Beethoven, Mass in C major, Op.86, "Christus am Ölberge"("Christ on the Mount of Olives"), Op.85 |
 | 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
