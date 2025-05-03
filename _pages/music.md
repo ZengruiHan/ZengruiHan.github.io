@@ -73,7 +73,7 @@ author_profile: true
 | 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
 | 05/23/2025 | Phildadelphia, PA | Phil Orch | Fri, 2:00pm, Beethoven Symphony No.9, "Choral" |
 
-Total: 37
+Total: 38
 
 
 # Concerts in 2023-2024 season:
