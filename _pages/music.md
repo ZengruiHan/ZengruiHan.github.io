@@ -155,7 +155,7 @@ Total: 4
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 34 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
+Current progress: 35 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -183,6 +183,7 @@ Current progress: 34 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) + 1/2 (Op.102) out
 | Op.72 | Fidelio | 03/07/2025, Metropolitan Opera, NYC, NY |
 | Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY <br> 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.74 | String Quartet No.10 in E-flat major, "Harp" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
+| Op.77 | Fantasia in G minor | 05/04/2025, Pierre-Laurent Aimard, Carnegie Hall, NYC |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
 | Op.95 | String Quartet No.11 in F minor, "Serioso" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
