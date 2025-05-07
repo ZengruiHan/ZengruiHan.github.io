@@ -155,7 +155,7 @@ Total: 4
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 35 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) + 1/2 (Op.102) out of 135.
+Current progress: 36 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -188,7 +188,7 @@ Current progress: 35 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) + 1/2 (Op.102) out
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
 | Op.95 | String Quartet No.11 in F minor, "Serioso" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
-| Op.102 | Beethoven Sonata in C major for Cello and Piano, Op.102 No.1| 04/17/2025, Juilliard School, NYC |
+| Op.102 | Sonata in C major for Cello and Piano, Op.102 No.1 <br> Sonata in D major for Cello and Piano, Op.102 No.2| 04/17/2025, Juilliard School, NYC <br> 05/06/2026, Alice Tully Hall, NYC |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
 | Op.111 | Piano Sonata No.32 in C minor | 03/13/2024, Danny Driver, Carnegie Hall, NYC |
 | Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY <br> 04/04/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/05/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/06/2025, NJ Symphony Orchestra, New Brunswick, NJ |
