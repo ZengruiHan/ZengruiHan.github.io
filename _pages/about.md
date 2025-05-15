@@ -12,9 +12,7 @@ redirect_from:
 
 **About Me**
 
-- Starting in Fall 2025, I will be a Brin Postdoctoral Fellow in the Mathematics Department at the University of Maryland, College Park. I have defended my Ph.D. thesis on March 10, 2025.
-
-- I’m a fifth year Ph.D. student at the Department of Mathematics of Rutgers University, working under <a href="https://sites.math.rutgers.edu/~borisov/">Professor Lev Borisov</a>. I obtained my bachelor's degree from University of Science and Technology of China (USTC) in 2020.
+- Starting in Fall 2025, I will be a Brin Postdoctoral Fellow in the Mathematics Department at the University of Maryland, College Park. I obtained my Ph.D. at Rutgers University in 2025 under <a href="https://sites.math.rutgers.edu/~borisov/">Professor Lev Borisov</a>. Prior to that, I obtained my bachelor's degree from University of Science and Technology of China in 2020. 
 
 - My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. Here are some of the questions that I'm currently interested in:
   - Toric mirror symmetry. For example, understanding derived equivalence between different crepant resolutions of affine toric Gorenstein singularities (categorification of GKZ systems), unification of different combinatorial mirror constructions (Batyrev-Borisov and Berglund-Hübsch-Krawitz), relations to tropical geometry, etc.
