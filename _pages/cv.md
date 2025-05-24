@@ -45,7 +45,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis. [PDF](https://zengruihan.github.io/files/thesis.pdf) <small>(We clarified some ambiguities in [arXiv:2404.16258](https://arxiv.org/abs/2404.16258), restated the main result, and added an explanation of the motivation)</small>
 
-- Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [arXiv:2409.17449](https://arxiv.org/abs/2409.17449). Submitted.
+- Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [arXiv:2409.17449](https://arxiv.org/abs/2409.17449).
 
 - Central charges in local mirror symmetry via hypergeometric duality. [arXiv:2404.16258](https://arxiv.org/abs/2404.16258). Submitted.
 
