@@ -5,6 +5,10 @@ permalink: /music/
 author_profile: true
 ---
 
+# Some of my favorite excerpts 
+
+(Under construction...)
+
 # Concerts in 2025-2026 season:
 
 | Date | Location | Performers | Remarks |
