@@ -7,6 +7,8 @@ author_profile: true
 
 ## Some of my favorite excerpts 
 
+[Attributions](https://zengruihan.github.io/attribution)
+
 <details>
   <summary>Fugue and Coda of Movement III of Beethoven Piano Sonata No.31, Op.110 </summary>
   <video src="https://zengruihan.github.io/media/Beethoven Op.110 Movement 3.mp4" controls width="500"></video>
@@ -27,8 +29,6 @@ author_profile: true
 </p>
 
 </details>
-
-See [here](https://zengruihan.github.io/attribution) for attributions.
 
 
 ------------------------------------------------
