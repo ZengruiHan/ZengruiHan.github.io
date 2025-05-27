@@ -25,7 +25,7 @@ author_profile: true
   
   <p>
   Fun fact: the main theme from the finale was once used as the opening music for some
-  <a href="https://www.youtube.com/watch?v=YQzltmJ0hN8&t=32s">IHES lecture recordings</a>.
+  <a href="https://www.youtube.com/watch?v=YQzltmJ0hN8">IHES lecture recordings</a>.
 </p>
 
 </details>
