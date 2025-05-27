@@ -7,25 +7,12 @@ author_profile: true
 
 # Some of my favorite excerpts 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Home Page</title>
-  <style>
-    dialog { border: none; border-radius: 8px; padding: 0; }
-    dialog::backdrop { background: rgba(0,0,0,.6); }
-    .close-btn { position:absolute; top:8px; right:12px; cursor:pointer; font-size:20px; }
-  </style>
-</head>
-<body>
-  <!-- 触发链接 -->
-  <a href="#video" id="play-link">▶︎ 播放演示视频</a>
+<a href="#video" id="play-link">▶︎ 播放演示视频</a>
 
   <!-- 原生 <dialog> 充当模态框 -->
   <dialog id="video-dialog">
     <span class="close-btn" onclick="this.parentElement.close()">✕</span>
-    <video src="media/Beethoven Op.110 Movement 3.mp4" controls width="720"></video>
+    <video src="assets/demo.mp4" controls width="720"></video>
   </dialog>
 
   <script>
@@ -35,9 +22,6 @@ author_profile: true
       document.getElementById('video-dialog').showModal();
     });
   </script>
-</body>
-</html>
-
 
 # Concerts in 2025-2026 season:
 
