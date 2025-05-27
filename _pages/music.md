@@ -7,7 +7,7 @@ author_profile: true
 
 ## Some of my favorite excerpts 
 
-[Attributions](https://zengruihan.github.io/attribution)
+<small> These videos are created by myself. Credits and attributions for the recordings and scores I used can be found [here](https://zengruihan.github.io/attribution). </small>
 
 <details>
   <summary>Fugue and Coda of Movement III of Beethoven Piano Sonata No.31, Op.110 </summary>
