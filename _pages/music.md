@@ -8,8 +8,13 @@ author_profile: true
 ## Some of my favorite excerpts 
 
 <details>
-  <summary>Beethoven Piano Sonata No.31 in A flat major, Op.110 </summary>
+  <summary>Fugue and Coda of Movement III of Beethoven’s Piano Sonata No.31, Op.110 </summary>
   <video src="https://zengruihan.github.io/media/Beethoven Op.110 Movement 3.mp4" controls width="600"></video>
+</details>
+
+<details>
+  <summary>Trio section of Movement III of Schubert Piano Sonata No.21, D.960 </summary>
+  <video src="https://zengruihan.github.io/media/Schubert D.960 Movement 3.mp4" controls width="600"></video>
 </details>
 
 ------------------------------------------------
