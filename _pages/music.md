@@ -8,13 +8,18 @@ author_profile: true
 ## Some of my favorite excerpts 
 
 <details>
-  <summary>Fugue and Coda of Movement III of Beethoven’s Piano Sonata No.31, Op.110 </summary>
-  <video src="https://zengruihan.github.io/media/Beethoven Op.110 Movement 3.mp4" controls width="600"></video>
+  <summary>Fugue and Coda of Movement III of Beethoven Piano Sonata No.31, Op.110 </summary>
+  <video src="https://zengruihan.github.io/media/Beethoven Op.110 Movement 3.mp4" controls width="500"></video>
 </details>
 
 <details>
-  <summary>Trio section of Movement III of Schubert Piano Sonata No.21, D.960 </summary>
-  <video src="https://zengruihan.github.io/media/Schubert D.960 Movement 3.mp4" controls width="600"></video>
+  <summary>Trio of Movement III of Schubert Piano Sonata No.21, D.960 </summary>
+  <video src="https://zengruihan.github.io/media/Schubert D.960 Movement 3.mp4" controls width="500"></video>
+</details>
+
+<details>
+  <summary>End of Movement VI and Exposition of Movement VII of Beethoven String Quartet No.14, Op.131 </summary>
+  <video src="https://zengruihan.github.io/media/Beethoven Op.131 Movement 6 & 7.mp4" controls width="500"></video>
 </details>
 
 ------------------------------------------------
