@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Attribution"
+title: "Attributions"
 permalink: /attribution/
 author_profile: true
 ---
