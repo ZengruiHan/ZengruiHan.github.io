@@ -7,6 +7,10 @@ author_profile: true
 
 # Some of my favorite excerpts 
 
+<details>
+  <summary>Beethoven Piano Sonata No.31 in A flat major, Op.110 </summary>
+  <video src="https://zengruihan.github.io/media/Beethoven Op.110 Movement 3.mp4" controls width="600"></video>
+</details>
 
 
 # Concerts in 2025-2026 season:
