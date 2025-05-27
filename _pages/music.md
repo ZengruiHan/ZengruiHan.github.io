@@ -7,21 +7,7 @@ author_profile: true
 
 # Some of my favorite excerpts 
 
-<a href="#video" id="play-link">▶︎ 播放演示视频</a>
 
-  <!-- 原生 <dialog> 充当模态框 -->
-  <dialog id="video-dialog">
-    <span class="close-btn" onclick="this.parentElement.close()">✕</span>
-    <video src="assets/demo.mp4" controls width="720"></video>
-  </dialog>
-
-  <script>
-    // 打开对话框
-    document.getElementById('play-link').addEventListener('click', e => {
-      e.preventDefault();
-      document.getElementById('video-dialog').showModal();
-    });
-  </script>
 
 # Concerts in 2025-2026 season:
 
