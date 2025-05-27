@@ -12,6 +12,8 @@ author_profile: true
   <video src="https://zengruihan.github.io/media/Beethoven Op.110 Movement 3.mp4" controls width="600"></video>
 </details>
 
+------------------------------------------------
+
 
 # Concerts in 2025-2026 season:
 
@@ -156,6 +158,7 @@ Total: 21
 
 Total: 4
 
+------------------------------------------------
 
 
 # Beethoven's works that I've listened to in a live performance 
