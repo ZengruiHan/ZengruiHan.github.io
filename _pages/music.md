@@ -5,7 +5,7 @@ permalink: /music/
 author_profile: true
 ---
 
-# Some of my favorite excerpts 
+## Some of my favorite excerpts 
 
 <details>
   <summary>Beethoven Piano Sonata No.31 in A flat major, Op.110 </summary>
@@ -15,7 +15,7 @@ author_profile: true
 ------------------------------------------------
 
 
-# Concerts in 2025-2026 season:
+## Concerts in 2025-2026 season:
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -40,7 +40,7 @@ author_profile: true
 | [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
 
 
-# Concerts in 2024-2025 season:
+## Concerts in 2024-2025 season:
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -85,7 +85,7 @@ author_profile: true
 Total: 37
 
 
-# Concerts in 2023-2024 season:
+## Concerts in 2023-2024 season:
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -118,7 +118,7 @@ Total: 37
 
 Total: 26
 
-# Concerts in 2022-2023 season:
+## Concerts in 2022-2023 season:
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -147,7 +147,7 @@ Total: 26
 Total: 21
 
 
-# Concerts in 2021-2022 season:
+## Concerts in 2021-2022 season:
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -161,7 +161,7 @@ Total: 4
 ------------------------------------------------
 
 
-# Beethoven's works that I've listened to in a live performance 
+## Beethoven's works that I've listened to in a live performance 
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
