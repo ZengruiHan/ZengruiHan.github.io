@@ -21,7 +21,11 @@ author_profile: true
   <summary>End of Movement VI and Exposition of Movement VII of Beethoven String Quartet No.14, Op.131 </summary>
   <video src="https://zengruihan.github.io/media/Beethoven Op.131 Movement 6 & 7.mp4" controls width="500"></video>
   
-  Fun fact: the main theme from the finale was once used as the opening music for some [IHES lecture recordings](https://www.youtube.com/watch?v=YQzltmJ0hN8&t=32s).
+  <p>
+  Fun fact: the main theme from the finale was once used as the opening music for some
+  <a href="https://www.youtube.com/watch?v=YQzltmJ0hN8&t=32s">IHES lecture recordings</a>.
+</p>
+
 </details>
 
 See [here](https://zengruihan.github.io/attribution) for attributions.
