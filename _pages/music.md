@@ -22,7 +22,7 @@ author_profile: true
   <video src="https://zengruihan.github.io/media/Beethoven Op.131 Movement 6 & 7.mp4" controls width="500"></video>
 </details>
 
-See [here](https://zengruihan.github.io/attribution) for attribution.
+See [here](https://zengruihan.github.io/attribution) for attributions.
 
 
 ------------------------------------------------
