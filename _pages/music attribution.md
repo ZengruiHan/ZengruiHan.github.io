@@ -63,4 +63,21 @@ author_profile: true
 
 </details>
 
+<details>
+  <summary>Coda of Movement IV of Schubert String Quintet in C major, D.956 </summary>
+  <video src="https://zengruihan.github.io/media/Schubert D.956 Movement 4.mp4" controls width="500"></video>
+  
+  <p>
+  Music: “String Quintet in C major, D.956” by Franz Schubert – 	Chamber Music Society of Lincoln Center.
+  <a href="https://imslp.org/wiki/String_Quintet,_D.956_(Schubert,_Franz)">Source</a>.
+  Licensed under
+  <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/">CC BY-NC-ND 3.0</a>
+</p>
+
+<p>
+  Score:
+  <a href="https://imslp.org/wiki/String_Quintet,_D.956_(Schubert,_Franz)">Source</a>,
+  edited by Eusebius Mandyczewski (1857–1929). Public Domain.</a>
+</p>
+</details>
 
