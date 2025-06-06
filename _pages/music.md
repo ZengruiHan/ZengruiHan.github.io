@@ -35,6 +35,12 @@ author_profile: true
   <video src="https://zengruihan.github.io/media/Schubert D.956 Movement 4.mp4" controls width="500"></video>
 </details>
 
+<details>
+  <summary>Introduction and Exposition of Movement I of Mendelssohn String Quartet in A minor, Op.13 </summary>
+  <video src="https://zengruihan.github.io/media/Mendelssohn Op.13 Movement 1.mp4" controls width="500"></video>
+</details>
+
+
 
 ------------------------------------------------
 
