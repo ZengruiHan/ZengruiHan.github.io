@@ -111,8 +111,9 @@ author_profile: true
 | 05/09/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Fri, 7:30pm, Beethoven String Quartets No.13 (with Grosse Fuge) and No.15, Op.130, 132, 133 |
 | 05/17/2025 | Madison, NJ | Concert Hall at Drew University | Sat, 7:30pm, Beethoven, Mass in C major, Op.86, "Christus am Ölberge"("Christ on the Mount of Olives"), Op.85 |
 | 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
+| 06/08/2025 | Philadelphia, PA | Philadelphia Orchestra | Sun, 2pm, Wagner, Tristan and Isolde |
 
-Total: 37
+Total: 38
 
 
 ## Concerts in 2023-2024 season:
