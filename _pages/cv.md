@@ -43,11 +43,11 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - Hypergeometric duality as holonomic duality. In preparation.
 
-- GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis. [PDF](https://zengruihan.github.io/files/thesis.pdf) <small>(We clarified some ambiguities in [arXiv:2404.16258](https://arxiv.org/abs/2404.16258), restated the main result, and added an explanation of the motivation)</small>
+- GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis. [PDF](https://zengruihan.github.io/files/thesis.pdf) <small>(based on [arXiv:2305.12241](https://arxiv.org/abs/2305.12241) and [arXiv:2404.16258](https://arxiv.org/abs/2404.16258))</small>
 
 - Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [arXiv:2409.17449](https://arxiv.org/abs/2409.17449).
 
-- Central charges in local mirror symmetry via hypergeometric duality. [arXiv:2404.16258](https://arxiv.org/abs/2404.16258). Under revision.
+- Central charges in local mirror symmetry via hypergeometric duality. [arXiv:2404.16258](https://arxiv.org/abs/2404.16258). [A revised version](https://zengruihan.github.io/files/central_charge_revised_version.pdf).
 
 - Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. **Épijournal de Géométrie Algébrique**, Volume 9 (2025), Article no. 11. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241) [journal](https://doi.org/10.46298/epiga.2024.11695)
 
