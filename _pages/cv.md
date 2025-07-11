@@ -43,7 +43,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - Hypergeometric duality as holonomic duality. In preparation.
 
-- GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis. [PDF](https://zengruihan.github.io/files/thesis.pdf) <small>(based on [arXiv:2305.12241](https://arxiv.org/abs/2305.12241) and [arXiv:2404.16258](https://arxiv.org/abs/2404.16258))</small>
+- GKZ hypergeometric systems and toric mirror symmetry, Ph.D. Thesis. [PDF](https://zengruihan.github.io/files/thesis.pdf)
 
 - Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [arXiv:2409.17449](https://arxiv.org/abs/2409.17449).
 
