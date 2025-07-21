@@ -25,7 +25,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 # Education
 - Ph.D. in Mathematics, **Rutgers, the State University of New Jersey**, 2020-2025
    - Advisor: [Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
-   - Thesis title: [GKZ hypergeometric systems and toric mirror symmetry](https://zengruihan.github.io/files/thesis.pdf)
+   - Thesis: [GKZ hypergeometric systems and toric mirror symmetry](https://zengruihan.github.io/files/thesis.pdf)
 
 - B.S. in Mathematics, **University of Science and Technology of China**, 2016-2020
   - Advisor: [Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
