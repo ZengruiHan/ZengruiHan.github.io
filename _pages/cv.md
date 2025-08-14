@@ -85,6 +85,10 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Teaching
 
+### University of Maryland
+
+- Math 402: Algebraic Structures, Lecturer, Fall 2025
+
 ### Rutgers University
 
 - Math 551: Abstract Algebra I, TA, Fall 2024
