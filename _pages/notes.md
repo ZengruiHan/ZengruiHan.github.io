@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Notes"
-permalink: /notes/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-Nothing here.
-
+## Fall 2025: MATH 402 Algebraic Structures
 
