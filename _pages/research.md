@@ -21,5 +21,10 @@ author_profile: true
 ### Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms.
 
 ### On hypergeometric duality conjecture, with Lev Borisov.
+We construct explicit non-degenerate pairing between solution spaces of bbGKZ systems in arbitrary dimensions, which can be seen as a globalization of the Euler pairing on derived categories of toric CYs.
+
 
 ### On duality of certain GKZ hypergeometric systems, with Lev Borisov and Chengxi Wang.
+An undergrad research project. We settled the hypergeometric duality conjecture in dim 2 by a direct computation.
+
+
