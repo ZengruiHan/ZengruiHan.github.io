@@ -14,6 +14,8 @@ author_profile: true
 
 ### Hanlon-Hicks-Lazarev resolution revisited, with Lev Borisov. In preparation.
 
+Hanlon, Hicks and Lazarev constructed resolutions of structure sheaves of toric substacks by certain line bundles on the ambient toric stacks. In this paper, we give a new and simpler proof of a generalization of their result, which includes some non-normal cases.
+
 ### Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality.
 
 ### Central charges in local mirror symmetry via hypergeometric duality.
