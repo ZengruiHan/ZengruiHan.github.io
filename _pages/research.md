@@ -20,6 +20,8 @@ Hanlon, Hicks and Lazarev constructed resolutions of structure sheaves of toric 
 
 ### Central charges in local mirror symmetry via hypergeometric duality.
 
+A byproduct of an (unsuccessful) attempt to construct a global integral structure for bbGKZ systems. We proved that certain A-brane integral structure defined by homology group of the complement of an affine hypersurface in algebraic torus is equivalent to the B-brane integral structure defined by the Grothendieck group of the corresponding toric CY.
+
 ### Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms.
 
 ### On hypergeometric duality conjecture, with Lev Borisov.
