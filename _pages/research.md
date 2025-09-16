@@ -12,9 +12,9 @@ author_profile: true
 
 # Summary of my research papers
 
-### Hanlon-Hicks-Lazarev resolution revisited, with Lev Borisov. In preparation.
+### Hanlon-Hicks-Lazarev resolution revisited, with Lev Borisov.
 
-Hanlon, Hicks and Lazarev constructed resolutions of structure sheaves of toric substacks by certain line bundles on the ambient toric stacks. In this paper, we give a new and simpler proof of their result.
+Hanlon, Hicks and Lazarev constructed resolutions of structure sheaves of toric substacks by certain line bundles on the ambient toric stacks. In this paper, we give a new and substantially simpler proof of their result.
 
 ### Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality.
 
