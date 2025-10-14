@@ -55,9 +55,10 @@ author_profile: true
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
-| 07/19/2025 | NYC, Alice Tully Hall |  | Sat, 5:00pm, Beethoven Quintet in E-flat major for Oboe, Clarinet, Bassoon, Horn, and Piano, Op.16 |
-| 10/16/2025 | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Thu, 7:30pm, Bruckner Symphony No.4 "Romantic" |
-| 10/18/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Beethoven Egmont Overture Op.84, Violin Concerto in D major Op. 61, Symphony No.7 in A major Op.92 |
+| 10/12/2025 | Clarice Smith Performing Arts Center, College Park, MD | Marc-André Hamelin | Sun, 3:00pm, Beethoven Piano Sonata No.29 in B-flat major, Op.106, "Hammerklavier" |
+| 10/19/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sun, 3pm, Beethoven Egmont Overture Op.84, Violin Concerto in D major Op. 61, Symphony No.7 in A major Op.92 |
+| 10/24/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Berlioz, Symphonie fantastique |
+| 11/14/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Brahms Symphony No.3 |
 | 11/15/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Beethoven Piano Concerto No.1 in C major, No.15, Saint-Saëns Symphony No. 3, “Organ Symphony” |
 | 12/04/2025 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
 | [12/10/2025](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/chamber-orchestra-of-europe) | Kimmel center, Philadelphia, PA | Chamber Orchestra of Europe | Wed, 7:30pm, Brahms Tragic Overture, Double Concerto, Symphony No.1 |
@@ -118,6 +119,7 @@ author_profile: true
 | 05/17/2025 | Madison, NJ | Concert Hall at Drew University | Sat, 7:30pm, Beethoven, Mass in C major, Op.86, "Christus am Ölberge"("Christ on the Mount of Olives"), Op.85 |
 | 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
 | 06/08/2025 | Philadelphia, PA | Philadelphia Orchestra | Sun, 2pm, Wagner, Tristan and Isolde |
+| 06/17/2025 | Philadelphia, PA | Philadelphia Orchestra | Tue, 8pm, Beethoven Piano Concerto No.4 in G major, Op.58, Symphony No.5 in C minor, Op.67 |
 
 Total: 38
 
@@ -202,7 +204,7 @@ Total: 4
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 39 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
+Current progress: 41 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -217,13 +219,13 @@ Current progress: 39 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 | Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
 | Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) <br> 10/10/2024, Adelphi Orchestra, Fair Lawn, NJ |
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
-| Op.58 | Piano Concerto No.4 in G major | 01/05/2024, NY Philharmonic, NYC |
+| Op.58 | Piano Concerto No.4 in G major | 01/05/2024, NY Philharmonic, NYC <br> 06/17/2025, Philadelphia Orchestra, Philadelphia, PA   |
 | Op.59 | String Quartet No.7 in F major, "Razumovsky", Op.59 No.1 <br>  String Quartet No.8 in E minor, "Razumovsky", Op.59 No.2 <br> String Quartet No.9 in C major, "Razumovsky", Op.59 No.3  | 01/28/2025, Calidore String Quartet, NYC | 
 | Op.60 | Symphony No.4 in B-flat major | 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
 | Op.62 | Coriolan Overture | 03/12/2025, Kaufman center, New York City, NY  |
 | Op.66 | Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte |  04/24/2025, Curtis Institute of Music, Philadelphia, PA | 
-| Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY  |
+| Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY <br> 06/17/2025, Philadelphia Orchestra, Philadelphia, PA  |
 | Op.68 | Symphony No.6 in F major, "Pastoral" | 11/17/2023, Philadelphia Orchestra, Philadelphia, PA |
 | Op.69 | Sonata in A major for Cello and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.70 | Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 | 01/26/2025, Alice Tully Hall, NYC, NY |
@@ -231,6 +233,7 @@ Current progress: 39 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 | Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY <br> 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.74 | String Quartet No.10 in E-flat major, "Harp" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.77 | Fantasia in G minor | 05/04/2025, Pierre-Laurent Aimard, Carnegie Hall, NYC |
+| Op.84 | Egmont Overture | 10/19/2025, National Symphony Orchestra, Washington D.C.|
 | Op.85 | Mass in C major | 05/17/2025, Madison, NJ |
 | Op.86 | Oratorio, "Christus am Ölberge"("Christ on the Mount of Olives") | 05/17/2025, Madison, NJ |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
@@ -238,6 +241,7 @@ Current progress: 39 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
 | Op.95 | String Quartet No.11 in F minor, "Serioso" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.102 | Sonata in C major for Cello and Piano, Op.102 No.1 <br> Sonata in D major for Cello and Piano, Op.102 No.2| 04/17/2025, Juilliard School, NYC <br> 05/06/2026, Alice Tully Hall, NYC |
+| Op.106 | Piano Sonata No.29 in B flat major, "Hammerklavier" | 10/12/2025, Marc-André Hamelin, College Park, MD |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
 | Op.111 | Piano Sonata No.32 in C minor | 03/13/2024, Danny Driver, Carnegie Hall, NYC |
 | Op.121a | 10 Variations on 'Ich bin der Schneider Kakadu' | 05/07/2025, Juilliard School, NYC |
