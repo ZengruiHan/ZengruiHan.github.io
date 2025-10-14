@@ -59,6 +59,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Talks and Presentations
 
+- [JHU-UMD Algebra and Number Theory Day](https://sites.krieger.jhu.edu/antd/), Nov 2025.
+
 - [Georgia Algebraic Geometry Symposium](https://sites.google.com/view/gags2025), mini-talk, Mar 2025.
 
 - [Syzygies and Mirror Symmetry Virtual Seminar](https://sites.google.com/umn.edu/smsseminar?usp=sharing), Feb 2025.
