@@ -79,7 +79,7 @@ author_profile: true
 
 ## Concerts in the past seasons
 
-<details>
+<details markdown="1">
 <summary> 2024-2025 season </summary>
 
 | Date | Location | Performers | Remarks |
@@ -129,7 +129,7 @@ Total: 38
 </details>
 
 
-<details>
+<details markdown="1">
 <summary> 2023-2024 season </summary>
 
 | Date | Location | Performers | Remarks |
@@ -165,7 +165,7 @@ Total: 26
 
 </details>
 
-<details>
+<details markdown="1">
 <summary> 2022-2023 season </summary>
 
 | Date | Location | Performers | Remarks |
@@ -196,7 +196,7 @@ Total: 21
 
 </details>
 
-<details>
+<details markdown="1">
 <summary> 2021-2022 season </summary>
 
 | Date | Location | Performers | Remarks |
