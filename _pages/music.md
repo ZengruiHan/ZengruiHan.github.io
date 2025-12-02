@@ -77,7 +77,10 @@ author_profile: true
 | [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
 
 
-## Concerts in 2024-2025 season:
+## Concerts in the past seasons
+
+<details>
+<summary> 2024-2025 season </summary>
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -123,8 +126,11 @@ author_profile: true
 
 Total: 38
 
+</details>
 
-## Concerts in 2023-2024 season:
+
+<details>
+<summary> 2023-2024 season </summary>
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -157,7 +163,10 @@ Total: 38
 
 Total: 26
 
-## Concerts in 2022-2023 season:
+</details>
+
+<details>
+<summary> 2022-2023 season </summary>
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -185,8 +194,10 @@ Total: 26
 
 Total: 21
 
+</details>
 
-## Concerts in 2021-2022 season:
+<details>
+<summary> 2021-2022 season </summary>
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -197,14 +208,16 @@ Total: 21
 
 Total: 4
 
+</details>
+
 ------------------------------------------------
 
 
-## Beethoven's works that I've listened to in a live performance 
+## "Beethoven Project"
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: 41 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) out of 135.
+Current progress: $\mathbb{C}$ 41 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) / 135.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
