@@ -59,8 +59,6 @@ author_profile: true
 | 10/19/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sun, 3pm, Beethoven Egmont Overture Op.84, Violin Concerto in D major Op. 61, Symphony No.7 in A major Op.92 |
 | 10/24/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Berlioz, Symphonie fantastique |
 | 11/14/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Brahms Symphony No.3 |
-| 11/15/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Beethoven Piano Concerto No.1 in C major, No.15, Saint-Saëns Symphony No. 3, “Organ Symphony” |
-| 12/04/2025 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
 | [12/10/2025](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/chamber-orchestra-of-europe) | Kimmel center, Philadelphia, PA | Chamber Orchestra of Europe | Wed, 7:30pm, Brahms Tragic Overture, Double Concerto, Symphony No.1 |
 | [01/09/2026 - 01/11/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahlers-symphony-no-4) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.4 |
 | 01/17/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra & Daniil Trifonov | Sat, 8pm, Brahms Piano Concerto No.1, Stravinsky, "The Rite of Spring" |
@@ -75,6 +73,7 @@ author_profile: true
 | [05/07/2026 - 05/09/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/bach-and-mozart-piano-classics) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Piano Concerto No.23 |
 | 05/13/2026 | NYC, Carnegie Hall | Evgeny Kissin | Wed, 8:00pm, Beethoven Piano Sonata No.7 in D Major, Op.10 No.3 |
 | [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
+| 05/21/2026 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
 
 
 ## Concerts in the past seasons
