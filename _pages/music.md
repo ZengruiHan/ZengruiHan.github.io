@@ -215,8 +215,6 @@ Total: 4
 
 ## "Beethoven Project"
 
-(My goal is to collect more than 120 out of the total 135 works before I die.)
-
 Current progress: $\frac{41 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 31\%$.
 
 | opus | works | dates, locations, performers |
