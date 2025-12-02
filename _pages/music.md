@@ -217,7 +217,7 @@ Total: 4
 
 (My goal is to collect more than 120 out of the total 135 works before I die.)
 
-Current progress: $\mathbb{C}$ 41 + 1/3 (Op.1) + 1/3 (Op.10) + 1/2 (Op.70) / 135.
+Current progress: $\frac{41 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
