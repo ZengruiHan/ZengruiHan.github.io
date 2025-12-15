@@ -16,6 +16,8 @@ redirect_from:
 
 - My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. See [here](https://zengruihan.github.io/research/) for more details.
 
+- I'm co-organizing the [Algebraic Geometry Seminar](https://www-math.umd.edu/research/seminars/algebraic-geometry.html) at University of Maryland College Park with Dori Bejleri, Amin Gholampour and Junyan Zhao.
+
 - Fall 2025: learning seminar on log geometry -- [seminar website](https://sites.google.com/umd.edu/log-gemetry).
 
 
