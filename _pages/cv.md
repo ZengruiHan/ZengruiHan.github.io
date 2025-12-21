@@ -16,7 +16,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Appointments
 
-- 2025-2028, **University of Maryland, College Park**, Brin Postdoctoral Fellow
+- 2025-present, **University of Maryland, College Park**, Brin Postdoctoral Fellow
 - 2020-2021, **University of Science and Technology of China**, Research Assistant
 
 ------------------------------------------------
