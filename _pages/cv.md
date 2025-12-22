@@ -87,6 +87,7 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 ### University of Maryland
 
+- Math 301: Introduction to Mathematical Proof, Spring 2026
 - Math 402: Algebraic Structures, Lecturer, Fall 2025
 
 ### Rutgers University
