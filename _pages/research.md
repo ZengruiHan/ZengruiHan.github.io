@@ -19,6 +19,8 @@ Hanlon, Hicks and Lazarev constructed resolutions of structure sheaves of toric 
 
 ### Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality.
 
+In this paper we study the so-called generalized Pfaffian double mirrors, which are predicted to share the same mirror family, hence are expected to have equivalent derived categories (or strictly speaking, certain categorical resolutions) and equal Hodge numbers (interpreted in terms of Batyrev's stringy Hodge numbers). The odd-dimensional cases are well-behaved and both statements are established (c.f. Rennemo-Segal and Borisov-Libgober), however the even-dimensional cases are more subtle. More precisely, to obtain the desired equality of Hodge numbers, one has to modify the discrepancies of a log resolution of Pfaffian varieties. It would be interesting to understand the modification conceptually, and ideally to replace it with a less ad-hoc construction.
+
 ### Central charges in local mirror symmetry via hypergeometric duality.
 
 A byproduct of an (unsuccessful) attempt to construct a global integral structure for bbGKZ systems. We proved that certain A-brane integral structure defined by homology group of the complement of an affine hypersurface in algebraic torus is equivalent to the B-brane integral structure defined by the Grothendieck group of the corresponding toric CY.
