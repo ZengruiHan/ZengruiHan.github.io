@@ -214,7 +214,7 @@ Total: 4
 
 ## "Beethoven Project"
 
-Current progress: $\frac{41 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 31\%$.
+Current progress: $\frac{42 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 32\%$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -254,6 +254,7 @@ Current progress: $\frac{41 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.106 | Piano Sonata No.29 in B flat major, "Hammerklavier" | 10/12/2025, Marc-André Hamelin, College Park, MD |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
 | Op.111 | Piano Sonata No.32 in C minor | 03/13/2024, Danny Driver, Carnegie Hall, NYC |
+| Op.120 | Diabelli Variations | 01/11/2026, Igor Levit, Washington D.C. |
 | Op.121a | 10 Variations on 'Ich bin der Schneider Kakadu' | 05/07/2025, Juilliard School, NYC |
 | Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY <br> 04/04/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/05/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/06/2025, NJ Symphony Orchestra, New Brunswick, NJ |
 | Op.127 | String Quartet No.12 in E-flat major | 02/04/2025, Alice Tully Hall, NYC, NY |
