@@ -4,6 +4,7 @@
   date: 2025-09-14
   venue: "arXiv preprint"
   type: "preprint"
+  submitted: true
   arxiv: "2509.11077"
   doi: null
   url: ""
@@ -16,6 +17,7 @@
   date: 2024-09-26
   venue: "arXiv preprint"
   type: "preprint"
+  submitted: true
   arxiv: "2409.17449"
   doi: null
   url: ""
