@@ -59,6 +59,8 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Talks and Presentations
 
+- AMS Spring Eastern Meeting 2026, Special Session on Group Actions and Combinatorics in Algebraic Geometry and Commutative Algebra, Mar 2026.
+
 - [JHU-UMD Algebra and Number Theory Day](https://sites.krieger.jhu.edu/antd/), Nov 2025.
 
 - [Georgia Algebraic Geometry Symposium](https://sites.google.com/view/gags2025), mini-talk, Mar 2025.
