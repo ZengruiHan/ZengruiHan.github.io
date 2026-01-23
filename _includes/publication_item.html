@@ -7,9 +7,7 @@
   {% if p.doi or p.arxiv or p.url or p.pdf %}
     <span class="pub-links">
       {% if p.doi %}
-        <a href="https://doi.org/{{ p.doi | strip }}" target="_blank" rel="noopener" title="DOI">
-          <i class="ai ai-doi"></i>
-        </a>
+        <a href="https://doi.org/{{ p.doi | strip }}" target="_blank" rel="noopener" title="DOI"><i class="ai ai-doi"></i></a>
       {% endif %}{% if p.arxiv %}
         <a href="https://arxiv.org/abs/{{ p.arxiv | strip }}" target="_blank" rel="noopener" title="arXiv">
           <i class="ai ai-arxiv"></i>
