@@ -2,8 +2,7 @@
 
 <li>
   {{ p.title}}
-  {% if p.coauthors %} (with {{ p.coauthors }}){% endif %}
-  {% if p.venue %}, <em>{{ p.venue }}</em>{% endif %}
+  {% if p.coauthors %} (with {{ p.coauthors }}){% endif %}{% if p.venue %}, <em>{{ p.venue }}</em>{% endif %}
   {% if p.year %} ({{ p.year }}){% endif %}
 
   {% if p.doi or p.arxiv or p.url or p.pdf %}
