@@ -1,6 +1,7 @@
 - title: "Hanlon-Hicks-Lazarev resolution revisited"
   coauthors: "Lev Borisov"
   year: 2025
+  date: 2025-09-14
   venue: "arXiv preprint"
   type: "preprint"
   arxiv: "2509.11077"
@@ -12,6 +13,7 @@
 - title: "Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality"
   coauthors: null
   year: 2024
+  date: 2024-09-26
   venue: "arXiv preprint"
   type: "preprint"
   arxiv: "2409.17449"
@@ -23,6 +25,7 @@
 - title: "Central charges in local mirror symmetry via hypergeometric duality"
   coauthors: null
   year: 2024
+  date: 2024-04-25
   venue: "Advances in Mathematics"
   type: "publication"
   arxiv: "2404.16258"
@@ -34,6 +37,7 @@
 - title: "Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms"
   coauthors: null
   year: 2023
+  date: 2023-05-20
   venue: "Épijournal de Géométrie Algébrique"
   type: "publication"
   arxiv: "2305.12241"
@@ -45,6 +49,7 @@
 - title: "On hypergeometric duality conjecture"
   coauthors: "Lev Borisov"
   year: 2023
+  date: 2023-01-03
   venue: "Advances in Mathematics"
   type: "publication"
   arxiv: "2301.01374"
@@ -56,6 +61,7 @@
 - title: "On duality of certain GKZ hypergeometric systems"
   coauthors: "Lev Borisov and Chengxi Wang"
   year: 2019
+  date: 2019-10-09
   venue: "Asian Journal of Mathematics"
   type: "publication"
   arxiv: "1910.04039"
