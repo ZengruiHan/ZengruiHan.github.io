@@ -6,4 +6,90 @@
   location: ""
   remark: null
 
+- name: "JHU-UMD Algebra and Number Theory Day"
+  year: 2025
+  month: November
+  date: 2025-11
+  institution: "University of Maryland, College Park"
+  location: ""
+  remark: null
 
+- name: "Georgia Algebraic Geometry Symposium"
+  year: 2025
+  month: March
+  date: 2025-03
+  institution: "University of Georgia"
+  location: ""
+  remark: "mini-talk"
+
+- name: "Syzygies and Mirror Symmetry Virtual Seminar"
+  year: 2025
+  month: February
+  date: 2025-02
+  institution: "Online"
+  location: ""
+  remark: null
+
+- name: "Western Algebraic Geometry Symposium"
+  year: 2024
+  month: November
+  date: 2024-11
+  institution: "University of Arizona"
+  location: ""
+  remark: "poster"
+
+- name: "Algebraic Geometry Northeastern Series"
+  year: 2024
+  month: November
+  date: 2024-11
+  institution: "Dartmouth College"
+  location: ""
+  remark: "5-min talk & poster"
+
+- name: "Rutgers Algebra Seminar"
+  year: 2024
+  month: October
+  date: 2024-10
+  institution: "Rutgers University"
+  location: ""
+  remark: null
+
+- name: "Columbia Enumerative Geometry Seminar"
+  year: 2024
+  month: September
+  date: 2024-09
+  institution: "Columbia University"
+  location: ""
+  remark: null
+
+- name: "Richmond Geometry Meeting"
+  year: 2024
+  month: August
+  date: 2024-08
+  institution: "Virginia Commonwealth University"
+  location: ""
+  remark: "poster"
+
+- name: "Rutgers Algebra Seminar"
+  year: 2024
+  month: April
+  date: 2024-04
+  institution: "Rutgers University"
+  location: ""
+  remark: null
+
+- name: "Algebraic Geometry Northeastern Series"
+  year: 2023
+  month: October
+  date: 2023-10
+  institution: "University of Pennsylvania"
+  location: ""
+  remark: "5-min talk"
+
+- name: "Rutgers Algebra Seminar"
+  year: 2023
+  month: February
+  date: 2023-02
+  institution: "Rutgers University"
+  location: ""
+  remark: null
