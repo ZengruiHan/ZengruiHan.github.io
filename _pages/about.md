@@ -12,7 +12,7 @@ redirect_from:
 
 **About Me**
 
-- I'm a Brin Postdoctoral Fellow in the Mathematics Department at the University of Maryland, College Park, working with [Amin Gholampour](https://math.umd.edu/~amingh/). I obtained my Ph.D. at Rutgers University in 2025 under [Lev Borisov](https://sites.math.rutgers.edu/~borisov/). Prior to that, I obtained my bachelor's degree from University of Science and Technology of China in 2020.
+- I'm a Brin Postdoctoral Fellow in the Mathematics Department at the University of Maryland, College Park, working with [Amin Gholampour](https://math.umd.edu/~amingh/). I obtained my Ph.D. at Rutgers University in 2025 under [Lev Borisov](https://sites.math.rutgers.edu/~borisov/). More details can be found in my [CV](https://zengruihan.github.io/files/cv.pdf).
 
 - My main research interest is Algebraic Geometry, especially mirror symmetry and related areas.
 
