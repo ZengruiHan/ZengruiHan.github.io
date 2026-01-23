@@ -1,15 +1,13 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-    
+
   - title: "Research"
     url: /research/
 
   - title: "Talks"
     url: /talks/
 
-  - title: "Notes & Resources"
+  - title: "Resources"
     url: /resources/
 
   - title: "Teaching"
@@ -17,4 +15,3 @@ main:
 
   - title: "Music & Concerts"
     url: /music/
-   

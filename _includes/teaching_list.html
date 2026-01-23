@@ -1,0 +1,19 @@
+{% assign teaching = site.data.teaching | sort: "date" | reverse %}
+
+<h2>University of Maryland, College Park</h2>
+<ul>
+  {% for p in teaching %}
+    {% if p.institution == "UMD" %}
+      {% include teaching_item.html p=p %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Rutgers, the State University of New Jersey</h2>
+<ul>
+  {% for p in teaching %}
+    {% if p.institution == "Rutgers" %}
+      {% include teaching_item.html p=p %}
+    {% endif %}
+  {% endfor %}
+</ul>
