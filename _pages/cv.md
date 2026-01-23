@@ -44,13 +44,6 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 {% include publications_list.html %}
 
 
-## In progress
-
-- A K-theoretic version of the Fulton-Sturmfels formula.
-
-- Hypergeometric duality as holonomic duality.
-
-
 
 ------------------------------------------------
 
