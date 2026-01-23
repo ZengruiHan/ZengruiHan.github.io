@@ -12,7 +12,12 @@ redirect_from:
 
  I'm a Brin Postdoctoral Fellow in the Mathematics Department at the University of Maryland, College Park, working with [Amin Gholampour](https://math.umd.edu/~amingh/). I obtained my Ph.D. at Rutgers University in 2025 under [Lev Borisov](https://sites.math.rutgers.edu/~borisov/). More details can be found in my [CV](https://zengruihan.github.io/files/cv.pdf).
 
- My main research interest is Algebraic Geometry, especially mirror symmetry and related areas.
+ My main research interest is Algebraic Geometry, especially mirror symmetry and related areas. Particularly I'm interested in:
+ 
+ - Mirror symmetry of toric varieties (Hodge-theoretic and Homological), combinatorial constructions in mirror symmetry.
+ - Derived categories of algebraic varieties (e.g. Kuznetsov's Homological Projective Duality and categorical resolutions).
+ - Bridgeland stability conditions and their relations to mirror symmetry.
+ - Relations between combinatorics and algebraic geometry.
 
  I'm co-organizing the [Algebraic Geometry Seminar](https://www-math.umd.edu/research/seminars/algebraic-geometry.html) and [learning seminar on log geometry](https://sites.google.com/umd.edu/log-gemetry) at University of Maryland College Park with Dori Bejleri, Amin Gholampour and Junyan Zhao.
 
