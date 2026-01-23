@@ -1,10 +1,6 @@
 {% assign p = include.p %}
 
 <li>
-  {{ p.name}}
-  {% if p.remark %} ({{p.remark}}){% endif %}
-  {% if p.institution %}, {{ p.institution}}{% endif %}
-  {% if p.location %}, {{ p.location}}{% endif %}
-  {% if p.year %} {{ p.month }} {{ p.year }}{% endif %}
+  {{ p.name}}{% if p.remark %} ({{p.remark}}){% endif %}{% if p.institution %}, {{ p.institution}}{% endif %}{% if p.location %}, {{ p.location}}{% endif %}{% if p.year %} {{ p.month }} {{ p.year }}{% endif %}
 
 </li>
