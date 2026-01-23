@@ -40,4 +40,20 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-@import "custom";
+#random-quote{
+  text-align: right;      /* 整体向右对齐 */
+  font-size: 0.85em;      /* 缩小字体，可改 0.8em 更小 */
+  line-height: 1.35;
+  margin: 1rem 0;
+}
+
+#random-quote .rq-text{
+  font-style: italic;
+  white-space: pre-line;  /* 支持 \n 换行 */
+}
+
+#random-quote .rq-src{
+  margin-top: 0.25rem;
+  opacity: 0.85;
+  font-style: normal;
+}

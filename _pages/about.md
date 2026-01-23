@@ -20,6 +20,12 @@ redirect_from:
 
 - Fall 2025: learning seminar on log geometry -- [seminar website](https://sites.google.com/umd.edu/log-gemetry).
 
+<div id="random-quote">
+  <div id="random-line" class="rq-text"></div>
+  <div id="random-src" class="rq-source"></div>
+</div>
+
+
 
 <blockquote class="rq">
   <p id="rq-text"></p>
