@@ -2,4 +2,24 @@
 <a href="/sitemap/">Sitemap</a>
 <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
 </script>
+
+<script>
+  // 从 Jekyll 的 _data/random_lines.yml 导出为 JS 数组
+    window.RANDOM_LINES = {{ site.data.random_lines | jsonify }};
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+    const el = document.getElementById("random-line");
+    if (!el) return;
+
+    const lines = window.RANDOM_LINES || [];
+    if (!Array.isArray(lines) || lines.length === 0) return;
+
+    const pick = lines[Math.floor(Math.random() * lines.length)];
+    // 支持 \n 换行
+    el.textContent = String(pick).replace(/\\n/g, "\n");
+    });
+</script>
+
 <!-- end custom footer snippets -->
