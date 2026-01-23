@@ -17,3 +17,12 @@
     {% endif %}
   {% endfor %}
 </ul>
+
+<h2>In progress</h2>
+<ul>
+  {% for p in pubs %}
+    {% if p.type == "progress" %}
+      {% include publication_item.html p=p %}
+    {% endif %}
+  {% endfor %}
+</ul>
