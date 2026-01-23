@@ -1,6 +1,7 @@
 {% assign pubs = site.data.publications | sort: "date" | reverse %}
 
 <h1>Publications and preprints</h1>
+Click on the titles to see more details.
 <ul>
   {% for p in pubs %}
     {% if p.type == "publication" or p.type == "preprint" %}

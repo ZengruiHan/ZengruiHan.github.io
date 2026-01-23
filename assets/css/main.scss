@@ -60,6 +60,10 @@
 }
 
 .pub-details summary {
-  cursor: pointer;
+  cursor: text;
   list-style: none;          /* 避免 summary 自己再产生 marker */
+}
+
+.pub-extra {
+  margin-left: 1.2em; /* 让展开内容和正文对齐/缩进更自然，可调 */
 }
