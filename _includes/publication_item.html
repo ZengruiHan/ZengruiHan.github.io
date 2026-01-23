@@ -1,0 +1,36 @@
+{% assign p = include.p %}
+
+<li>
+  {{ p.title }}
+  {% if p.authors %} ({{ p.authors }}){% endif %}
+  {% if p.venue %}, <em>{{ p.venue }}</em>{% endif %}
+  {% if p.year %} ({{ p.year }}){% endif %}
+
+  {% if p.doi or p.arxiv or p.url or p.pdf %}
+    <span class="pub-links">
+      {% if p.doi %}
+        <a href="https://doi.org/{{ p.doi | strip }}" target="_blank" rel="noopener" title="DOI">
+          <i class="ai ai-doi"></i>
+        </a>
+      {% endif %}
+
+      {% if p.arxiv %}
+        <a href="https://arxiv.org/abs/{{ p.arxiv | strip }}" target="_blank" rel="noopener" title="arXiv">
+          <i class="ai ai-arxiv"></i>
+        </a>
+      {% endif %}
+
+      {% if p.pdf %}
+        <a href="{{ p.pdf }}" target="_blank" rel="noopener" title="PDF">PDF</a>
+      {% endif %}
+
+      {% if p.url %}
+        <a href="{{ p.url }}" target="_blank" rel="noopener" title="Link">Link</a>
+      {% endif %}
+    </span>
+  {% endif %}
+
+  {% if p.note %}
+    <span class="pub-note">{{ p.note }}</span>
+  {% endif %}
+</li>

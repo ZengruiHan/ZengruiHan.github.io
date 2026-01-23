@@ -1,0 +1,19 @@
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
+
+<h2>Publications</h2>
+<ul>
+  {% for p in pubs %}
+    {% if p.type == "publication" %}
+      {% include publication_item.html p=p %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<h2>Preprints</h2>
+<ul>
+  {% for p in pubs %}
+    {% if p.type == "preprint" %}
+      {% include publication_item.html p=p %}
+    {% endif %}
+  {% endfor %}
+</ul>
