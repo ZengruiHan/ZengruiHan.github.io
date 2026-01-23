@@ -4,22 +4,22 @@
 </script>
 
 <script>
-  // 从 Jekyll 的 _data/random_lines.yml 导出为 JS 数组
-    window.RANDOM_LINES = {{ site.data.random_lines | jsonify }};
-</script>
+  const lines = {{ site.data.random_lines | jsonify }};
 
-<script>
-    document.addEventListener("DOMContentLoaded", () => {
+  document.addEventListener("DOMContentLoaded", () => {
     const el = document.getElementById("random-line");
     if (!el) return;
 
-    const lines = window.RANDOM_LINES || [];
-    if (!Array.isArray(lines) || lines.length === 0) return;
+    if (!Array.isArray(lines) || lines.length < 2) {
+      // 如果这里触发，说明你的 random_lines 实际上只有 0/1 条
+      el.textContent = (lines && lines[0]) ? lines[0] : "";
+      return;
+    }
 
-    const pick = lines[Math.floor(Math.random() * lines.length)];
-    // 支持 \n 换行
-    el.textContent = String(pick).replace(/\\n/g, "\n");
-    });
+    const i = Math.floor(Math.random() * lines.length);
+    el.textContent = lines[i];
+  });
 </script>
+
 
 <!-- end custom footer snippets -->
