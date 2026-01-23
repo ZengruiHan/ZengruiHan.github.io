@@ -5,56 +5,10 @@ permalink: /music/
 author_profile: true
 ---
 
-<div class="quiz-embed">
-  <iframe
-    src="https://test-96774.web.app"
-    loading="lazy"
-    referrerpolicy="no-referrer"
-    allow="autoplay; fullscreen"
-  ></iframe>
-</div>
 
 
-## Some of my favorite excerpts 
 
-<small> These videos are created by myself. Credits and attributions for the recordings and scores I used can be found [here](https://zengruihan.github.io/attribution). </small>
-
-<details>
-  <summary>Fugue and Coda of Movement III of Beethoven Piano Sonata No.31, Op.110 </summary>
-  <video src="https://zengruihan.github.io/media/Beethoven Op.110 Movement 3.mp4" controls width="500"></video>
-</details>
-
-<details>
-  <summary>Trio of Movement III of Schubert Piano Sonata No.21, D.960 </summary>
-  <video src="https://zengruihan.github.io/media/Schubert D.960 Movement 3.mp4" controls width="500"></video>
-</details>
-
-<details>
-  <summary>End of Movement VI and Exposition of Movement VII of Beethoven String Quartet No.14, Op.131 </summary>
-  <video src="https://zengruihan.github.io/media/Beethoven Op.131 Movement 6 & 7.mp4" controls width="500"></video>
-  
-  <p>
-  Fun fact: the main theme from the finale was once used as the opening music for some
-  <a href="https://www.youtube.com/watch?v=YQzltmJ0hN8">IHES lecture recordings</a>.
-</p>
-
-</details>
-
-<details>
-  <summary>Coda of Movement IV of Schubert String Quintet in C major, D.956 </summary>
-  <video src="https://zengruihan.github.io/media/Schubert D.956 Movement 4.mp4" controls width="500"></video>
-</details>
-
-<details>
-  <summary>Introduction and Exposition of Movement I of Mendelssohn String Quartet in A minor, Op.13 </summary>
-  <video src="https://zengruihan.github.io/media/Mendelssohn Op.13 Movement 1.mp4" controls width="500"></video>
-</details>
-
-<details>
-  <summary>Scherzo of Movement III of Schumann Symphony No.4 in D minor, Op.120 </summary>
-  <video src="https://zengruihan.github.io/media/Schumann Op.120 Movement 3.mp4" controls width="500"></video>
-</details>
-
+[An interesting website to test your knowledge of classical pieces.](https://test-96774.web.app) 
 
 
 
