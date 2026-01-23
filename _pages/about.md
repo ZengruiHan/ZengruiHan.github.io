@@ -22,7 +22,7 @@ redirect_from:
 
 <div id="random-quote">
   <div id="rq-text" class="rq-text"></div>
-  <div id="rq-source" class="rq-source"></div>
+  <div id="rq-source" class="rq-src"></div>
 </div>
 
 <script>
