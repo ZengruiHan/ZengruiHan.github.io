@@ -53,9 +53,16 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 - On duality of certain GKZ hypergeometric systems, with Lev Borisov and Chengxi Wang, **Asian Journal of Mathematics**, Volume 25 (2021), No.1, 65-88. [arXiv:1910.04039](https://arxiv.org/abs/1910.04039) [journal](https://www.intlpress.com/site/pub/pages/journals/items/ajm/content/vols/0025/0001/a005/index.php)
 
+## In progress
+
+- A K-theoretic version of the Fulton-Sturmfels formula.
+
+- Hypergeometric duality as holonomic duality.
+
 
 
 ------------------------------------------------
+
 
 # Talks and Presentations
 
