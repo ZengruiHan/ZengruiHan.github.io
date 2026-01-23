@@ -58,3 +58,8 @@
   font-style: normal;
   white-space: pre-line;
 }
+
+.pub-details summary {
+  cursor: pointer;
+  list-style: none;          /* 避免 summary 自己再产生 marker */
+}
