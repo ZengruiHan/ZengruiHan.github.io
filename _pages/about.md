@@ -20,7 +20,30 @@ redirect_from:
 
 - Fall 2025: learning seminar on log geometry -- [seminar website](https://sites.google.com/umd.edu/log-gemetry).
 
-<blockquote id="random-line" style="text-align:right; white-space:pre-line;"></blockquote>
+<div class="random-quote">
+  <blockquote id="rq-text"></blockquote>
+  <div id="rq-source" class="rq-source"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const quotes = {{ site.data.quotes | jsonify }};
+  if (!Array.isArray(quotes) || quotes.length === 0) return;
+
+  const q = quotes[Math.floor(Math.random() * quotes.length)];
+
+  const textEl = document.getElementById('rq-text');
+  const srcEl  = document.getElementById('rq-source');
+  if (!textEl || !srcEl) return;
+
+  textEl.textContent = q.text || '';
+  srcEl.textContent  = q.source ? ('— ' + q.source) : '';
+});
+</script>
+
+<style>
+.random-quote .rq-source { text-align: right; }
+</style>
 
 
 
