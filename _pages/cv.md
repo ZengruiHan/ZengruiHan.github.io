@@ -33,8 +33,6 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 ------------------------------------------------
 
-# Publications and preprints
-
 {% include publications_list.html %}
 
 
