@@ -22,8 +22,8 @@ redirect_from:
 
 
 <blockquote class="rq">
-  <p id="random-line"></p>
-  <p id="random-line-src"></p>
+  <p id="rq-text"></p>
+  <p id="rq-source"></p>
 </blockquote>
 
 <script>
