@@ -20,31 +20,7 @@ redirect_from:
 
 - Fall 2025: learning seminar on log geometry -- [seminar website](https://sites.google.com/umd.edu/log-gemetry).
 
-<div id="random-quote">
-  <div id="rq-text" class="rq-text"></div>
-  <div id="rq-source" class="rq-src"></div>
-</div>
-
-<script>
-document.addEventListener('DOMContentLoaded', () => {
-  const quotes = {{ site.data.quotes | jsonify }};
-  if (!Array.isArray(quotes) || quotes.length === 0) return;
-
-  const q = quotes[Math.floor(Math.random() * quotes.length)];
-
-  const textEl = document.getElementById('rq-text');
-  const srcEl  = document.getElementById('rq-source');
-  if (!textEl || !srcEl) return;
-
-  textEl.textContent = q.text || '';
-  srcEl.textContent  = q.source ? ('— ' + q.source) : '';
-});
-</script>
-
-<style>
-.random-quote .rq-source { text-align: right; }
-</style>
-
+{% include random_quote.html %}
 
 <a href="https://info.flagcounter.com/u8zB"><img src="https://s11.flagcounter.com/count/u8zB/bg_FFFFFF/txt_000000/border_FFFFFF/columns_2/maxflags_6/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 

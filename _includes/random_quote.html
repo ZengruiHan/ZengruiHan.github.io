@@ -1,0 +1,24 @@
+<div id="random-quote">
+  <div id="rq-text" class="rq-text"></div>
+  <div id="rq-source" class="rq-src"></div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const quotes = {{ site.data.quotes | jsonify }};
+  if (!Array.isArray(quotes) || quotes.length === 0) return;
+
+  const q = quotes[Math.floor(Math.random() * quotes.length)];
+
+  const textEl = document.getElementById('rq-text');
+  const srcEl  = document.getElementById('rq-source');
+  if (!textEl || !srcEl) return;
+
+  textEl.textContent = q.text || '';
+  srcEl.textContent  = q.source ? ('— ' + q.source) : '';
+});
+</script>
+
+<style>
+.random-quote .rq-source { text-align: right; }
+</style>
