@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="quiz-embed">
   <iframe
-    src="https://目标站点/quiz/"
+    src="https://test-96774.web.app"
     loading="lazy"
     referrerpolicy="no-referrer"
     allow="autoplay; fullscreen"
