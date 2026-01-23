@@ -30,11 +30,6 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 - B.S. in Mathematics, University of Science and Technology of China, 2016-2020
   - Advisor: Xiao-Wu Chen  
 
-------------------------------------------------
-
-# Research Interests
-
-- Algebraic Geometry, especially mirror symmetry and related areas.
 
 ------------------------------------------------
 
