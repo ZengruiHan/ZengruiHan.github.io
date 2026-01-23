@@ -20,9 +20,16 @@ redirect_from:
 
 - Fall 2025: learning seminar on log geometry -- [seminar website](https://sites.google.com/umd.edu/log-gemetry).
 
-<div id="random-line" class="notice--info"
-     style="margin-top: 1rem; text-align: right; white-space: pre-line;">
-</div>
+<blockquote id="random-line"></blockquote>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const lines = {{ site.data.random_lines | jsonify }};
+  const pick = lines[Math.floor(Math.random() * lines.length)];
+  const el = document.getElementById("random-line");
+  if (el) el.textContent = pick;
+});
+</script>
 
 
 <p align="right"><font size=1>"Prince, what you are, you are through chance and birth; what I am, I am through my own labor.<br /> There are many princes and there will continue to be thousands more, but there is only one Beethoven." <br /> --From a conversation between Beethoven and Prince Lichnowsky</font> </p>
