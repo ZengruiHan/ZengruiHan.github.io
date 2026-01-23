@@ -25,13 +25,6 @@ redirect_from:
   <div id="rq-source" class="rq-source"></div>
 </div>
 
-
-
-<blockquote class="rq">
-  <p id="rq-text"></p>
-  <p id="rq-source"></p>
-</blockquote>
-
 <script>
 document.addEventListener('DOMContentLoaded', () => {
   const quotes = {{ site.data.quotes | jsonify }};
