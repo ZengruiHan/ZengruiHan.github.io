@@ -16,18 +16,18 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 # Appointments
 
-- 2025-present, **University of Maryland, College Park**, Brin Postdoctoral Fellow
-- 2020-2021, **University of Science and Technology of China**, Research Assistant
+- 2025-present, University of Maryland, College Park, Brin Postdoctoral Fellow
+- 2020-2021, University of Science and Technology of China, Research Assistant
 
 ------------------------------------------------
 
 
 # Education
-- Ph.D. in Mathematics, **Rutgers, the State University of New Jersey**, 2020-2025
+- Ph.D. in Mathematics, Rutgers, the State University of New Jersey, 2020-2025
    - Advisor: [Lev Borisov](https://sites.math.rutgers.edu/~borisov/)
    - Thesis: [GKZ hypergeometric systems and toric mirror symmetry](https://zengruihan.github.io/files/thesis.pdf)
 
-- B.S. in Mathematics, **University of Science and Technology of China**, 2016-2020
+- B.S. in Mathematics, University of Science and Technology of China, 2016-2020
   - Advisor: [Xiao-Wu Chen](http://home.ustc.edu.cn/~xwchen/)
   - Thesis Title: Fourier-Mukai Transforms and Derived McKay Correspondence
   
@@ -43,18 +43,6 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 {% include publications_list.html %}
 
-
-- Hanlon-Hicks-Lazarev resolution revisited, with Lev Borisov. [arXiv:2509.11077](https://arxiv.org/abs/2509.11077). Submitted.
-
-- Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality. [arXiv:2409.17449](https://arxiv.org/abs/2409.17449). Submitted.
-
-- Central charges in local mirror symmetry via hypergeometric duality. **Advances in Mathematics**, Volume 480, Part B (2025), 110502. [arXiv:2404.16258](https://arxiv.org/abs/2404.16258) [journal](https://www.sciencedirect.com/science/article/pii/S0001870825004001)
-
-- Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms. **Épijournal de Géométrie Algébrique**, Volume 9 (2025), Article no. 11. [arXiv:2305.12241](https://arxiv.org/abs/2305.12241) [journal](https://doi.org/10.46298/epiga.2024.11695)
-
-- On hypergeometric duality conjecture, with Lev Borisov. **Advances in Mathematics**, Volume 442 (2024), 109582. [arXiv:2301.01374](https://arxiv.org/abs/2301.01374) [journal](https://www.sciencedirect.com/science/article/pii/S0001870824000975)
-
-- On duality of certain GKZ hypergeometric systems, with Lev Borisov and Chengxi Wang, **Asian Journal of Mathematics**, Volume 25 (2021), No.1, 65-88. [arXiv:1910.04039](https://arxiv.org/abs/1910.04039) [journal](https://www.intlpress.com/site/pub/pages/journals/items/ajm/content/vols/0025/0001/a005/index.php)
 
 ## In progress
 
