@@ -39,6 +39,11 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 
 ------------------------------------------------
 
+{% include talks_list.html %}
+
+
+------------------------------------------------
+
 
 # Talks and Presentations
 
