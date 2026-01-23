@@ -2,9 +2,8 @@
 
 <li>
   {{ p.name}}
-  {% if p.coauthors %} (with {{ p.coauthors }}){% endif %}
-  {% if p.institution %}, <em>{{ p.institution }}</em>{% endif %}
-  {% if p.location %}, <em>{{ p.location }}</em>{% endif %}
-  {% if p.year %} ({{ p.month }} {{ p.year }}){% endif %}
+  {% if p.institution %}, {{ p.institution}}{% endif %}
+  {% if p.location %}, {{ p.location}}{% endif %}
+  {% if p.year %} {{ p.month }} {{ p.year }}{% endif %}
 
 </li>
