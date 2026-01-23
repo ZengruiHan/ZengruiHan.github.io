@@ -20,10 +20,11 @@ redirect_from:
 
 - Fall 2025: learning seminar on log geometry -- [seminar website](https://sites.google.com/umd.edu/log-gemetry).
 
-<div class="random-quote">
-  <blockquote id="rq-text"></blockquote>
-  <div id="rq-source" class="rq-source"></div>
-</div>
+
+<blockquote class="rq">
+  <p id="random-line"></p>
+  <p id="random-line-src"></p>
+</blockquote>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
