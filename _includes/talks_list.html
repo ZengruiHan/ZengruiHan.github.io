@@ -1,6 +1,5 @@
 {% assign talks = site.data.talks | sort: "date" | reverse %}
 
-<h1>Talks and presentations</h1>
 <ul>
   {% for p in talks %}
     {% include talks_item.html p=p %}
