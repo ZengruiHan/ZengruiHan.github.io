@@ -5,6 +5,7 @@
   date: 2025-09
   institution: "UMD"
   location: ""
+  type: "Instructor"
 
 - title: "Introduction to Mathematical Proof"
   year: 2026
@@ -13,3 +14,85 @@
   date: 2026-01
   institution: "UMD"
   location: ""
+  type: "Instructor"
+
+- title: "Abstract Algebra I"
+  year: 2024
+  course_number: "MATH 551"
+  semester: "Fall"
+  date: 2024-09
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Precalculus"
+  year: 2024
+  course_number: "MATH 111"
+  semester: "Spring"
+  date: 2024-01
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Abstract Algebra II"
+  year: 2024
+  course_number: "MATH 552"
+  semester: "Spring"
+  date: 2024-01
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Abstract Algebra I"
+  year: 2023
+  course_number: "MATH 551"
+  semester: "Fall"
+  date: 2023-09
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Mathematical Theory of Probability"
+  year: 2023
+  course_number: "MATH 477"
+  semester: "Fall"
+  date: 2023-09
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Differential Equations for Engineering and Physics"
+  year: 2023
+  course_number: "MATH 244"
+  semester: "Spring"
+  date: 2023-01
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Linear Optimization"
+  year: 2022
+  course_number: "MATH 354"
+  semester: "Fall"
+  date: 2022-09
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Multivariable Calculus"
+  year: 2022
+  course_number: "MATH 251"
+  semester: "Spring"
+  date: 2022-01
+  institution: "Rutgers"
+  location: ""
+  type: "TA"
+
+- title: "Multivariable Calculus"
+  year: 2021
+  course_number: "MATH 251H"
+  semester: "Fall"
+  date: 2021-09
+  institution: "Rutgers"
+  location: ""
+  type: "TA"

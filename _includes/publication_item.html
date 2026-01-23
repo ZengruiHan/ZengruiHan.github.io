@@ -1,7 +1,7 @@
 {% assign p = include.p %}
 
 <li>
-  <details>
+  <details list-style: none>
   <summary>
   {{ p.title}}{% if p.coauthors %} (with {{ p.coauthors }}){% endif %}{% if p.venue %}, <em>{{ p.venue }}</em>{% endif %}
   {% if p.year %} ({{ p.year }}){% endif %}{% if p.type == "preprint" and p.submitted == true %}, submitted.{% endif %}
