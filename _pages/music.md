@@ -5,6 +5,16 @@ permalink: /music/
 author_profile: true
 ---
 
+<div class="quiz-embed">
+  <iframe
+    src="https://目标站点/quiz/"
+    loading="lazy"
+    referrerpolicy="no-referrer"
+    allow="autoplay; fullscreen"
+  ></iframe>
+</div>
+
+
 ## Some of my favorite excerpts 
 
 <small> These videos are created by myself. Credits and attributions for the recordings and scores I used can be found [here](https://zengruihan.github.io/attribution). </small>
