@@ -58,9 +58,3 @@
   font-style: normal;
   white-space: pre-line;
 }
-
-a[href^="https://info.flagcounter.com/"],
-img[src*="flagcounter.com/count/"],
-img[src*="s11.flagcounter.com/count/"]{
-  display: none !important;
-}
