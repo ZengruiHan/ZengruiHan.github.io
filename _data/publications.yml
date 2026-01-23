@@ -30,3 +30,36 @@
   url: ""
   pdf: ""
   note: ""
+
+- title: "Analytic continuation of better-behaved GKZ systems and Fourier-Mukai transforms"
+  coauthors: null
+  year: 2023
+  venue: "Épijournal de Géométrie Algébrique"
+  type: "publication"
+  arxiv: "2305.12241"
+  doi: "10.46298/epiga.2024.11695"
+  url: ""
+  pdf: ""
+  note: ""
+
+- title: "On hypergeometric duality conjecture"
+  coauthors: "Lev Borisov"
+  year: 2023
+  venue: "Advances in Mathematics"
+  type: "publication"
+  arxiv: "2301.01374"
+  doi: "10.1016/j.aim.2024.109582"
+  url: ""
+  pdf: ""
+  note: ""
+
+- title: "On duality of certain GKZ hypergeometric systems"
+  coauthors: "Lev Borisov and Chengxi Wang"
+  year: 2019
+  venue: "Asian Journal of Mathematics"
+  type: "publication"
+  arxiv: "1910.04039"
+  doi: "10.4310/AJM.2021.v25.n1.a5"
+  url: ""
+  pdf: ""
+  note: ""
