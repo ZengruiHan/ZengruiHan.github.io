@@ -6,6 +6,14 @@
   location: ""
   remark: null
 
+- name: "RIT on Algebraic Geometry: Log Geometry"
+  year: 2026
+  month: January
+  date: 2026-01
+  institution: "University of Maryland, College Park"
+  location: ""
+  remark: null 
+
 - name: "JHU-UMD Algebra and Number Theory Day"
   year: 2025
   month: November
@@ -14,13 +22,14 @@
   location: ""
   remark: null
 
-- name: "Georgia Algebraic Geometry Symposium"
+- name: "RIT on Algebraic Geometry: Log Geometry"
   year: 2025
-  month: March
-  date: 2025-03
-  institution: "University of Georgia"
+  month: September
+  date: 2025-09
+  institution: "University of Maryland, College Park"
   location: ""
-  remark: "mini-talk"
+  remark: null 
+
 
 - name: "Syzygies and Mirror Symmetry Virtual Seminar"
   year: 2025
@@ -30,21 +39,7 @@
   location: ""
   remark: null
 
-- name: "Western Algebraic Geometry Symposium"
-  year: 2024
-  month: November
-  date: 2024-11
-  institution: "University of Arizona"
-  location: ""
-  remark: "poster"
 
-- name: "Algebraic Geometry Northeastern Series"
-  year: 2024
-  month: November
-  date: 2024-11
-  institution: "Dartmouth College"
-  location: ""
-  remark: "5-min talk & poster"
 
 - name: "Rutgers Algebra Seminar"
   year: 2024
@@ -62,13 +57,7 @@
   location: ""
   remark: null
 
-- name: "Richmond Geometry Meeting"
-  year: 2024
-  month: August
-  date: 2024-08
-  institution: "Virginia Commonwealth University"
-  location: ""
-  remark: "poster"
+
 
 - name: "Rutgers Algebra Seminar"
   year: 2024
@@ -78,13 +67,7 @@
   location: ""
   remark: null
 
-- name: "Algebraic Geometry Northeastern Series"
-  year: 2023
-  month: October
-  date: 2023-10
-  institution: "University of Pennsylvania"
-  location: ""
-  remark: "5-min talk"
+
 
 - name: "Rutgers Algebra Seminar"
   year: 2023
@@ -95,6 +78,14 @@
   remark: null
 
 - name: "Short talks and posters at Algebraic Geometry Northeastern Series, Richmond Geometry Meeting, Western Algebraic Geometry Symposium, and Georgia Algebraic Geometry Symposium."
+  year: 
+  month: 
+  date: 
+  institution: 
+  location: 
+  remark: null
+
+- name: "Multiple talks at the Algebra and Geometry Learning Seminar (AnGeLS) at Rutgers University."
   year: 
   month: 
   date: 
