@@ -24,8 +24,6 @@ author_profile: true
 | 10/24/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Berlioz, Symphonie fantastique |
 | 11/14/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Brahms Symphony No.3 |
 | 01/11/2026 | Washington Performing Arts, Washington D.C. | Igor Levit | Sun, 7:30pm, Beethoven Diabelli Variations, op. 120 |
-| 01/17/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra & Daniil Trifonov | Sat, 8pm, Brahms Piano Concerto No.1, Stravinsky, "The Rite of Spring" |
-| 01/25/2026 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in E-flat major for Violin and Piano, Op.12 No.3,  Trio in D major for Violin, Viola, and Cello, Op.9 No.2, Trio in B-flat major for Piano, Violin, and Cello, Op. 97, “Archduke” |
 | 01/31/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Brahms Double Concerto |
 | 02/07/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Tchaikovsky Piano Concerto No. 1 |
 | 02/26/2026 | NYC, Carnegie Hall | Leonkoro Quartet | Thu, 7:30pm, Mendelssohn String Quartet in A minor, Op.13, Schubert String Quartet in D minor, D.810, "Death and the Maiden" |
