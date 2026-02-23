@@ -1,3 +1,11 @@
+- name: "Geometry Seminar"
+  year: 2026
+  month: April
+  date: 2026-04
+  institution: "George Mason University"
+  location: ""
+  remark: null
+
 - name: "Special Session on Group Actions and Combinatorics in Algebraic Geometry and Commutative Algebra, AMS Spring Eastern Meeting 2026"
   year: 2026
   month: March
