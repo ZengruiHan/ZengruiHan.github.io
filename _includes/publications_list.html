@@ -10,6 +10,15 @@ Click on the titles to see more details.
   {% endfor %}
 </ul>
 
+<h2>In preparation</h2>
+<ul>
+  {% for p in pubs %}
+    {% if p.type == "preparation" %}
+      {% include publication_item.html p=p %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
 <h2>In progress</h2>
 <ul>
   {% for p in pubs %}
