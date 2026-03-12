@@ -25,9 +25,7 @@ author_profile: true
 | 11/14/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Brahms Symphony No.3 |
 | 01/11/2026 | Washington Performing Arts, Washington D.C. | Igor Levit | Sun, 7:30pm, Beethoven Diabelli Variations, op. 120 |
 | 01/31/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Brahms Double Concerto |
-| 02/07/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Tchaikovsky Piano Concerto No. 1 |
-| 02/26/2026 | NYC, Carnegie Hall | Leonkoro Quartet | Thu, 7:30pm, Mendelssohn String Quartet in A minor, Op.13, Schubert String Quartet in D minor, D.810, "Death and the Maiden" |
-| [03/06/2026 - 03/08/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahlers-symphony-no-2) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.2, "Resurrection" |
+| 03/08/2026 | Clarice Smith Performing Arts Center, College Park, MD | Richard Goode | Sun, 3:00pm, Schubert Piano Sonata No.21 in B major, D.960 |
 | 03/19/2026 | Kimmel center, Philadelphia, PA | Víkingur Ólafsson | Thu, 7:30pm, Beethoven Piano Sonata No.30, No.31, No.32 |
 | 04/04/2026 | The Kennedy Center, Washington D.C. | The Kennedy Center, Washington D.C. | Sat, 8pm, Richard Strauss, Tod und Verklärung, Sibelius Violin Concerto |
 | [04/10/2026 - 04/12/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mozart-great-and-glorious) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Symphony No.40 & Requiem |
