@@ -27,12 +27,22 @@ author_profile: true
 | 01/31/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Brahms Double Concerto |
 | 03/08/2026 | Clarice Smith Performing Arts Center, College Park, MD | Richard Goode | Sun, 3:00pm, Schubert Piano Sonata No.21 in B major, D.960 |
 | 04/04/2026 | The Kennedy Center, Washington D.C. | The Kennedy Center, Washington D.C. | Sat, 8pm, Richard Strauss, Tod und Verklärung, Sibelius Violin Concerto |
-| [04/10/2026 - 04/12/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mozart-great-and-glorious) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Symphony No.40 & Requiem |
 | [05/07/2026 - 05/09/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/bach-and-mozart-piano-classics) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Piano Concerto No.23 |
 | 05/13/2026 | NYC, Carnegie Hall | Evgeny Kissin | Wed, 8:00pm, Beethoven Piano Sonata No.7 in D Major, Op.10 No.3 |
 | [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
 | 05/21/2026 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
+｜ 07/12/2026 ｜ Music center at Strathmore, MD | Baltimore Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.1 in C major, Op.21 |
 
+## Concerts in 2026-2027 season:
+
+| Date | Location | Performers | Remarks |
+| ---- | ---- | ---- | ---- |
+| 10/25/2026 | Alice Tully Hall, NYC | Gilles Vonsattel | Sun, 5:00pm, Beethoven Piano Sonata No.1, No.21, No.29 |
+| 03/11/2027 | Alice Tully Hall, NYC | Gilles Vonsattel | Thu, 7:30pm, Beethoven Piano Sonata No.9, No.12, No.16, No.31 |
+| 04/09/2027 | Carnegie Hall, NYC | Igor Levit | Fri, 8pm, Beethoven Piano Sonata No.4, No.9, No.10, No.24, No.26 |
+| 04/10/2027 | Carnegie Hall, NYC | Igor Levit | Sat, 8pm, Beethoven Piano Sonata No.5, No.19, No.20, No.22, No.23 |
+| 04/11/2027 | Carnegie Hall, NYC | Igor Levit | Sun, 2pm, Beethoven Piano Sonata No.3, No.8, No.11, No.17 |
+| 04/11/2027 | Alice Tully Hall, NYC |  | Sun, 5pm, Mozart Quintet in D major K.593, Brahms Quartet No.2 in A major, Op.26 |
 
 ## Concerts in the past seasons
 
