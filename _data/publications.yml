@@ -91,27 +91,3 @@
   pdf: ""
   note: ""
   summary: "An undergrad research project. We settled the hypergeometric duality conjecture in dim 2 by a direct computation."
-
-- title: "A K-theoretic version of the Fulton-Sturmfels formula"
-  coauthors: null
-  year: null
-  venue: null
-  type: "preparation"
-  arxiv: null
-  doi: null
-  url: ""
-  pdf: ""
-  note: ""
-  summary: ""
-
-- title: "Hypergeometric duality as holonomic duality"
-  coauthors: null
-  year: null
-  venue: null
-  type: "progress"
-  arxiv: null
-  doi: null
-  url: ""
-  pdf: ""
-  note: ""
-  summary: ""
