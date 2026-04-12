@@ -1,16 +1,16 @@
-- title: "Minimal resolutions of toric substacks by line bundles"
-  coauthors: null
-  year: 2026
-  date: 2026-05-01
-  venue: null
-  type: "preprint"
-  submitted: false
-  arxiv: null
-  doi: null
-  url: ""
-  pdf: ""
-  note: ""
-  summary: "We construct minimal resolutions of pushforward of structure sheaves of toric substacks of toric stacks by line bundles and provide a canonical and combinatorial description of the differentials of such minimal resolutions."
+# - title: "Minimal resolutions of toric substacks by line bundles"
+#   coauthors: null
+#   year: 2026
+#   date: 2026-05-01
+#   venue: null
+#   type: "preprint"
+#   submitted: false
+#   arxiv: null
+#   doi: null
+#   url: ""
+#   pdf: ""
+#   note: ""
+#   summary: "We construct minimal resolutions of pushforward of structure sheaves of toric substacks of toric stacks by line bundles and provide a canonical and combinatorial description of the differentials of such minimal resolutions."
 
 - title: "Hanlon-Hicks-Lazarev resolution revisited"
   coauthors: "Lev Borisov"
