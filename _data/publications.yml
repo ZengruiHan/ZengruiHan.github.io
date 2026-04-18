@@ -10,7 +10,7 @@
   url: ""
   pdf: ""
   note: ""
-  summary: "We construct minimal resolutions of pushforwards of structure sheaves of toric substacks of smooth toric stacks by line bundles as strong deformation retracts of cellular resolutions constructed by Hanlon, Hicks and Lazarev. We also provide a canonical and combinatorial description of the differentials of such minimal resolutions."
+  summary: "We construct minimal resolutions of pushforwards of structure sheaves of toric substacks of smooth toric stacks by line bundles. The idea is to use Moore-Penrose inverses to construct a certain homotopy (or splitting) on the HHL resolution, then use homological perturbation lemma to remove all redundant summands."
 
 - title: "Hanlon-Hicks-Lazarev resolution revisited"
   coauthors: "Lev Borisov"
