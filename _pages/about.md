@@ -14,10 +14,9 @@ redirect_from:
 
  My main research interest is algebraic geometry. Recently I'm thinking about questions related to topological toric manifolds (TTM) and their potential relation to mirror symmetry. I'm also interested in:
  
- - Mirror symmetry of toric varieties (Hodge-theoretic and Homological), combinatorial constructions in mirror symmetry.
- - Derived categories of algebraic varieties (e.g. Kuznetsov's Homological Projective Duality and categorical resolutions).
- - Bridgeland stability conditions and their relations to mirror symmetry.
- - Relations between combinatorics and algebraic geometry.
+ - Toric mirror symmetry, combinatorial constructions in mirror symmetry.
+ - Derived categories of algebraic varieties, Bridgeland stability conditions and their relations to mirror symmetry.
+ - Combinatorial algebraic geometry.
 
  I'm co-organizing the [Algebraic Geometry Seminar](https://www-math.umd.edu/research/seminars/algebraic-geometry.html) and [learning seminar on log geometry](https://sites.google.com/umd.edu/log-gemetry) at University of Maryland College Park with Dori Bejleri, Amin Gholampour and Junyan Zhao.
 
@@ -25,4 +24,4 @@ redirect_from:
 
 {% include flag_counter.html %}
 
-<font size=1>(Last Update: 01/23/2026)</font>
+<font size=1>(Last Update: 04/28/2026)</font>
