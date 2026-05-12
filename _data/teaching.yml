@@ -16,6 +16,15 @@
   location: ""
   type: "Instructor"
 
+- title: "Elementary Calculus I"
+  year: 2026
+  course_number: "MATH 120"
+  semester: "Fall"
+  date: 2026-09
+  institution: "UMD"
+  location: ""
+  type: "Instructor"
+
 - title: "Abstract Algebra I"
   year: 2024
   course_number: "MATH 551"
