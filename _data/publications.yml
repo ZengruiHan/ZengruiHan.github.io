@@ -24,7 +24,7 @@
   url: ""
   pdf: ""
   note: ""
-  summary: "Hanlon, Hicks and Lazarev constructed resolutions of structure sheaves of toric substacks by certain line bundles on the ambient toric stacks. In this paper, we give a new and substantially simpler proof of their result."
+  summary: "A byproduct of trying to understand the work of Hanlon-Hicks-Lazarev on the resolution of structure sheaves of toric subvarieties. The proof we obtained is much simpler and in some sense more conceptual."
 
 - title: "Stringy Hodge numbers of Pfaffian double mirrors and Homological Projective Duality"
   coauthors: null
@@ -64,7 +64,7 @@
   url: ""
   pdf: ""
   note: ""
-  summary: ""
+  summary: "A generalization and simplification of Borisov-Horja's work on analytic continuation of GKZ systems. We proved that the Fourier-Mukai transforms between derived categories of toric CYs induced by toric wall-crossings are compatible with the analytic continuation of bbGKZ systems."
 
 - title: "On hypergeometric duality conjecture"
   coauthors: "Lev Borisov"
