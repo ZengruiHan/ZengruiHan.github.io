@@ -32,6 +32,7 @@ author_profile: true
 | [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
 | 05/21/2026 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
 | 07/12/2026 | Music center at Strathmore, MD | Baltimore Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.1 in C major, Op.21 |
+| 08/14/2026 | Wolf Trap, Vienna, VA | National Symphony Orchestra | Fri, 8pm, Beethoven, "Elegischer Gesang", Op.118, "The Consecration of the House", Op.124, Symphony No.9 in D minor, Op.125 |
 
 ## Concerts in 2026-2027 season:
 
