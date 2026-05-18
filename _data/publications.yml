@@ -5,6 +5,7 @@
   venue: "arXiv preprint"
   type: "preprint"
   submitted: false
+  submitted_version: "https://zengruihan.github.io/files/minimal_resolutions.pdf"
   arxiv: "2604.14384"
   doi: null
   url: ""
