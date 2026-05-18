@@ -11,7 +11,7 @@
   url: ""
   pdf: ""
   note: ""
-  summary: "We develop a strategy for constructing minimal resolutions from explicit non-minimal cellular resolutions via the homological perturbation lemma. As an application, we construct minimal resolutions by line bundles of pushforwards of structure sheaves of toric substacks of smooth toric stacks."
+  summary: "We develop a strategy for constructing minimal resolutions from explicit non-minimal cellular resolutions via the homological perturbation lemma. As an application, we construct minimal resolutions by line bundles of pushforwards of structure sheaves of toric substacks of smooth toric stacks. The submitted version is a little different from the arXiv version, mainly fixed some typos and slight changes in abstract and introduction."
 
 - title: "Hanlon-Hicks-Lazarev resolution revisited"
   coauthors: "Lev Borisov"
