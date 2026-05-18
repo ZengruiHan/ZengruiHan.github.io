@@ -20,6 +20,7 @@
   venue: "arXiv preprint"
   type: "preprint"
   submitted: true
+  submitted_version: null
   arxiv: "2509.11077"
   doi: null
   url: ""
