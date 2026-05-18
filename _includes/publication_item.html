@@ -4,7 +4,7 @@
   <details class="pub-details">
   <summary>
   {{ p.title}}{% if p.coauthors %} (with {{ p.coauthors }}){% endif %}{% if p.venue %}, <em>{{ p.venue }}</em>{% endif %}
-  {% if p.year %} ({{ p.year }}){% endif %}{% if p.type == "preprint" and p.submitted == true and p.submitted_version == null %}, submitted.{% endif %}{% if p.type == "preprint" and p.submitted == true and p.submitted_version !== null %}, <a href="{{ p.submitted_version }}" target="_blank" rel="noopener" title="Submitted Version">submitted version</a>.{% endif %}
+  {% if p.year %} ({{ p.year }}){% endif %}{% if p.type == "preprint" and p.submitted == true and p.submitted_version == null %}, submitted.{% endif %}{% if p.type == "preprint" and p.submitted == true and p.submitted_version %}, <a href="{{ p.submitted_version }}" target="_blank" rel="noopener" title="Submitted Version">submitted version</a>.{% endif %}
 
   {% if p.doi or p.arxiv or p.url or p.pdf %}
     <span class="pub-links">
