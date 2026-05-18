@@ -4,7 +4,7 @@
   date: 2026-04-16
   venue: "arXiv preprint"
   type: "preprint"
-  submitted: false
+  submitted: true
   submitted_version: "https://zengruihan.github.io/files/minimal_resolutions.pdf"
   arxiv: "2604.14384"
   doi: null
