@@ -184,12 +184,13 @@ Total: 4
 
 ## "Beethoven Project"
 
-Current progress: $\frac{42 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 32\%$.
+Current progress: $\frac{42 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 32.2\%$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
 | Op.1 | Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 | 10/25/2024, Alice Tully Hall, NYC, NY |
-| Op.10 | Piano Sonata No.5 in C minor, Op.10 No.1 | 10/11/2024, Xiyao Luo, New York City, NY | 
+| Op.10 | Piano Sonata No.5 in C minor, Op.10 No.1 | 10/11/2024, Xiyao Luo, New York City, NY |
+| Op.12 | Violin Sonata No.1 in D major, Op.12 No.1 | 05/21/2026, Jennifer Koh & Thomas Sauer, Kennedy Center, Washington DC |
 | Op.18 | String Quartet No.1 in F major, Op.18 No.1 <br>  String Quartet No.2 in G major, Op.18 No.2 <br> String Quartet No.3 in D major, Op.18 No.3 <br> String Quartet No.4 in C minor, Op.18 No.4 <br> String Quartet No.5 in A major, Op.18 No.5 <br> String Quartet No.6 in B-flat major, Op.18 No.6 | 10/22/2024, Calidore String Quartet, NYC <br> 10/27/2024, Calidore String Quartet, NYC | 
 | Op.19 | Piano Concerto No. 2 in B-flat major | 09/27/2024, Phil Orch & Seong-Jin Cho, Philadelphia, PA | 
 | Op.20 | Septet in E-flat major for Winds and Strings | 10/20/2024, Alice Tully Hall, NYC, NY |
