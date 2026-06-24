@@ -27,9 +27,6 @@ author_profile: true
 | 01/31/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Brahms Double Concerto |
 | 03/08/2026 | Clarice Smith Performing Arts Center, College Park, MD | Richard Goode | Sun, 3:00pm, Schubert Piano Sonata No.21 in B major, D.960 |
 | 04/04/2026 | The Kennedy Center, Washington D.C. | The Kennedy Center, Washington D.C. | Sat, 8pm, Richard Strauss, Tod und Verklärung, Sibelius Violin Concerto |
-| [05/07/2026 - 05/09/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/bach-and-mozart-piano-classics) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mozart Piano Concerto No.23 |
-| 05/13/2026 | NYC, Carnegie Hall | Evgeny Kissin | Wed, 8:00pm, Beethoven Piano Sonata No.7 in D Major, Op.10 No.3 |
-| [05/15/2026 - 05/16/2026](https://philorch.ensembleartsphilly.org/tickets-and-events/2025-26-season/mahler-and-sorey) | Kimmel center, Philadelphia, PA | Philadelphia Orchestra | Mahler Symphony No.5 |
 | 05/21/2026 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
 | 07/12/2026 | Music center at Strathmore, MD | Baltimore Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.1 in C major, Op.21 |
 | 07/18/2026 | Alice Tully Hall, NYC |  | Sat, 5:00pm, Beethoven String Quintet in C major, Op.29 |
