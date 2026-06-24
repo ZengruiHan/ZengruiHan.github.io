@@ -40,6 +40,7 @@ author_profile: true
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
+| 10/11/2026 | Marian Anderson Hall, Philadelphia, PA | Curtis Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.8 in F major, Op.93 |
 | 10/25/2026 | Alice Tully Hall, NYC | Gilles Vonsattel | Sun, 5:00pm, Beethoven Piano Sonata No.1, No.21, No.29 |
 | 12/24/2026 | Carnegie Hall, NYC | New York String Orchestra | Thu, 7:00pm, Beethoven, Overture to Die Geschöpfe des Prometheus, Symphony No.8 |
 | 03/11/2027 | Alice Tully Hall, NYC | Gilles Vonsattel | Thu, 7:30pm, Beethoven Piano Sonata No.9, No.12, No.16, No.31 |
