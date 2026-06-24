@@ -33,6 +33,7 @@ author_profile: true
 | 07/19/2026 | Koussevitzky Music Shed, Lenox/Stockbridge, MA | Boston Symphony Orchestra | Sun, 2:30pm, Beethoven Symphony No.2 in D major, Op.36 |
 | 07/20/2026 | Ozawa Hall, Tanglewood, MA | Boston Symphony Orchestra | Mon, 8pm, Beethoven Leonore Overture No.3, Op.72b |
 | 07/21/2026 | Alice Tully Hall, NYC |  | Tue, 7:30pm, Beethoven Sonata in F major for Horn and Piano, Op. 17 |
+| 08/01/2026 | Marian Anderson Hall, Philadelphia, PA | Philadelphia Orchestra | Sat, 2pm, Beethoven Coriolan Overture, Op.62, Piano Concerto No.1 in C major, Op.15, Symphony No.5 in C minor, Op.67 |
 | 08/14/2026 | Wolf Trap, Vienna, VA | National Symphony Orchestra | Fri, 8pm, Beethoven, "Elegischer Gesang", Op.118, "The Consecration of the House", Op.124, Symphony No.9 in D minor, Op.125 |
 
 ## Concerts in 2026-2027 season:
