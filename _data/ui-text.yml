@@ -180,7 +180,7 @@ tr: &DEFAULT_TR
 tr-TR:
   <<: *DEFAULT_TR
 
-# Brazilian Portguese
+# Brazilian Portuguese
 # -----------------
 pt: &DEFAULT_PT
   page                       : "Página"

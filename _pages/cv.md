@@ -71,4 +71,4 @@ A PDF version can be found [here](https://zengruihan.github.io/files/cv.pdf).
 - Summer PhD student Research Fellowship, Rutgers University, 2024
 - Huang Yu Memorial Scholarship, University of Science and Technology of China, 2019
 - Outstanding Student Scholarship, Silver Award, University of Science and Technology of China, 2018 & 2017
-- Chinese Mathematical Olympaid (CMO), Bronze Medal, 2015
+- Chinese Mathematical Olympiad (CMO), Bronze Medal, 2015

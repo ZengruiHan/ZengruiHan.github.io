@@ -18,7 +18,7 @@ redirect_from:
  - Derived categories of algebraic varieties, Bridgeland stability conditions and their relations to mirror symmetry.
  - Combinatorial algebraic geometry.
 
- I'm co-organizing the [Algebraic Geometry Seminar](https://www-math.umd.edu/research/seminars/algebraic-geometry.html) and [learning seminar on log geometry](https://sites.google.com/umd.edu/log-gemetry) at University of Maryland College Park with Dori Bejleri, Amin Gholampour and Junyan Zhao.
+ I'm co-organizing the [Algebraic Geometry Seminar](https://www-math.umd.edu/research/seminars/algebraic-geometry.html) and [learning seminar on log geometry](https://sites.google.com/umd.edu/log-gemetry) at the University of Maryland, College Park with Dori Bejleri, Amin Gholampour and Junyan Zhao.
 
 {% include random_quote.html %}
 

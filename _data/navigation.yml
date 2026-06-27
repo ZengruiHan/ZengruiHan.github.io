@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
 
   - title: "Research"
@@ -13,5 +13,5 @@ main:
   - title: "Teaching"
     url: /teaching/  
 
-  - title: "Music & Concerts"
+  - title: "Music &amp; Concerts"
     url: /music/

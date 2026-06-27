@@ -28,7 +28,7 @@ author_profile: true
 | 03/08/2026 | Clarice Smith Performing Arts Center, College Park, MD | Richard Goode | Sun, 3:00pm, Schubert Piano Sonata No.21 in B major, D.960 |
 | 04/04/2026 | The Kennedy Center, Washington D.C. | The Kennedy Center, Washington D.C. | Sat, 8pm, Richard Strauss, Tod und Verklärung, Sibelius Violin Concerto |
 | 05/21/2026 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
-| 07/12/2026 | Music center at Strathmore, MD | Baltimore Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.1 in C major, Op.21 |
+| 07/12/2026 | Music Center at Strathmore, MD | Baltimore Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.1 in C major, Op.21 |
 | 07/18/2026 | Alice Tully Hall, NYC |  | Sat, 5:00pm, Beethoven String Quintet in C major, Op.29 |
 | 07/19/2026 | Koussevitzky Music Shed, Lenox/Stockbridge, MA | Boston Symphony Orchestra | Sun, 2:30pm, Beethoven Symphony No.2 in D major, Op.36 |
 | 07/20/2026 | Ozawa Hall, Tanglewood, MA | Boston Symphony Orchestra | Mon, 8pm, Beethoven Leonore Overture No.3, Op.72b |
@@ -57,35 +57,35 @@ author_profile: true
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
 | 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
-| 09/27/2024 | Phildadelphia, PA | Phil Orch & Seong-Jin Cho | Fri, 2pm, Beethoven Piano Concerto No.2 & Bruckner Symphony No.7 |
-| 10/05/2024 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
+| 09/27/2024 | Philadelphia, PA | Phil Orch & Seong-Jin Cho | Fri, 2pm, Beethoven Piano Concerto No.2 & Bruckner Symphony No.7 |
+| 10/05/2024 | Philadelphia, PA | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
 | 10/10/2024 | Fair Lawn, NJ | Adelphi Orchestra | Thu, 7:30pm, Beethoven Symphony No.3, "Eroica" |
 | 10/11/2024 | NYC, Carnegie Hall | Xiyao Luo | Fri, 8pm, Beethoven Piano Sonata No.5, Op.10 No.1 |
 | 10/20/2024 | NYC, Alice Tully Hall |  | Sun, 5pm, Beethoven Septet in E-flat major for Winds and Strings, Op. 20 |
 | 10/22/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.1-3, Op.18 No.1-3 |
 | 10/25/2024 | NYC, Alice Tully Hall |  | Fri, 7:30pm, Beethoven Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 |
-| 10/26/2024 | Phildadelphia, PA | Phil Orch & Riccardo Muti | Sat, 8pm, Verdi, Requiem |
-| 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven Beethoven String Quartets No.4-6, Op.18 No.4-6 |
+| 10/26/2024 | Philadelphia, PA | Phil Orch & Riccardo Muti | Sat, 8pm, Verdi, Requiem |
+| 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.4-6, Op.18 No.4-6 |
 | 11/20/2024 | NYC | NY Phil & Yefim Bronfman | Wed, 7:30pm, Beethoven Piano Concerto No.3 in C minor, Op.37 |
 | 01/26/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 |
-| 01/28/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.7-9, Op.59 No.1-3, "Rasumovsky" |
+| 01/28/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.7-9, Op.59 No.1-3, "Razumovsky" |
 | 02/02/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in A major for Cello and Piano, Op. 69 & Sonata in G major for Violin and Piano, Op. 96 |
 | 02/04/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartet No.10, Op.74 "Harp"; String Quartet No.11, Op.95 "Serioso"; String Quartet No.12, Op.127 |
-| 03/07/2025 | NYC, Lincoln center | Metropolitan Opera | Fri, 7:00pm,  Beethoven, Fidelio, Op.72 |
-| 03/12/2025 | NYC, Kaufman center |  | Wed, Beethoven Coriolan Overture Op.62, Piano Concerto No.5 "Emperor" Op.73, Symphony No.7 Op.92 |
+| 03/07/2025 | NYC, Lincoln Center | Metropolitan Opera | Fri, 7:00pm,  Beethoven, Fidelio, Op.72 |
+| 03/12/2025 | NYC, Kaufman Center |  | Wed, Beethoven Coriolan Overture Op.62, Piano Concerto No.5 "Emperor" Op.73, Symphony No.7 Op.92 |
 | 03/13/2025 | NYC, Carnegie Hall |  | Thu, Beethoven Piano Sonata No.32 in C minor, Op.111 |
 | 03/20/2025 | New Brunswick, NJ | NJ Symphony | Thu, 7:30pm, Brahms Violin Concerto |
 | 04/04/2025 | Newark, NJ | NJ Symphony | Fri, 8pm, Beethoven Symphony No.9, "Choral" |
 | 04/05/2025 | Newark, NJ | NJ Symphony | Sat, 8pm, Beethoven Symphony No.9, "Choral" |
 | 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
-| 04/08/2025 | Phildadelphia, PA | Doric Quartet | Tue, 7:30pm, Beethoven String Quartet No.15 & 16 |
-| 04/10/2025 | Phildadelphia, PA | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
+| 04/08/2025 | Philadelphia, PA | Doric Quartet | Tue, 7:30pm, Beethoven String Quartet No.15 & 16 |
+| 04/10/2025 | Philadelphia, PA | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
 | 04/11/2025 | NYC, Carnegie Hall | The Choral Society and Orchestra of Grace Church in New York | Fri, 8:00pm, Verdi, Messa da Requiem |
 | 04/15/2025 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.14 in C-sharp minor, "Moonlight", Op.27 No.2 |
 | 04/17/2025 | NYC | Juilliard School | Thu, 5:30pm, Beethoven Sonata in C major for Cello and Piano, Op.102 No.1 |
-| 04/19/2025 | NYC, Lincoln center | Metropolitan Opera | Sat, 8:00pm,  Mozart, Die Zauberflöte |
-| 04/24/2025 | Phildadelphia, PA | Curtis Recital Series | Thu, 7:30pm, Beethoven, Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte, Op. 66 |
-| 04/26/2025 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Piano Concerto No.5 & Symphony No.4 |
+| 04/19/2025 | NYC, Lincoln Center | Metropolitan Opera | Sat, 8:00pm,  Mozart, Die Zauberflöte |
+| 04/24/2025 | Philadelphia, PA | Curtis Recital Series | Thu, 7:30pm, Beethoven, Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte, Op. 66 |
+| 04/26/2025 | Philadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Piano Concerto No.5 & Symphony No.4 |
 | 05/01/2025 | NYC, Carnegie Hall | Emanuel Ax | Thu, 8pm, Beethoven Piano Sonatas No.13 & 14, Op.27 No.1 & 2, Schumann Fantasie in C major |
 | 05/04/2025 | NYC, Carnegie Hall | Pierre-Laurent Aimard | Sun, 3pm, Beethoven Fantasia in G minor, Op.77 |
 | 05/06/2025 | NYC, Alice Tully Hall |  | Tue, 7:30pm, Beethoven Sonata in D major for Cello and Piano, Op.102, No.2 |
@@ -111,25 +111,25 @@ Total: 38
 | 10/15/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.14 (Op.131) |
 | 11/05/2023 | Fair Lawn, NJ | Adelphi Orch & Nathan Meltzer | Sun, 2pm, Beethoven Violin Concerto |
 | 11/10/2023 | NYC | NY Phil | Fri, 8:00pm, Beethoven Violin Concerto |
-| 11/17/2023 | Phildadelphia, PA | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
-| 12/01/2023 | Phildadelphia, PA | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
-| 12/03/2023 | Phildadelphia, PA | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
+| 11/17/2023 | Philadelphia, PA | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
+| 12/01/2023 | Philadelphia, PA | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
+| 12/03/2023 | Philadelphia, PA | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
 | 01/05/2024 | NYC | NY Phil | Fri, 2:00pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
-| 01/13/2024 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
-| 01/26/2024 | Phildadelphia, PA | Phil Orch | Fri, 2pm, Brahms, Ein deutsches Requiem |
+| 01/13/2024 | Philadelphia, PA | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
+| 01/26/2024 | Philadelphia, PA | Phil Orch | Fri, 2pm, Brahms, Ein deutsches Requiem |
 | 02/24/2024 | New Brunswick, NJ | Itzhak Perlman | Sat, 8pm |
-| 02/29/2024 | Phildadelphia, PA | Haochen Zhang & Phil Orch | Thu, 7:30pm, Beethoven Piano Concerto No.5 & Symphony No.7 |
-| 03/01/2024 | Phildadelphia, PA | Hagen Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 (Op.132)|
-| 03/05/2024 | Phildadelphia, PA | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
+| 02/29/2024 | Philadelphia, PA | Haochen Zhang & Phil Orch | Thu, 7:30pm, Beethoven Piano Concerto No.5 & Symphony No.7 |
+| 03/01/2024 | Philadelphia, PA | Hagen Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 (Op.132)|
+| 03/05/2024 | Philadelphia, PA | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
 | 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
 | 03/21/2024 | NYC | Quatuor Van Kuijk | Thu, 7:30pm, Beethoven String Quartet No.14 |
-| 05/01/2024 | Phildadelphia, PA | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
+| 05/01/2024 | Philadelphia, PA | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
 | 05/03/2024 | NYC | Dame Imogen Cooper | Fri, 7:30pm, Beethoven Piano Sonata No.31 |
-| 05/04/2024 | Phildadelphia, PA | Phil Orch | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
+| 05/04/2024 | Philadelphia, PA | Phil Orch | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
 | 05/11/2024 | Buffalo, NY | Buffalo Philharmonic Orchestra | Sat, 7:30pm, Beethoven Symphony No.9, "Choral" |
-| 05/15/2024 | Phildadelphia, PA | Evgeny Kissin | Wed, 8pm, Pieces of Beethoven, Brahms, Rachmaninoff and Prokofiev |
+| 05/15/2024 | Philadelphia, PA | Evgeny Kissin | Wed, 8pm, Pieces of Beethoven, Brahms, Rachmaninoff and Prokofiev |
 | 06/07/2024 | NYC | NY Phil | Fri, 8:00pm, Mahler Symphony No.2 "Resurrection" |
-| 06/18/2024 | Phildadelphia, PA | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.6, Swan Lake (suite), the 1812 overture |
+| 06/18/2024 | Philadelphia, PA | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.6, Swan Lake (suite), the 1812 overture |
 | 07/15/2024 | Princeton, NJ | Balourdet Quartet | Mon, 7pm, Mozart String Quartet No.23, Beethoven String Quartet No.16 |
 | 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7pm, Mahler Symphony No.1 |
 
@@ -146,7 +146,7 @@ Total: 26
 | 10/01/2022 | Philadelphia, PA | Phil Orch & Daniil Trifonov | Sat, 8pm, Liszt Piano Concerto No.1 & Dvorak Symphony No.8 |
 | 10/08/2022 | Red Bank, NJ | NJ Symphony & Yefim Bronfman | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
 | 10/17/2022 | Princeton, NJ | NJ Symphony | Fri, 8pm, Brahms Symphony No.4 |
-| 10/15/2022 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concert & Debussy La Mer |
+| 10/15/2022 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concerto & Debussy La Mer |
 | 12/03/2022 | Philadelphia, PA | Phil Orch | Sat, 8pm, Dvorak Symphony No.9 |
 | 01/06/2023 | Princeton, NJ | New Jersey Symphony & Daniil Trifonov | Fri, 8pm, Brahms Piano Concerto No.2 |
 | 01/21/2023 | Philadelphia, PA | Phil Orch & Seong-Jin Cho | Sat, 8pm, Brahms Piano Concerto No.2 |
@@ -207,21 +207,21 @@ Current progress: $\frac{42 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.59 | String Quartet No.7 in F major, "Razumovsky", Op.59 No.1 <br>  String Quartet No.8 in E minor, "Razumovsky", Op.59 No.2 <br> String Quartet No.9 in C major, "Razumovsky", Op.59 No.3  | 01/28/2025, Calidore String Quartet, NYC | 
 | Op.60 | Symphony No.4 in B-flat major | 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.61 | Violin Concerto in D major | 05/22/2022, Adelphi Orchestra & Ming-Feng Hsin, Fair Lawn, NJ <br> 11/05/2023, Adelphi Orch & Nathan Meltzer, Fair Lawn, NJ |
-| Op.62 | Coriolan Overture | 03/12/2025, Kaufman center, New York City, NY  |
+| Op.62 | Coriolan Overture | 03/12/2025, Kaufman Center, New York City, NY  |
 | Op.66 | Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte |  04/24/2025, Curtis Institute of Music, Philadelphia, PA | 
 | Op.67 | Symphony No.5 in C minor | 03/19/2024, NY Philharmonic, New York City, NY <br> 06/17/2025, Philadelphia Orchestra, Philadelphia, PA  |
 | Op.68 | Symphony No.6 in F major, "Pastoral" | 11/17/2023, Philadelphia Orchestra, Philadelphia, PA |
 | Op.69 | Sonata in A major for Cello and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.70 | Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 | 01/26/2025, Alice Tully Hall, NYC, NY |
 | Op.72 | Fidelio | 03/07/2025, Metropolitan Opera, NYC, NY |
-| Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY <br> 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
+| Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman Center, New York City, NY <br> 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.74 | String Quartet No.10 in E-flat major, "Harp" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.77 | Fantasia in G minor | 05/04/2025, Pierre-Laurent Aimard, Carnegie Hall, NYC |
 | Op.84 | Egmont Overture | 10/19/2025, National Symphony Orchestra, Washington D.C.|
 | Op.85 | Mass in C major | 05/17/2025, Madison, NJ |
 | Op.86 | Oratorio, "Christus am Ölberge"("Christ on the Mount of Olives") | 05/17/2025, Madison, NJ |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
-| Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman center, New York City, NY |
+| Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman Center, New York City, NY |
 | Op.95 | String Quartet No.11 in F minor, "Serioso" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.102 | Sonata in C major for Cello and Piano, Op.102 No.1 <br> Sonata in D major for Cello and Piano, Op.102 No.2| 04/17/2025, Juilliard School, NYC <br> 05/06/2026, Alice Tully Hall, NYC |
@@ -237,5 +237,3 @@ Current progress: $\frac{42 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.132 | String Quartet No.15 in A minor | 03/01/2024, Hagen Quartet, Philadelphia, PA <br> 05/09/2025, Calidore Quartet, Alice Tully Hall, NYC |
 | Op.133 | Grosse Fuge | 09/22/2023, Emerson String Quartet, Cleveland, OH <br> 05/09/2025, Calidore Quartet, Alice Tully Hall, NYC |
 | Op.135 | String Quartet No.16 in F minor | 07/15/2024, Balourdet Quartet, Princeton, NJ <br> 05/18/2025, Calidore String Quartet, NYC |
-
-
