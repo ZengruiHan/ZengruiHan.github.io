@@ -16,9 +16,9 @@
   location: ""
   type: "Instructor"
 
-- title: "Elementary Calculus I"
+- title: "Calculus for Life Sciences"
   year: 2026
-  course_number: "MATH 120"
+  course_number: "MATH 136"
   semester: "Fall"
   date: 2026-09
   institution: "UMD"
