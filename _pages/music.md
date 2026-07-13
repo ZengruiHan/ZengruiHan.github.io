@@ -187,7 +187,7 @@ Total: 4
 
 ## "Beethoven Project"
 
-Current progress: $\frac{42 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 32.2\%$.
+Current progress: $\frac{43 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 33.0\%$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -197,6 +197,7 @@ Current progress: $\frac{42 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.18 | String Quartet No.1 in F major, Op.18 No.1 <br>  String Quartet No.2 in G major, Op.18 No.2 <br> String Quartet No.3 in D major, Op.18 No.3 <br> String Quartet No.4 in C minor, Op.18 No.4 <br> String Quartet No.5 in A major, Op.18 No.5 <br> String Quartet No.6 in B-flat major, Op.18 No.6 | 10/22/2024, Calidore String Quartet, NYC <br> 10/27/2024, Calidore String Quartet, NYC | 
 | Op.19 | Piano Concerto No. 2 in B-flat major | 09/27/2024, Phil Orch & Seong-Jin Cho, Philadelphia, PA | 
 | Op.20 | Septet in E-flat major for Winds and Strings | 10/20/2024, Alice Tully Hall, NYC, NY |
+| Op.21 | Symphony No.1 in C major | 07/12/2026, Baltimore Symphony Orchestra, North Bethesda, MD |
 | Op.27 | Piano Sonata No. 13 in E-flat major, Op.27 No.1 <br> Piano Sonata No.14 in C-sharp minor, Op.27 No.2 | 04/15/2025, Princeton, NJ <br> 05/01/2025, NYC, Emanuel Ax | 
 | Op.37 | Piano Concerto No.3 in C minor | 11/20/2024, NY Philharmonic & Yefim Bronfman, New York City, NY  |
 | Op.47 | Sonata for Violin and Piano No. 9 in A major, "Kreutzer" | 02/24/2024, Itzhak Perlman, New Brunswick, NJ <br> 05/21/2026, Jennifer Koh & Thomas Sauer, Kennedy Center, Washington DC |
