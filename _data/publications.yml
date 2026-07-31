@@ -48,7 +48,8 @@
   date: 2024-09-26
   venue: "arXiv preprint"
   type: "preprint"
-  submitted: true
+  submitted: false
+  status: "under revision"
   arxiv: "2409.17449"
   doi: null
   url: ""
