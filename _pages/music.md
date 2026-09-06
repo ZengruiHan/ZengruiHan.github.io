@@ -22,9 +22,12 @@ author_profile: true
 | ---- | ---- | ---- | ---- |
 | 10/11/2026 | Marian Anderson Hall, Philadelphia, PA | Curtis Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.8 in F major, Op.93 |
 | 10/25/2026 | Alice Tully Hall, NYC | Gilles Vonsattel | Sun, 5:00pm, Beethoven Piano Sonatas No.1, No.21, No.29 |
+| 11/01/2026 | Shriver Hall, Baltimore, MD | Igor Levit | Sun, 5:30pm, Beethoven Piano Sonatas No.1, No.17, No.25, No.21 |
 | 12/24/2026 | Carnegie Hall, NYC | New York String Orchestra | Thu, 7:00pm, Beethoven, Overture to Die Geschöpfe des Prometheus, Symphony No.8 |
 | 01/15/2027 | Alice Tully Hall, NYC | Gilles Vonsattel | Fri, 7:30pm, Beethoven Piano Sonatas No.10, No.7, No.13, No.14 |
+| 01/24/2027 | Horowitz Center HCC, Columbia, MD |  | Sun, 4:00pm, Beethoven Trio in B-flat major, Op. 11 |
 | 03/11/2027 | Alice Tully Hall, NYC | Gilles Vonsattel | Thu, 7:30pm, Beethoven Piano Sonatas No.9, No.12, No.16, No.31 |
+| 03/12/2027 | Wolf Trap, Vienna, VA |  | Fri, 7:30pm, Beethoven Violin Sonata No.4 in A minor, Op.23, Cello Sonata No.3 in A major, Op. 69, Piano Trio in D major, Op.70 No.1 "Ghost" |
 | 04/09/2027 | Carnegie Hall, NYC | Igor Levit | Fri, 8pm, Beethoven Piano Sonatas No.4, No.9, No.10, No.24, No.26 |
 | 04/10/2027 | Carnegie Hall, NYC | Igor Levit | Sat, 8pm, Beethoven Piano Sonatas No.5, No.19, No.20, No.22, No.23 |
 | 04/11/2027 | Carnegie Hall, NYC | Igor Levit | Sun, 2pm, Beethoven Piano Sonatas No.3, No.8, No.11, No.17 |
