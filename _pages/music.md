@@ -15,7 +15,24 @@ author_profile: true
 ------------------------------------------------
 
 
-## Concerts in 2025-2026 season:
+
+## Concerts in 2026-2027 season:
+
+| Date | Location | Performers | Remarks |
+| ---- | ---- | ---- | ---- |
+| 10/11/2026 | Marian Anderson Hall, Philadelphia, PA | Curtis Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.8 in F major, Op.93 |
+| 10/25/2026 | Alice Tully Hall, NYC | Gilles Vonsattel | Sun, 5:00pm, Beethoven Piano Sonata No.1, No.21, No.29 |
+| 12/24/2026 | Carnegie Hall, NYC | New York String Orchestra | Thu, 7:00pm, Beethoven, Overture to Die Geschöpfe des Prometheus, Symphony No.8 |
+| 03/11/2027 | Alice Tully Hall, NYC | Gilles Vonsattel | Thu, 7:30pm, Beethoven Piano Sonata No.9, No.12, No.16, No.31 |
+| 04/09/2027 | Carnegie Hall, NYC | Igor Levit | Fri, 8pm, Beethoven Piano Sonata No.4, No.9, No.10, No.24, No.26 |
+| 04/10/2027 | Carnegie Hall, NYC | Igor Levit | Sat, 8pm, Beethoven Piano Sonata No.5, No.19, No.20, No.22, No.23 |
+| 04/11/2027 | Carnegie Hall, NYC | Igor Levit | Sun, 2pm, Beethoven Piano Sonata No.3, No.8, No.11, No.17 |
+| 04/11/2027 | Alice Tully Hall, NYC |  | Sun, 5pm, Mozart Quintet in D major K.593, Brahms Quartet No.2 in A major, Op.26 |
+
+## Concerts in the past seasons
+
+<details markdown="1">
+<summary> 2025-2026 season </summary>
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
@@ -37,20 +54,10 @@ author_profile: true
 | 08/01/2026 | Marian Anderson Hall, Philadelphia, PA | Philadelphia Orchestra | Sat, 2pm, Beethoven Coriolan Overture, Op.62, Piano Concerto No.1 in C major, Op.15, Symphony No.5 in C minor, Op.67 |
 | 08/14/2026 | Wolf Trap, Vienna, VA | National Symphony Orchestra | Fri, 8pm, Beethoven, "Elegischer Gesang", Op.118, "The Consecration of the House", Op.124, Symphony No.9 in D minor, Op.125 |
 
-## Concerts in 2026-2027 season:
+Total: 17
 
-| Date | Location | Performers | Remarks |
-| ---- | ---- | ---- | ---- |
-| 10/11/2026 | Marian Anderson Hall, Philadelphia, PA | Curtis Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.8 in F major, Op.93 |
-| 10/25/2026 | Alice Tully Hall, NYC | Gilles Vonsattel | Sun, 5:00pm, Beethoven Piano Sonata No.1, No.21, No.29 |
-| 12/24/2026 | Carnegie Hall, NYC | New York String Orchestra | Thu, 7:00pm, Beethoven, Overture to Die Geschöpfe des Prometheus, Symphony No.8 |
-| 03/11/2027 | Alice Tully Hall, NYC | Gilles Vonsattel | Thu, 7:30pm, Beethoven Piano Sonata No.9, No.12, No.16, No.31 |
-| 04/09/2027 | Carnegie Hall, NYC | Igor Levit | Fri, 8pm, Beethoven Piano Sonata No.4, No.9, No.10, No.24, No.26 |
-| 04/10/2027 | Carnegie Hall, NYC | Igor Levit | Sat, 8pm, Beethoven Piano Sonata No.5, No.19, No.20, No.22, No.23 |
-| 04/11/2027 | Carnegie Hall, NYC | Igor Levit | Sun, 2pm, Beethoven Piano Sonata No.3, No.8, No.11, No.17 |
-| 04/11/2027 | Alice Tully Hall, NYC |  | Sun, 5pm, Mozart Quintet in D major K.593, Brahms Quartet No.2 in A major, Op.26 |
+</details>
 
-## Concerts in the past seasons
 
 <details markdown="1">
 <summary> 2024-2025 season </summary>
@@ -188,7 +195,7 @@ Total: 4
 
 ## "Beethoven Project"
 
-Current progress: $\frac{47 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 35.9\%$.
+Current progress: $\frac{49 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 37.4\%$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
@@ -235,9 +242,11 @@ Current progress: $\frac{47 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.106 | Piano Sonata No.29 in B flat major, "Hammerklavier" | 10/12/2025, Marc-André Hamelin, College Park, MD |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
 | Op.111 | Piano Sonata No.32 in C minor | 03/13/2024, Danny Driver, Carnegie Hall, NYC |
+| Op.118 | Elegischer Gesang | 08/14/2026, National Symphony Orchestra, Wolf Trap, Vienna, VA |
 | Op.120 | Diabelli Variations | 01/11/2026, Igor Levit, Washington D.C. |
 | Op.121a | 10 Variations on 'Ich bin der Schneider Kakadu' | 05/07/2025, Juilliard School, NYC |
-| Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY <br> 04/04/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/05/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/06/2025, NJ Symphony Orchestra, New Brunswick, NJ |
+| Op.124 | The Consecration of the House (overture) | 08/14/2026, National Symphony Orchestra, Wolf Trap, Vienna, VA |
+| Op.125 | Symphony No.9 in D minor, "Choral" | 06/04/2022, Phil Orch, Philadelphia, PA <br> 05/18/2023, Phil Orch, Philadelphia, PA <br> 05/11/2024, Buffalo Philharmonic Orchestra, Buffalo, NY <br> 04/04/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/05/2025, NJ Symphony Orchestra, Newark, NJ <br> 04/06/2025, NJ Symphony Orchestra, New Brunswick, NJ <br> 08/14/2026, National Symphony Orchestra, Wolf Trap, Vienna, VA |
 | Op.127 | String Quartet No.12 in E-flat major | 02/04/2025, Alice Tully Hall, NYC, NY |
 | Op.130 | String Quartet No.13 in B flat major | 09/22/2023, Emerson String Quartet, Cleveland, OH <br> 05/09/2025, Calidore Quartet, Alice Tully Hall, NYC |
 | Op.131 | String Quartet No.14 in C sharp minor | 10/15/2023, Emerson String Quartet, Cleveland, OH <br> 03/21/2024, Quatuor Van Kuijk, NYC <br> 05/18/2025, Calidore String Quartet, NYC |
