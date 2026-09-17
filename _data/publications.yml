@@ -19,13 +19,13 @@
   venue: "arXiv preprint"
   type: "preprint"
   submitted: true
-  submitted_version: "https://zengruihan.github.io/files/minimal_resolutions.pdf"
+  submitted_version: null
   arxiv: "2604.14384"
   doi: null
   url: ""
   pdf: ""
   note: ""
-  summary: "We develop a strategy for constructing minimal resolutions from explicit non-minimal cellular resolutions via the homological perturbation lemma. As an application, we construct minimal resolutions by line bundles for pushforwards of structure sheaves of toric substacks of smooth toric stacks. The submitted version differs slightly from the arXiv version, mainly fixing typos and making minor changes to the abstract and introduction."
+  summary: "We develop a strategy for constructing minimal resolutions from explicit non-minimal cellular resolutions via the homological perturbation lemma. As an application, we construct minimal resolutions by line bundles for pushforwards of structure sheaves of toric substacks of smooth toric stacks."
 
 - title: "Hanlon-Hicks-Lazarev resolution revisited"
   coauthors: "Lev Borisov"
@@ -33,7 +33,8 @@
   date: 2025-09-14
   venue: "arXiv preprint"
   type: "preprint"
-  submitted: true
+  submitted: false
+  status: "under revision"
   submitted_version: null
   arxiv: "2509.11077"
   doi: null
