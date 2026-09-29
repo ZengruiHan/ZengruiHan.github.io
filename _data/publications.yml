@@ -47,10 +47,10 @@
   coauthors: null
   year: 2024
   date: 2024-09-26
-  venue: "arXiv preprint"
-  type: "preprint"
+  venue: "Selecta Mathematica"
+  type: "publication"
   submitted: false
-  status: "under revision"
+  status: "to appear"
   arxiv: "2409.17449"
   doi: null
   url: ""
