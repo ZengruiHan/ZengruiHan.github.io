@@ -41,23 +41,23 @@ author_profile: true
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
-| 10/12/2025 | Clarice Smith Performing Arts Center, College Park, MD | Marc-André Hamelin | Sun, 3:00pm, Beethoven Piano Sonata No.29 in B-flat major, Op.106, "Hammerklavier" |
-| 10/19/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sun, 3pm, Beethoven Egmont Overture Op.84, Violin Concerto in D major Op. 61, Symphony No.7 in A major Op.92 |
-| 10/24/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Berlioz, Symphonie fantastique |
-| 11/14/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra | Fri, 8:00pm, Brahms Symphony No.3 |
-| 01/11/2026 | Washington Performing Arts, Washington D.C. | Igor Levit | Sun, 7:30pm, Beethoven Diabelli Variations, op. 120 |
-| 01/31/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra | Sat, 8pm, Brahms Double Concerto |
-| 03/08/2026 | Clarice Smith Performing Arts Center, College Park, MD | Richard Goode | Sun, 3:00pm, Schubert Piano Sonata No.21 in B major, D.960 |
-| 04/04/2026 | The Kennedy Center, Washington D.C. | The Kennedy Center, Washington D.C. | Sat, 8pm, Richard Strauss, Tod und Verklärung, Sibelius Violin Concerto |
-| 05/21/2026 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin, Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1, Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
-| 07/12/2026 | Music Center at Strathmore, MD | Baltimore Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.1 in C major, Op.21 |
-| 07/18/2026 | Juilliard School, NYC |  | Sat, 3:00pm, Dvorak Symphony No.8 |
-| 07/18/2026 | Alice Tully Hall, NYC |  | Sat, 5:00pm, Beethoven String Quintet in C major, Op.29 |
-| 07/19/2026 | Koussevitzky Music Shed, Lenox, MA | Boston Symphony Orchestra | Sun, 2:30pm, Beethoven Symphony No.2 in D major, Op.36 |
-| 07/20/2026 | Ozawa Hall, Tanglewood, MA | Boston Symphony Orchestra | Mon, 8pm, Beethoven Leonore Overture No.3, Op.72b |
-| 07/21/2026 | Alice Tully Hall, NYC |  | Tue, 7:30pm, Beethoven Sonata in F major for Horn and Piano, Op. 17 |
-| 08/01/2026 | Marian Anderson Hall, Philadelphia, PA | Philadelphia Orchestra | Sat, 2pm, Beethoven Coriolan Overture, Op.62, Piano Concerto No.1 in C major, Op.15, Symphony No.5 in C minor, Op.67 |
-| 08/14/2026 | Wolf Trap, Vienna, VA | National Symphony Orchestra | Fri, 8pm, Beethoven, "Elegischer Gesang", Op.118, "The Consecration of the House", Op.124, Symphony No.9 in D minor, Op.125 |
+| 10/12/2025 | Gildenhorn Recital Hall, Clarice Smith Performing Arts Center, College Park, MD | Marc-André Hamelin, piano | Sun, 3:00pm, Beethoven Piano Sonata No.29 in B-flat major, Op.106, "Hammerklavier"; Schumann Waldszenen, Op.82; Ravel Gaspard de la nuit |
+| 10/19/2025 | The Kennedy Center, Washington D.C. | National Symphony Orchestra; Emmanuel Tjeknavorian, conductor; Isabelle Faust, violin | Sun, 3pm, Beethoven Egmont Overture, Op.84; Violin Concerto in D major, Op.61; Symphony No.7 in A major, Op.92 |
+| 10/24/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra; Jonathon Heyward, conductor; Francesca Dego, violin | Fri, 8:00pm, Mark Simpson Israfel; Prokofiev Violin Concerto No.2; Berlioz Symphonie fantastique |
+| 11/14/2025 | Clarice Smith Performing Arts Center, College Park, MD | Baltimore Symphony Orchestra; Marin Alsop, conductor; Nemanja Radulović, violin | Fri, 8:00pm, Reena Esmail RE\|Member; Khachaturian Violin Concerto; Brahms Symphony No.3 |
+| 01/11/2026 | Sixth & I, Washington D.C. | Igor Levit, piano | Sun, 7:30pm, Beethoven Diabelli Variations, Op.120; Frederic Rzewski The People United Will Never Be Defeated! |
+| 01/31/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra; Gianandrea Noseda, conductor; Nurit Bar-Josef, violin; David Hardy, cello | Sat, 8pm, Brahms Double Concerto in A minor, Op.102; Scriabin Symphony No.3 in C minor, Op.43, "Le Divin Poème" |
+| 03/08/2026 | Dekelboum Concert Hall, Clarice Smith Performing Arts Center, College Park, MD | Richard Goode, piano | Sun, 3:00pm, Mozart Piano Sonata No.8 in A minor, K.310; Fancies and Goodnights (Gesualdo O vos omnes; Byrd Second and Third Pavans and Galliards from My Ladye Nevells Booke; Rameau The Assembly of the Birds and The Indiscreet One; Gluck/Sgambati Melody from Orfeo ed Euridice; Bizet/Godowsky Adagietto from L’Arlésienne; Paderewski Légende, Op.16 No.1; Schubert Ungarische Melodie, D.817; Janáček Good Night! from On an Overgrown Path); Schubert Piano Sonata No.21 in B-flat major, D.960 |
+| 04/04/2026 | The Kennedy Center, Washington D.C. | National Symphony Orchestra; Simone Young, conductor; Sergey Khachatryan, violin | Sat, 8pm, Sibelius Violin Concerto in D minor, Op.47; Wagner Prelude to Act III of Die Meistersinger von Nürnberg; Richard Strauss Tod und Verklärung, Op.24 |
+| 05/21/2026 | The Kennedy Center, Washington D.C. | Jennifer Koh, violin; Thomas Sauer, piano | Thu, 7:30pm, Beethoven Violin Sonata No.1 in D major, Op.12 No.1; Vijay Iyer Bridgetower Fantasy; Beethoven Violin Sonata No.9 in A major, Op.47, "Kreutzer" |
+| 07/12/2026 | Music Center at Strathmore, MD | Baltimore Symphony Orchestra; Jiannan Cheng, conductor; Juho Pohjonen, piano | Sun, 3pm, Mozart Symphony No.1; Piano Concerto No.12; Beethoven Symphony No.1 in C major, Op.21 |
+| 07/18/2026 | Peter Jay Sharp Theater, Juilliard School, NYC | Juilliard Summer Orchestra; Jonathon Heyward, conductor; Angelina Gong, soprano | Sat, 3:00pm, Berlioz Roman Carnival Overture; Mozart "Der Hölle Rache kocht in meinem Herzen" from Die Zauberflöte, K.620; Dvořák Symphony No.8 in G major, Op.88 |
+| 07/18/2026 | Alice Tully Hall, NYC | Chamber Music Society of Lincoln Center: Orion Weiss, piano; Aaron Boyd and Sean Lee, violins; Lawrence Dutton and Milena Pájaro-van de Stadt, violas; Mihai Marica, cello | Sat, 5:00pm, Henry T. Burleigh Southland Sketches; Dvořák Piano Trio in G minor, Op.26; Beethoven String Quintet in C major, Op.29 |
+| 07/19/2026 | Koussevitzky Music Shed, Lenox, MA | Boston Symphony Orchestra; Andris Nelsons, conductor; Daniil Trifonov, piano; Thomas Rolfs, trumpet | Sun, 2:30pm, Haydn Symphony No.22, "The Philosopher"; Shostakovich Piano Concerto No.1; Beethoven Symphony No.2 in D major, Op.36 |
+| 07/20/2026 | Ozawa Hall, Tanglewood, MA | Tanglewood Music Center Orchestra; Julian Gilewski, Lauren Smith and Andris Nelsons, conductors | Mon, 8pm, Beethoven Leonore Overture No.3, Op.72b; Hindemith Konzertmusik for Strings and Brass, Op.50; Richard Strauss Don Juan, Op.20; Till Eulenspiegels lustige Streiche, Op.28 |
+| 07/21/2026 | Alice Tully Hall, NYC | Chamber Music Society of Lincoln Center: Juho Pohjonen, piano; Demarre McGill, flute; James Austin Smith, oboe; Romie de Guise-Langlois, clarinet; Marc Goldberg, bassoon; Nathaniel Silberschlag, horn | Tue, 7:30pm, Beethoven Horn Sonata in F major, Op.17; Barber Summer Music, Op.31; Villa-Lobos Trio for Oboe, Clarinet and Bassoon; Taktakishvili Flute Sonata; Jongen Rhapsody in D minor for Piano and Wind Quintet, Op.70 |
+| 08/01/2026 | Marian Anderson Hall, Philadelphia, PA | Philadelphia Orchestra; Naomi Woo, conductor; Aristo Sham, piano | Sat, 2pm, Beethoven Coriolan Overture, Op.62; Piano Concerto No.1 in C major, Op.15; Symphony No.5 in C minor, Op.67 |
+| 08/14/2026 | Wolf Trap, Vienna, VA | National Symphony Orchestra; Gianandrea Noseda, conductor; Tessa McQueen, soprano; Cecelia McKinley, alto; Demetrious Sampson Jr., tenor; Jonathan Patton, baritone; The Washington Chorus | Fri, 8pm, Beethoven The Consecration of the House Overture, Op.124; Elegischer Gesang, Op.118; Symphony No.9 in D minor, Op.125 |
 
 Total: 17
 
@@ -69,25 +69,25 @@ Total: 17
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
-| 09/24/2024 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.21, Liszt Piano Sonata in B minor |
-| 09/27/2024 | Philadelphia, PA | Phil Orch & Seong-Jin Cho | Fri, 2pm, Beethoven Piano Concerto No.2 & Bruckner Symphony No.7 |
-| 10/05/2024 | Philadelphia, PA | Phil Orch | Sat, 8pm, Mahler Symphony No.3 |
-| 10/10/2024 | Fair Lawn, NJ | Adelphi Orchestra | Thu, 7:30pm, Beethoven Symphony No.3, "Eroica" |
-| 10/11/2024 | NYC, Carnegie Hall | Xiyao Luo | Fri, 8pm, Beethoven Piano Sonata No.5, Op.10 No.1 |
-| 10/20/2024 | NYC, Alice Tully Hall |  | Sun, 5pm, Beethoven Septet in E-flat major for Winds and Strings, Op. 20 |
-| 10/22/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.1-3, Op.18 No.1-3 |
-| 10/25/2024 | NYC, Alice Tully Hall |  | Fri, 7:30pm, Beethoven Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 |
-| 10/26/2024 | Philadelphia, PA | Phil Orch & Riccardo Muti | Sat, 8pm, Verdi, Requiem |
-| 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.4-6, Op.18 No.4-6 |
-| 11/20/2024 | NYC | NY Phil & Yefim Bronfman | Wed, 7:30pm, Beethoven Piano Concerto No.3 in C minor, Op.37 |
-| 01/26/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Trio in E-flat major for Piano, Violin, and Cello, Op. 70, No. 2 |
-| 01/28/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartets No.7-9, Op.59 No.1-3, "Razumovsky" |
-| 02/02/2025 | NYC, Alice Tully Hall |  | Sun, 5:00pm, Beethoven Sonata in A major for Cello and Piano, Op. 69 & Sonata in G major for Violin and Piano, Op. 96 |
-| 02/04/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Tue, 7:30pm, Beethoven String Quartet No.10, Op.74 "Harp"; String Quartet No.11, Op.95 "Serioso"; String Quartet No.12, Op.127 |
-| 03/07/2025 | NYC, Lincoln Center | Metropolitan Opera | Fri, 7:00pm,  Beethoven, Fidelio, Op.72 |
-| 03/12/2025 | NYC, Kaufman Center |  | Wed, Beethoven Coriolan Overture Op.62, Piano Concerto No.5 "Emperor" Op.73, Symphony No.7 Op.92 |
-| 03/13/2025 | NYC, Carnegie Hall |  | Thu, Beethoven Piano Sonata No.32 in C minor, Op.111 |
-| 03/20/2025 | New Brunswick, NJ | NJ Symphony | Thu, 7:30pm, Brahms Violin Concerto |
+| 09/24/2024 | Princeton, NJ | Per Tengstrand, piano | Tue, 7pm, Beethoven Piano Sonata No.21 in C major, Op.53, "Waldstein"; Liszt Piano Sonata in B minor, S.178 |
+| 09/27/2024 | Marian Anderson Hall, Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Seong-Jin Cho, piano | Fri, 2pm, Beethoven Piano Concerto No.2 in B-flat major, Op.19; Bruckner Symphony No.7 in E major; encore: Haydn Vivace molto from Piano Sonata in E minor, Hob.XVI:34 |
+| 10/05/2024 | Marian Anderson Hall, Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Joyce DiDonato, mezzo-soprano; Philadelphia Symphonic Choir; Philadelphia Boys Choir; Philadelphia Girls Choir | Sat, 8pm, Mahler Symphony No.3 in D minor |
+| 10/10/2024 | Fair Lawn Community Center Theater, Fair Lawn, NJ | Adelphi Orchestra; Kyunghun Kim, conductor; Shanley Horvitz, soprano | Thu, 7:30pm, Wagner Waldweben (Forest Murmurs) from Siegfried; Wagner Wesendonck Lieder; Beethoven Symphony No.3 in E-flat major, Op.55, "Eroica" |
+| 10/11/2024 | NYC, Carnegie Hall | Xiyao Luo, piano | Fri, 8pm, J.S. Bach French Suite No.4 in E-flat major, BWV 815; Beethoven Piano Sonata No.5 in C minor, Op.10 No.1; Zhang Zhao Pi Huang; Ravel Jeux d’eau; Liszt Mephisto Waltz No.1, S.514 |
+| 10/20/2024 | NYC, Alice Tully Hall | Chamber Music Society of Lincoln Center: Gilles Vonsattel, piano; Benjamin Beilman and Ida Kavafian, violin; Yura Lee, viola; David Requiro, cello; Nina Bernat, double bass; Sebastian Manz, clarinet; Marc Goldberg, bassoon; David Byrd-Marrow, horn | Sun, 5pm, Bartók Piano Quintet, BB 33; Beethoven Septet in E-flat major for Winds and Strings, Op.20 |
+| 10/22/2024 | NYC, Alice Tully Hall | Calidore String Quartet (Jeffrey Myers and Ryan Meehan, violin; Jeremy Berry, viola; Estelle Choi, cello) | Tue, 7:30pm, Beethoven String Quartet No.3 in D major, Op.18 No.3; String Quartet No.1 in F major, Op.18 No.1; String Quartet No.2 in G major, Op.18 No.2 |
+| 10/25/2024 | NYC, Alice Tully Hall | Chamber Music Society of Lincoln Center: Paul Appleby, tenor; Juho Pohjonen, piano; Sahun Sam Hong, harpsichord; Stella Chen and Chad Hoopes, violin; Paul Neubauer, viola; Dmitri Atapine, cello; Sooyun Kim, flute; James Austin Smith, oboe; Tommaso Lonquich, clarinet | Fri, 7:30pm, Beethoven Piano Trio in C minor, Op.1 No.3; Corigliano Poem in October; Brahms Piano Quartet No.1 in G minor, Op.25 |
+| 10/26/2024 | Marian Anderson Hall, Philadelphia, PA | Philadelphia Orchestra; Riccardo Muti, conductor; Angela Meade, soprano; Isabel De Paoli, mezzo-soprano; Giovanni Sala, tenor; Maharram Huseynov, bass-baritone; Philadelphia Symphonic Choir | Sat, 8pm, Verdi Messa da Requiem |
+| 10/27/2024 | NYC, Alice Tully Hall | Calidore String Quartet (Jeffrey Myers and Ryan Meehan, violin; Jeremy Berry, viola; Estelle Choi, cello) | Sun, 5pm, Beethoven String Quartet No.5 in A major, Op.18 No.5; String Quartet No.4 in C minor, Op.18 No.4; String Quartet No.6 in B-flat major, Op.18 No.6 |
+| 11/20/2024 | David Geffen Hall, NYC | New York Philharmonic; Paavo Järvi, conductor; Yefim Bronfman, piano | Wed, 7:30pm, Beethoven Piano Concerto No.3 in C minor, Op.37; Nielsen Symphony No.5, Op.50; encore: Schubert Andante from Piano Sonata in A minor, D.784 |
+| 01/26/2025 | NYC, Alice Tully Hall | Chamber Music Society of Lincoln Center: Gilles Vonsattel, piano; Arnaud Sussmann, violin/viola; Paul Watkins, cello; Viano Quartet | Sun, 5pm, Haydn String Quartet in F major, Op.77 No.2, Hob.III:82; Mozart String Quintet in E-flat major, K.614; Beethoven Piano Trio in E-flat major, Op.70 No.2 |
+| 01/28/2025 | NYC, Alice Tully Hall | Calidore String Quartet (Jeffrey Myers and Ryan Meehan, violin; Jeremy Berry, viola; Estelle Choi, cello) | Tue, 7:30pm, Beethoven String Quartets No.7 in F major, No.8 in E minor and No.9 in C major, Op.59 Nos.1–3, "Razumovsky" |
+| 02/02/2025 | NYC, Alice Tully Hall | Chamber Music Society of Lincoln Center: Shai Wosner, piano; Pinchas Zukerman and Arnaud Sussmann, violin; Aaron Boyd, violin/viola; Matthew Lipman, viola; Amanda Forsyth, cello | Sun, 5pm, Beethoven Cello Sonata No.3 in A major, Op.69; Beethoven Violin Sonata No.10 in G major, Op.96; Bruckner String Quintet in F major, WAB 112 |
+| 02/04/2025 | NYC, Alice Tully Hall | Calidore String Quartet (Jeffrey Myers and Ryan Meehan, violin; Jeremy Berry, viola; Estelle Choi, cello) | Tue, 7:30pm, Beethoven String Quartet No.10 in E-flat major, Op.74, "Harp"; String Quartet No.11 in F minor, Op.95, "Serioso"; String Quartet No.12 in E-flat major, Op.127 |
+| 03/07/2025 | Metropolitan Opera House, Lincoln Center, NYC | Metropolitan Opera Orchestra and Chorus; Susanna Mälkki, conductor; Lise Davidsen (Leonore), David Butt Philip (Florestan), René Pape (Rocco), Ying Fang (Marzelline), Magnus Dietrich (Jaquino), Tomasz Konieczny (Don Pizarro), Stephen Milling (Don Fernando) | Fri, 7pm, Beethoven Fidelio, Op.72 |
+| 03/12/2025 | Merkin Hall, Kaufman Music Center, NYC | Modus Operandi Orchestra; Justin Bischof, conductor; Alexandre Moutouzkine, piano | Wed, 6:30pm, Beethoven Coriolan Overture, Op.62; Piano Concerto No.5 in E-flat major, Op.73, "Emperor"; Symphony No.7 in A major, Op.92 |
+| 03/13/2025 | Weill Recital Hall, Carnegie Hall, NYC | Danny Driver, piano | Thu, 7:30pm, Handel Suite No.5 in E major, HWV 430; Fauré Barcarolle No.4 in A-flat major, Op.44; Schumann Symphonic Études, Op.13; Gabriela Lena Frank Nocturno Nazqueño; Ligeti Études: Galamb borong, Fém and Fanfares; Beethoven Piano Sonata No.32 in C minor, Op.111 |
+| 03/20/2025 | State Theatre New Jersey, New Brunswick, NJ | New Jersey Symphony; Lina González-Granados, conductor; Vadim Gluzman, violin | Thu, 7:30pm, Schumann Overture, Scherzo and Finale, Op.52; Gabriela Ortiz Clara; Brahms Violin Concerto in D major, Op.77 |
 | 04/04/2025 | Newark, NJ | NJ Symphony | Fri, 8pm, Beethoven Symphony No.9, "Choral" |
 | 04/05/2025 | Newark, NJ | NJ Symphony | Sat, 8pm, Beethoven Symphony No.9, "Choral" |
 | 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
