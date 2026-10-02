@@ -20,6 +20,7 @@ author_profile: true
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
+| 10/02/2026 | Symphony Hall, Boston, MA | Boston Symphony Orchestra & Seong-Jin Cho | Fri, 1:30pm, Rachmaninoff Rhapsody on a Theme of Paganini, Symphony No.2 |
 | 10/11/2026 | Marian Anderson Hall, Philadelphia, PA | Curtis Symphony Orchestra | Sun, 3pm, Beethoven Symphony No.8 in F major, Op.93 |
 | 10/25/2026 | Alice Tully Hall, NYC | Gilles Vonsattel | Sun, 5:00pm, Beethoven Piano Sonatas No.1, No.21, No.29 |
 | 11/01/2026 | Shriver Hall, Baltimore, MD | Igor Levit | Sun, 5:30pm, Beethoven Piano Sonatas No.1, No.17, No.25, No.21 |
