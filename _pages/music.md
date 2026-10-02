@@ -119,32 +119,32 @@ Total: 38
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
-| 09/22/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.13 (Op.130) with Grosse Fuge (Op.133) |
-| 10/07/2023 | Philadelphia, PA | Phil Orch | Gershwin Piano Concerto |
-| 10/15/2023 | Cleveland, Ohio | Emerson String Quartet | Beethoven String Quartet No.14 (Op.131) |
-| 11/05/2023 | Fair Lawn, NJ | Adelphi Orch & Nathan Meltzer | Sun, 2pm, Beethoven Violin Concerto |
-| 11/10/2023 | NYC | NY Phil | Fri, 8:00pm, Beethoven Violin Concerto |
-| 11/17/2023 | Philadelphia, PA | Phil Orch | Fri, 2pm, Beethoven Symphony No.6, "Pastoral" |
-| 12/01/2023 | Philadelphia, PA | Phil Orch | Fri, 2pm, Mahler Symphony No.1 |
-| 12/03/2023 | Philadelphia, PA | Staatskapelle Berlin | Sun, 7:30pm, Brahms Symphony No.3 & No.4 |
-| 01/05/2024 | NYC | NY Phil | Fri, 2:00pm, Beethoven Piano Concerto No.4, Brahms Symphony No.4 |
-| 01/13/2024 | Philadelphia, PA | Phil Orch | Sat, 8pm, Tchaikovsky Symphony No.5 |
-| 01/26/2024 | Philadelphia, PA | Phil Orch | Fri, 2pm, Brahms, Ein deutsches Requiem |
-| 02/24/2024 | New Brunswick, NJ | Itzhak Perlman | Sat, 8pm |
-| 02/29/2024 | Philadelphia, PA | Haochen Zhang & Phil Orch | Thu, 7:30pm, Beethoven Piano Concerto No.5 & Symphony No.7 |
-| 03/01/2024 | Philadelphia, PA | Hagen Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 (Op.132)|
-| 03/05/2024 | Philadelphia, PA | Orchestre Métropolitain | Tue, 7:30pm, Rachmaninoff Piano Concerto No.2 |
-| 03/19/2024 | NYC | NY Phil | Tue, 7:30pm, Beethoven Symphony No.5 |
-| 03/21/2024 | NYC | Quatuor Van Kuijk | Thu, 7:30pm, Beethoven String Quartet No.14 |
-| 05/01/2024 | Philadelphia, PA | Bavarian Radio Symphony Orch | Wed, 8pm, Mahler Symphony No.6 |
-| 05/03/2024 | NYC | Dame Imogen Cooper | Fri, 7:30pm, Beethoven Piano Sonata No.31 |
-| 05/04/2024 | Philadelphia, PA | Phil Orch | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
-| 05/11/2024 | Buffalo, NY | Buffalo Philharmonic Orchestra | Sat, 7:30pm, Beethoven Symphony No.9, "Choral" |
-| 05/15/2024 | Philadelphia, PA | Evgeny Kissin | Wed, 8pm, Pieces of Beethoven, Brahms, Rachmaninoff and Prokofiev |
-| 06/07/2024 | NYC | NY Phil | Fri, 8:00pm, Mahler Symphony No.2 "Resurrection" |
-| 06/18/2024 | Philadelphia, PA | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.6, Swan Lake (suite), the 1812 overture |
-| 07/15/2024 | Princeton, NJ | Balourdet Quartet | Mon, 7pm, Mozart String Quartet No.23, Beethoven String Quartet No.16 |
-| 08/06/2024 | NYC | European Union Youth Orchestra | Tue, 7pm, Mahler Symphony No.1 |
+| 09/22/2023 | Finney Chapel, Oberlin, OH | Emerson String Quartet | Fri, 7:30pm, Mendelssohn String Quartet No.2 in A minor, Op.13; Sarah Kirkland Snider, Drink the Wild Ayre; Beethoven String Quartet No.13 in B-flat major, Op.130, with Grosse Fuge, Op.133; encore: Bach, Vor deinen Thron tret ich hiermit (arr. for string quartet) |
+| 10/07/2023 | Verizon Hall, Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Daniil Trifonov, piano | Sat, 8pm, Gershwin Piano Concerto in F; Anna Clyne, This Moment; William Grant Still Symphony No.4, "Autochthonous" |
+| 10/15/2023 | Severance Music Center, Cleveland, OH | Emerson String Quartet; Renée Fleming, soprano; Simone Dinnerstein, piano; Merle Dandridge, narrator | Sun, 7pm, Philip Glass Étude No.6; Beethoven String Quartet No.14 in C-sharp minor, Op.131; André Previn, Penelope (completed by David Fetherolf) |
+| 11/05/2023 | Fair Lawn Community Center Theater, Fair Lawn, NJ | Adelphi Orchestra; Kyunghun Kim, conductor; Nathan Meltzer, violin | Sun, 2pm, Mozart Overture to The Abduction from the Seraglio, K.384; Beethoven Violin Concerto in D major, Op.61; Haydn Symphony No.104 in D major, "London" |
+| 11/10/2023 | David Geffen Hall, NYC | New York Philharmonic; Stéphane Denève, conductor; Nikolaj Szeps-Znaider, violin; Kent Tritle, organ | Fri, 8pm, Carlos Simon, Fate Now Conquers; Beethoven Violin Concerto in D major, Op.61; Saint-Saëns Symphony No.3 in C minor, Op.78, "Organ" |
+| 11/17/2023 | Verizon Hall, Philadelphia, PA | Philadelphia Orchestra; David Robertson, conductor; Hai-Ye Ni, cello | Fri, 2pm, Reena Esmail, RE&#124;Member; Haydn Cello Concerto No.1 in C major, Hob.VIIb:1; Beethoven Symphony No.6 in F major, Op.68, "Pastoral" |
+| 12/01/2023 | Verizon Hall, Philadelphia, PA | Philadelphia Orchestra; Rafael Payare, conductor; Javier Perianes, piano | Fri, 2pm, Jimmy López Bellido, Ephemerae (Concerto for Piano and Orchestra); Mahler Symphony No.1 in D major |
+| 12/03/2023 | Verizon Hall, Philadelphia, PA | Staatskapelle Berlin; Yannick Nézet-Séguin, conductor | Sun, 7:30pm, Brahms Symphony No.3 in F major, Op.90; Symphony No.4 in E minor, Op.98 |
+| 01/05/2024 | David Geffen Hall, NYC | New York Philharmonic; Jaap van Zweden, conductor; Rudolf Buchbinder, piano | Fri, 2pm, Wagner Prelude to Act I of Die Meistersinger von Nürnberg; Beethoven Piano Concerto No.4 in G major, Op.58; Brahms Symphony No.4 in E minor, Op.98 |
+| 01/13/2024 | Verizon Hall, Philadelphia, PA | Philadelphia Orchestra; Anna Sułkowska-Migoń, conductor; Wu Man, pipa | Sat, 8pm, Feliks Nowowiejski Overture to The Legend of the Baltic; Zhao Jiping Pipa Concerto No.2; Tchaikovsky Symphony No.5 in E minor, Op.64 |
+| 01/26/2024 | Verizon Hall, Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Gil Shaham, violin; Jeanine De Bique, soprano; Christopher Maltman, baritone; Philadelphia Symphonic Choir (Joe Miller, director) | Fri, 2pm, Mason Bates, Nomad Concerto; Luis Ernesto Peña Laguna, Oraison; Brahms, Ein deutsches Requiem, Op.45 |
+| 02/24/2024 | State Theatre New Jersey, New Brunswick, NJ | Itzhak Perlman, violin; Rohan De Silva, piano | Sat, 8pm, Handel Violin Sonata in E major, Op.1 No.15, HWV 373; Beethoven Violin Sonata No.9 in A major, Op.47, "Kreutzer"; Schumann Fantasiestücke, Op.73; encores: Smetana, From My Homeland (selection); John Williams, Theme from Schindler’s List; Kreisler, Liebesfreud |
+| 02/29/2024 | Verizon Hall, Philadelphia, PA | Philadelphia Orchestra; Nathalie Stutzmann, conductor; Haochen Zhang, piano | Thu, 7:30pm, Beethoven Piano Concerto No.5 in E-flat major, Op.73, "Emperor"; Symphony No.7 in A major, Op.92; encore: Bizet/Moszkowski, Chanson bohème from Carmen |
+| 03/01/2024 | Perelman Theater, Philadelphia, PA | Hagen Quartet | Fri, 7:30pm, Haydn String Quartet in C major, Op.76 No.3, "Emperor"; Bartók String Quartet No.2; Beethoven String Quartet No.15 in A minor, Op.132 |
+| 03/05/2024 | Verizon Hall, Philadelphia, PA | Orchestre Métropolitain; Yannick Nézet-Séguin, conductor; Tony Siqi Yun, piano; Cris Derksen, cello | Tue, 7:30pm, Cris Derksen, Controlled Burn; Rachmaninoff Piano Concerto No.2 in C minor, Op.18; Sibelius Symphony No.2 in D major, Op.43; encore: Rachmaninoff Prelude in B-flat major, Op.23 No.2 |
+| 03/19/2024 | David Geffen Hall, NYC | New York Philharmonic; Jaap van Zweden, conductor; Conrad Tao, piano | Tue, 7:30pm, Mendelssohn The Hebrides Overture, Op.26; Mozart Piano Concerto No.17 in G major, K.453; Beethoven Symphony No.5 in C minor, Op.67 |
+| 03/21/2024 | Weill Recital Hall, Carnegie Hall, NYC | Quatuor Van Kuijk | Thu, 7:30pm, Beethoven String Quartet No.14 in C-sharp minor, Op.131; Fauré, Après un rêve and Les berceaux (arr. for string quartet); Satie, Je te veux (arr. for string quartet); Debussy, Beau soir (arr. for string quartet); Baptiste Trotignon, selections from Ces messieurs; Mendelssohn String Quartet No.6 in F minor, Op.80 |
+| 05/01/2024 | Verizon Hall, Philadelphia, PA | Bavarian Radio Symphony Orchestra; Sir Simon Rattle, conductor | Wed, 8pm, Mahler Symphony No.6 in A minor, "Tragic" |
+| 05/03/2024 | Kaufmann Concert Hall, 92NY, NYC | Dame Imogen Cooper, piano | Fri, 7:30pm, Schubert Piano Sonata in C major, D.840, "Reliquie", and Impromptus D.899 Nos.1–2; Bach, Nun freut euch, lieben Christen g’mein, BWV 734 (arr. Kempff), and Nun komm, der Heiden Heiland, BWV 659 (arr. Busoni); Thomas Adès, Darknesse Visible; Beethoven Piano Sonata No.31 in A-flat major, Op.110 |
+| 05/04/2024 | Verizon Hall, Philadelphia, PA | Philadelphia Orchestra; Dalia Stasevska, conductor; Leif Ove Andsnes, piano | Sat, 8pm, Rachmaninoff Piano Concerto No.3 in D minor, Op.30; Bartók Concerto for Orchestra |
+| 05/11/2024 | Kleinhans Music Hall, Buffalo, NY | Buffalo Philharmonic Orchestra; JoAnn Falletta, conductor; Nikki Chooi, violin; Jaclyn Grossman, soprano; Hannah Shea, mezzo-soprano; John Tiranno, tenor; Lester Lynch, baritone; Buffalo Philharmonic Chorus and SUNY Fredonia Beethoven 9 Chorus (Adam Luebke, director) | Sat, 7:30pm, Sibelius Violin Concerto in D minor, Op.47; Beethoven Symphony No.9 in D minor, Op.125, "Choral" |
+| 05/15/2024 | Verizon Hall, Philadelphia, PA | Evgeny Kissin, piano | Wed, 8pm, Beethoven Piano Sonata No.27 in E minor, Op.90; Chopin Nocturne in F-sharp minor, Op.48 No.2, and Fantaisie in F minor, Op.49; Brahms Four Ballades, Op.10; Prokofiev Piano Sonata No.2 in D minor, Op.14; encores: Prokofiev, March from The Love for Three Oranges, and a Brahms Waltz (number unverified); Rachmaninoff (work unspecified in original record) |
+| 06/07/2024 | David Geffen Hall, NYC | New York Philharmonic; Jaap van Zweden, conductor; Hanna-Elisabeth Müller, soprano; Ekaterina Gubanova, mezzo-soprano; New York Philharmonic Chorus (Malcolm J. Merriweather, director) | Fri, 8pm, Mahler Symphony No.2 in C minor, "Resurrection" |
+| 06/18/2024 | TD Pavilion at the Mann, Philadelphia, PA | Philadelphia Orchestra; Austin Chanu, conductor | Tue, 8pm, Tchaikovsky Symphony No.6 in B minor, Op.74, "Pathétique"; selections from Swan Lake Suite, Op.20a; 1812 Overture, Op.49 |
+| 07/15/2024 | Richardson Auditorium, Princeton, NJ | Balourdet Quartet | Mon, 7:30pm, Mozart String Quartet No.23 in F major, K.590; Karim Al-Zand String Quartet No.4, "Strange Machines"; Beethoven String Quartet No.16 in F major, Op.135 |
+| 08/06/2024 | Carnegie Hall, NYC | European Union Youth Orchestra with guest musicians from the Youth Symphony Orchestra of Ukraine; Iván Fischer, conductor; Isata Kanneh-Mason, piano | Tue, 7pm, Anna Clyne, Masquerade; Dohnányi Variations on a Nursery Tune, Op.25; Mahler Symphony No.1 in D major; encores: Gershwin, The Man I Love; Jaime Texidor, Amparito Roca |
 
 Total: 26
 
