@@ -155,27 +155,27 @@ Total: 26
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
-| 09/30/2022 | Fair Lawn, NJ | Adelphi Orchestra | Fri, 7:30pm, Brahms Symphony No.1 |
-| 10/01/2022 | Philadelphia, PA | Phil Orch & Daniil Trifonov | Sat, 8pm, Liszt Piano Concerto No.1 & Dvorak Symphony No.8 |
-| 10/08/2022 | Red Bank, NJ | NJ Symphony & Yefim Bronfman | Sat, 8pm, Rachmaninoff Piano Concerto No.3 |
-| 10/17/2022 | Princeton, NJ | NJ Symphony | Fri, 8pm, Brahms Symphony No.4 |
-| 10/15/2022 | Philadelphia, PA | Phil Orch & Hilary Hahn | Sat, 8pm, Tchaikovsky Violin Concerto & Debussy La Mer |
-| 12/03/2022 | Philadelphia, PA | Phil Orch | Sat, 8pm, Dvorak Symphony No.9 |
-| 01/06/2023 | Princeton, NJ | New Jersey Symphony & Daniil Trifonov | Fri, 8pm, Brahms Piano Concerto No.2 |
-| 01/21/2023 | Philadelphia, PA | Phil Orch & Seong-Jin Cho | Sat, 8pm, Brahms Piano Concerto No.2 |
-| 02/03/2023 | Philadelphia, PA | Phil Orch & Tony Siqi Yun | Fri, 2pm, Schumann Piano Concerto |
-| 02/10/2023 | Philadelphia, PA | Phil Orch & Gil Shaham | Fri, 2pm, Brahms Violin Concerto |
-| 03/04/2023 | Philadelphia, PA | Phil Orch, Herbert Blomstedt, Emanuel Ax | Sat, 8pm, Mozart Piano Concerto No.18, Bruckner Symphony No.4 "Romantic" |
-| 03/11/2023 | East Brunswick, NJ | Daniel Colalillo | Sat, 7pm, Beethoven Piano Sonata No.23 with pieces of Schubert, Liszt, Chopin, Rachmaninoff |
-| 03/19/2023 | Fair Lawn, NJ | Adelphi Orchestra & Ming-Feng Hsin | Sun, 2pm, Dvorak Cello Concerto, Mendelssohn Symphony No.4 "Italian" |
-| 04/01/2023 | Philadelphia, PA | Phil Orch | Sat, 8pm, Stravinsky "The Rite of Spring" |
-| 04/14/2023 | Philadelphia, PA | Phil Orch | Fri, 2pm, Strauss "Also sprach Zarathustra" |
-| 05/06/2023 | Philadelphia, PA | Phil Orch | Sat, 8pm, Bruckner Symphony No.9 & Te Deum |
-| 05/11/2023 | Philadelphia, PA | Phil Orch | Thu, 7:30pm, Berlioz Symphonie fantastique |
-| 05/18/2023 | Philadelphia, PA | Phil Orch | Thu, 8pm, Beethoven Symphony No.9 "Choral" |
-| 06/02/2023 | Princeton, NJ | NJ Symphony & Randall Goosby | Fri, 8pm, Tchaikovsky Violin Concerto |
-| 06/10/2023 | Red Bank, NJ | NJ Symphony | Sat, 8pm, Stravinsky "The Rite of Spring" |
-| 06/20/2023 | Philadelphia, PA | Phil Orch | Tue, 8pm, Tchaikovsky Symphony No.5, "Romeo and Juliet", 1812 Overture |
+| 09/30/2022 | Fair Lawn, NJ | Adelphi Orchestra; Kyunghun Kim, conductor | Fri, 7:30pm, R. Strauss Serenade for Winds in E-flat major, Op.7; Mahler Adagietto from Symphony No.5; Brahms Symphony No.1 |
+| 10/01/2022 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Daniil Trifonov, piano | Sat, 8pm, Valerie Coleman Umoja, Anthem for Unity; Liszt Piano Concerto No.1; Dvořák Symphony No.8 |
+| 10/08/2022 | Red Bank, NJ | New Jersey Symphony; Xian Zhang, conductor; Yefim Bronfman, piano | Sat, 8pm, Jessie Montgomery Banner; Copland Appalachian Spring Suite; Rachmaninoff Piano Concerto No.3 |
+| 10/15/2022 | Philadelphia, PA | Philadelphia Orchestra; William Eddins, conductor; Hilary Hahn, violin | Sat, 8pm, Coleridge-Taylor Perkinson Sinfonietta No.1; Debussy La Mer; Tchaikovsky Violin Concerto |
+| 10/21/2022 | Princeton, NJ | New Jersey Symphony; Xian Zhang, conductor; Michelle Cann, piano | Fri, 8pm, Dorothy Chang Northern Star; R. Strauss Burleske for Piano and Orchestra; Brahms Symphony No.4 |
+| 12/03/2022 | Philadelphia, PA | Philadelphia Orchestra; Nathalie Stutzmann, conductor; Ricardo Morales, clarinet; Choong-Jin Chang, viola | Sat, 8pm, Bruch Concerto for Clarinet and Viola; Dvořák Symphony No.9, "From the New World" |
+| 01/06/2023 | Princeton, NJ | New Jersey Symphony; Xian Zhang, conductor; Daniil Trifonov, piano | Fri, 8pm, Brahms Piano Concerto No.2 in B-flat major, Op.83; R. Strauss Don Juan, Op.20; Suite from Der Rosenkavalier, Op.59 |
+| 01/21/2023 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Seong-Jin Cho, piano | Sat, 8pm, Louise Farrenc Symphony No.3; Brahms Piano Concerto No.2 |
+| 02/03/2023 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Tony Siqi Yun, piano | Fri, 2pm, R. Schumann Piano Concerto; William L. Dawson Negro Folk Symphony |
+| 02/10/2023 | Philadelphia, PA | Philadelphia Orchestra; Nathalie Stutzmann, conductor; Gil Shaham, violin | Fri, 2pm, Brahms Violin Concerto & Symphony No.1; encore: Scott Wheeler Isolation Rag |
+| 03/04/2023 | Philadelphia, PA | Philadelphia Orchestra; Herbert Blomstedt, conductor; Emanuel Ax, piano | Sat, 8pm, Mozart Piano Concerto No.18 in B-flat major, K.456; Bruckner Symphony No.4 in E-flat major, "Romantic" |
+| 03/11/2023 | East Brunswick, NJ | Daniel Colalillo, piano | Sat, 7pm, Beethoven Piano Sonata No.23, "Appassionata", with pieces of Schubert, Liszt, Chopin, Rachmaninoff |
+| 03/19/2023 | Fair Lawn, NJ | Adelphi Orchestra; Kyunghun Kim, conductor; Bethany Bobbs, cello | Sun, 2pm, Sibelius Valse triste; Dvořák Cello Concerto in B minor; Mendelssohn Symphony No.4 in A major, Op.90, "Italian" |
+| 04/01/2023 | Philadelphia, PA | Philadelphia Orchestra; Donald Nally & Austin Chanu, conductors; The Crossing; Meigui Zhang, soprano | Sat, 8pm, John Luther Adams Vespers of the Blessed Earth; Stravinsky The Rite of Spring |
+| 04/14/2023 | Philadelphia, PA | Philadelphia Orchestra; Cristian Măcelaru, conductor; Aaron Diehl, piano; David Wong, bass; Aaron Kimmel, drums; Evan Christopher, clarinet; Nicole Glover, tenor saxophone; Brandon Lee, trumpet; Alicia Hall Moran, mezzo-soprano; Charlotte Blake Alston, speaker | Fri, 2pm, Mary Lou Williams Zodiac Suite; R. Strauss Also sprach Zarathustra |
+| 05/06/2023 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Elza van den Heever, soprano; Michelle DeYoung, mezzo-soprano; Sean Panikkar, tenor; Ryan Speedo Green, bass-baritone; Philadelphia Symphonic Choir; Joe Miller, choir director | Sat, 8pm, Bruckner Christus factus est, Symphony No.9 & Te Deum |
+| 05/11/2023 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Charlotte Blake Alston, speaker | Thu, 7:30pm, Gabriela Lena Frank Walkabout: Concerto for Orchestra; Berlioz Symphonie fantastique |
+| 05/18/2023 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Leah Hawkins, soprano; Cierra Byrd, mezzo-soprano; Issachah Savage, tenor; Kevin Short, bass-baritone; Morgan State University Choir; Eric Conway, choir director | Thu, 8pm, J. Rosamond Johnson Lift Every Voice and Sing; Traditional In Bright Mansions Above; Dent Examine Me; Traditional I’ve Just Come from the Fountain, I Know I’ve Been Changed & The Battle Hymn of the Republic; Beethoven Symphony No.9, "Choral" |
+| 06/02/2023 | Princeton, NJ | New Jersey Symphony; Xian Zhang, conductor; Randall Goosby, violin | Fri, 8pm, Chen Yi Landscape Impression; Stravinsky Suite from Pulcinella; Tchaikovsky Violin Concerto |
+| 06/10/2023 | Red Bank, NJ | New Jersey Symphony; Xian Zhang, conductor; Joshua Bell, violin; Becky Bass, vocalist | Sat, 8pm, Daniel Bernard Roumain Farah (Joy) for Voice and Orchestra; Bruch Violin Concerto No.1; Stravinsky The Rite of Spring |
+| 06/20/2023 | Philadelphia, PA | Philadelphia Orchestra; Paolo Bortolameolli, conductor | Tue, 8pm, Tchaikovsky Symphony No.5 in E minor, Op.64; Romeo and Juliet Fantasy-Overture; 1812 Overture, Op.49 |
 
 Total: 21
 
@@ -186,10 +186,10 @@ Total: 21
 
 | Date | Location | Performers | Remarks |
 | ---- | ---- | ---- | ---- |
-| 05/06/2022 | Philadelphia, PA | Evgeny Kissin | Fri, 8pm, Various pieces including Beethoven Piano Sonata No.31 |
-| 05/14/2022 | Philadelphia, PA | Phil Orch & Daniel Lozakovich | Sat, 8pm, Prokofiev Violin Concerto No.2 & Tchaikovsky Symphony No.6 |
-| 05/22/2022 | Fair Lawn, NJ | Adelphi Orchestra & Bethany Bobbs | Sun, 2pm, Beethoven Violin Concerto |
-| 06/04/2022 | Philadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Symphony No.9 "Choral" |
+| 05/06/2022 | Philadelphia, PA | Evgeny Kissin, piano | Fri, 8pm, J.S. Bach Toccata and Fugue in D minor (arr. Tausig); Mozart Adagio in B minor, K.540; Beethoven Piano Sonata No.31 in A-flat major, Op.110; Chopin Selected Mazurkas & Andante spianato and Grande Polonaise brillante in E-flat major, Op.22 |
+| 05/14/2022 | Philadelphia, PA | Philadelphia Orchestra; Nathalie Stutzmann, conductor; Daniel Lozakovich, violin | Sat, 8pm, Prokofiev Violin Concerto No.2 in G minor, Op.63; Tchaikovsky Symphony No.6 in B minor, Op.74, "Pathétique" |
+| 05/22/2022 | Fair Lawn, NJ | Adelphi Orchestra; Scott Jackson Wiley, conductor; Ming-Feng Hsin, violin | Sun, 2pm, Beethoven Violin Concerto in D major, Op.61; César Franck Symphony in D minor |
+| 06/04/2022 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Angel Blue, soprano; Mihoko Fujimura, mezzo-soprano; Limmie Pulliam, tenor; Ryan Speedo Green, bass-baritone; Philadelphia Symphonic Choir; Ryan Brandau, choir director | Sat, 8pm, Gabriela Lena Frank Pachamama Meets an Ode; Beethoven Symphony No.9 in D minor, Op.125, "Choral" |
 
 Total: 4
 
