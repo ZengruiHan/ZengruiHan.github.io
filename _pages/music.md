@@ -88,28 +88,28 @@ Total: 17
 | 03/12/2025 | Merkin Hall, Kaufman Music Center, NYC | Modus Operandi Orchestra; Justin Bischof, conductor; Alexandre Moutouzkine, piano | Wed, 6:30pm, Beethoven Coriolan Overture, Op.62; Piano Concerto No.5 in E-flat major, Op.73, "Emperor"; Symphony No.7 in A major, Op.92 |
 | 03/13/2025 | Weill Recital Hall, Carnegie Hall, NYC | Danny Driver, piano | Thu, 7:30pm, Handel Suite No.5 in E major, HWV 430; Fauré Barcarolle No.4 in A-flat major, Op.44; Schumann Symphonic Études, Op.13; Gabriela Lena Frank Nocturno Nazqueño; Ligeti Études: Galamb borong, Fém and Fanfares; Beethoven Piano Sonata No.32 in C minor, Op.111 |
 | 03/20/2025 | State Theatre New Jersey, New Brunswick, NJ | New Jersey Symphony; Lina González-Granados, conductor; Vadim Gluzman, violin | Thu, 7:30pm, Schumann Overture, Scherzo and Finale, Op.52; Gabriela Ortiz Clara; Brahms Violin Concerto in D major, Op.77 |
-| 04/04/2025 | Newark, NJ | NJ Symphony | Fri, 8pm, Beethoven Symphony No.9, "Choral" |
-| 04/05/2025 | Newark, NJ | NJ Symphony | Sat, 8pm, Beethoven Symphony No.9, "Choral" |
-| 04/06/2025 | New Brunswick, NJ | NJ Symphony | Sun, 3pm, Beethoven Symphony No.9, "Choral" |
-| 04/08/2025 | Philadelphia, PA | Doric Quartet | Tue, 7:30pm, Beethoven String Quartet No.15 & 16 |
-| 04/10/2025 | Philadelphia, PA | Phil Orch | Thu, 7:30pm, Mahler Symphony No.6 |
-| 04/11/2025 | NYC, Carnegie Hall | The Choral Society and Orchestra of Grace Church in New York | Fri, 8:00pm, Verdi, Messa da Requiem |
-| 04/15/2025 | Princeton | Princeton Chamber Music series | Tue, 7pm, Beethoven Piano Sonata No.14 in C-sharp minor, "Moonlight", Op.27 No.2 |
-| 04/17/2025 | NYC | Juilliard School | Thu, 5:30pm, Beethoven Sonata in C major for Cello and Piano, Op.102 No.1 |
-| 04/19/2025 | NYC, Lincoln Center | Metropolitan Opera | Sat, 8:00pm,  Mozart, Die Zauberflöte |
-| 04/24/2025 | Philadelphia, PA | Curtis Recital Series | Thu, 7:30pm, Beethoven, Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte, Op. 66 |
-| 04/26/2025 | Philadelphia, PA | Phil Orch | Sat, 8pm, Beethoven Piano Concerto No.5 & Symphony No.4 |
-| 05/01/2025 | NYC, Carnegie Hall | Emanuel Ax | Thu, 8pm, Beethoven Piano Sonatas No.13 & 14, Op.27 No.1 & 2, Schumann Fantasie in C major |
-| 05/04/2025 | NYC, Carnegie Hall | Pierre-Laurent Aimard | Sun, 3pm, Beethoven Fantasia in G minor, Op.77 |
-| 05/06/2025 | NYC, Alice Tully Hall |  | Tue, 7:30pm, Beethoven Sonata in D major for Cello and Piano, Op.102, No.2 |
-| 05/07/2025 | NYC | Juilliard School | Wed, 5:30pm, Beethoven Kakadu Variations, Op.121a |
-| 05/09/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Fri, 7:30pm, Beethoven String Quartets No.13 (with Grosse Fuge) and No.15, Op.130, 132, 133 |
-| 05/17/2025 | Madison, NJ | Concert Hall at Drew University | Sat, 7:30pm, Beethoven, Mass in C major, Op.86, "Christus am Ölberge"("Christ on the Mount of Olives"), Op.85 |
-| 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartets No.14 and No.16, Op.131, 135 |
-| 06/08/2025 | Philadelphia, PA | Philadelphia Orchestra | Sun, 2pm, Wagner, Tristan and Isolde |
-| 06/17/2025 | Philadelphia, PA | Philadelphia Orchestra | Tue, 8pm, Beethoven Piano Concerto No.4 in G major, Op.58, Symphony No.5 in C minor, Op.67 |
+| 04/04/2025 | Newark, NJ | New Jersey Symphony; Xian Zhang, conductor; Steven Banks, saxophone; Felicia Moore, soprano; Kelley O’Connor, mezzo-soprano; Issachah Savage, tenor; Reginald Smith Jr., baritone; Montclair State University Chorale (Heather J. Buchanan, director) | Fri, 8pm, Tchaikovsky Polonaise from Eugene Onegin; Billy Childs Diaspora; Beethoven Symphony No.9 in D minor, Op.125, "Choral" |
+| 04/05/2025 | Newark, NJ | New Jersey Symphony; Xian Zhang, conductor; Steven Banks, saxophone; Felicia Moore, soprano; Kelley O’Connor, mezzo-soprano; Issachah Savage, tenor; Reginald Smith Jr., baritone; Montclair State University Chorale (Heather J. Buchanan, director) | Sat, 8pm, Tchaikovsky Polonaise from Eugene Onegin; Billy Childs Diaspora; Beethoven Symphony No.9 in D minor, Op.125, "Choral" |
+| 04/06/2025 | New Brunswick, NJ | New Jersey Symphony; Xian Zhang, conductor; Steven Banks, saxophone; Felicia Moore, soprano; Kelley O’Connor, mezzo-soprano; Issachah Savage, tenor; Reginald Smith Jr., baritone; Montclair State University Chorale (Heather J. Buchanan, director) | Sun, 3pm, Tchaikovsky Polonaise from Eugene Onegin; Billy Childs Diaspora; Beethoven Symphony No.9 in D minor, Op.125, "Choral" |
+| 04/08/2025 | Philadelphia, PA | Doric String Quartet | Tue, 7:30pm, Beethoven String Quartet No.16 in F major, Op.135; Haydn String Quartet in D major, Op.20 No.4; Beethoven String Quartet No.15 in A minor, Op.132 |
+| 04/10/2025 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor | Thu, 7:30pm, Mahler Symphony No.6 in A minor |
+| 04/11/2025 | NYC, Carnegie Hall | The Choral Society and Orchestra of Grace Church in New York; John Maclay, conductor; Michelle Trovato, soprano; Helen Karloski, mezzo-soprano; Scott Ramsay, tenor; Enrico Lagasca, bass-baritone | Fri, 8pm, Verdi Messa da Requiem |
+| 04/15/2025 | Channing Hall, Unitarian Universalist Church, Princeton, NJ | Per Tengstrand, piano; Tienne Yu and Kelly Kim, violin; Georgia Post, viola; Brandon Cheng, cello | Tue, 7pm, Beethoven Piano Sonata No.14 in C-sharp minor, Op.27 No.2, "Moonlight"; Rachmaninoff Piano Concerto No.2 in C minor, Op.18 (arr. for piano and string quartet) |
+| 04/17/2025 | Morse Hall, Juilliard School, NYC | Angeline Kiang, cello | Thu, 5:30pm, Beethoven Cello Sonata No.4 in C major, Op.102 No.1; Dvořák Rondo in G minor, Op.94; Penderecki Divertimento for Solo Cello; Poulenc Cello Sonata, FP143; Chopin Cello Sonata in G minor, Op.65 |
+| 04/19/2025 | NYC, Lincoln Center | Metropolitan Opera Orchestra and Chorus; Evan Rogister, conductor; Ben Bliss (Tamino), Golda Schultz (Pamina), Kathryn Lewek (Queen of the Night), Thomas Oliemans (Papageno), Stephen Milling (Sarastro), Shenyang (Speaker), Thomas Ebenstein (Monostatos), Magdalena Kuźma (Papagena) | Sat, 8pm, Mozart Die Zauberflöte, K.620 |
+| 04/24/2025 | Field Concert Hall, Curtis Institute of Music, Philadelphia, PA | Hun Choi, cello; CharmHee Han and Elena Jivaeva, piano | Thu, 7:30pm, Beethoven 12 Variations on “Ein Mädchen oder Weibchen” from Mozart’s Die Zauberflöte, Op.66; Schubert Sonata in A minor, D.821, "Arpeggione"; Schumann Fünf Stücke im Volkston, Op.102; Brahms Cello Sonata No.1 in E minor, Op.38 |
+| 04/26/2025 | Philadelphia, PA | Philadelphia Orchestra; Tugan Sokhiev, conductor; Yefim Bronfman, piano | Sat, 8pm, Beethoven Piano Concerto No.5 in E-flat major, Op.73, "Emperor"; Symphony No.4 in B-flat major, Op.60 |
+| 05/01/2025 | NYC, Carnegie Hall | Emanuel Ax, piano | Thu, 8pm, Beethoven Piano Sonata No.13 in E-flat major, Op.27 No.1; John Corigliano Fantasia on an Ostinato; Beethoven Piano Sonata No.14 in C-sharp minor, Op.27 No.2, "Moonlight"; Schumann Arabeske in C major, Op.18; Fantasie in C major, Op.17 |
+| 05/04/2025 | NYC, Carnegie Hall | Pierre-Laurent Aimard, piano | Sun, 3pm, Sweelinck Echo Fantasia in Dorian, SwWV 261; Elliott Carter Night Fantasies; Chopin Polonaise-fantaisie in A-flat major, Op.61; Mozart Fantasia in C minor, K.475; C. P. E. Bach Fantasia in C major, Wq.59 No.6; Beethoven Fantasia in G minor, Op.77; Ives The Celestial Railroad |
+| 05/06/2025 | NYC, Alice Tully Hall | Alessio Bax and Michael Stephen Brown, piano; Benjamin Beilman and Richard Lin, violin; Milena Pájaro-van de Stadt, viola; Paul Watkins, cello | Tue, 7:30pm, Beethoven Cello Sonata No.5 in D major, Op.102 No.2; Brahms Violin Sonata No.3 in D minor, Op.108; Elgar Piano Quintet in A minor, Op.84 |
+| 05/07/2025 | Paul Hall, Juilliard School, NYC | Hoi Leong Cheong, piano | Wed, 5:30pm, Beethoven Kakadu Variations, Op.121a; Schumann Fantasiestücke, Op.73; Chopin Nocturne in E-flat major, Op.55 No.2, Mazurkas in A minor, Op.59 No.1, and A-flat major, Op.59 No.2, Scherzo No.2 in B-flat minor, Op.31 |
+| 05/09/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Fri, 7:30pm, Beethoven String Quartet No.15 in A minor, Op.132; String Quartet No.13 in B-flat major, Op.130, with Grosse Fuge, Op.133 |
+| 05/17/2025 | Madison, NJ | The Masterwork Chorus with orchestra; Martin Sedek, conductor; Veronica Shea, soprano; Mary Pat Finucane, mezzo-soprano; Will Upham, tenor; Seungchan Hong, baritone | Sat, 7:30pm, Beethoven Mass in C major, Op.86; Christus am Ölberge (Christ on the Mount of Olives), Op.85 |
+| 05/18/2025 | NYC, Alice Tully Hall | Calidore String Quartet | Sun, 5pm, Beethoven String Quartet No.14 in C-sharp minor, Op.131; String Quartet No.16 in F major, Op.135 |
+| 06/08/2025 | Philadelphia, PA | Philadelphia Orchestra; Yannick Nézet-Séguin, conductor; Stuart Skelton (Tristan), Nina Stemme (Isolde), Karen Cargill (Brangäne), Brian Mulligan (Kurwenal), Tareq Nazmi (King Marke), Freddie Ballentine (Melot), Jonghyun Park (Sailor/Shepherd), Nathan Schludecker (Steersman); Philadelphia Symphonic Choir (Donald Palumbo, director) | Sun, 2pm, Wagner Tristan und Isolde (complete opera, concert performance) |
+| 06/17/2025 | Philadelphia, PA | Philadelphia Orchestra; Lina Gonzalez-Granados, conductor; Jonathan Biss, piano | Tue, 8pm, Beethoven Coriolan Overture, Op.62; Piano Concerto No.4 in G major, Op.58; Symphony No.5 in C minor, Op.67 |
 
-Total: 38
+Total: 39
 
 </details>
 
