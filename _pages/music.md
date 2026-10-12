@@ -241,6 +241,7 @@ Current progress: $\frac{49 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.86 | Oratorio, "Christus am Ölberge"("Christ on the Mount of Olives") | 05/17/2025, Madison, NJ |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman Center, New York City, NY |
+| Op.93 | Symphony No.8 in F major | 10/11/2026, Curtis Institute Orchestra, Philadelphia, PA |
 | Op.95 | String Quartet No.11 in F minor, "Serioso" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.102 | Sonata in C major for Cello and Piano, Op.102 No.1 <br> Sonata in D major for Cello and Piano, Op.102 No.2| 04/17/2025, Juilliard School, NYC <br> 05/06/2026, Alice Tully Hall, NYC |
