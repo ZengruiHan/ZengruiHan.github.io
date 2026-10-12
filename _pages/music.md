@@ -200,7 +200,7 @@ Total: 4
 
 ## "Beethoven Project"
 
-Current progress: $\frac{49 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 37.4\%$.
+Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 38.1\%$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
