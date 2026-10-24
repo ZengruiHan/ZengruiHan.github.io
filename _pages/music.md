@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-[An interesting website to test your knowledge of classical pieces.](https://test-96774.web.app) 
+This page is mainly intended as a personal memo.
 
 
 
