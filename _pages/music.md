@@ -200,11 +200,12 @@ Total: 4
 
 ## "Beethoven Project"
 
-Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 38.1\%$.
+Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.2}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 38.4\%$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
 | Op.1 | Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 | 10/25/2024, Alice Tully Hall, NYC, NY |
+| Op.2 | Piano Sonata No.1 in F minor, Op.2 No.1 | 10/25/2026, Gilles Vonsattel, Alice Tully Hall, NYC |
 | Op.10 | Piano Sonata No.5 in C minor, Op.10 No.1 | 10/11/2024, Xiyao Luo, New York City, NY |
 | Op.12 | Violin Sonata No.1 in D major, Op.12 No.1 | 05/21/2026, Jennifer Koh & Thomas Sauer, Kennedy Center, Washington DC |
 | Op.15 | Piano Concerto No.1 in C major | 08/01/2026, Phil Orch |
@@ -218,7 +219,7 @@ Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.36 | Symphony No.2 in D major | 07/19/2026, Lenox MA, Boston Symphony Orchestra | 
 | Op.37 | Piano Concerto No.3 in C minor | 11/20/2024, NY Philharmonic & Yefim Bronfman, New York City, NY  |
 | Op.47 | Sonata for Violin and Piano No. 9 in A major, "Kreutzer" | 02/24/2024, Itzhak Perlman, New Brunswick, NJ <br> 05/21/2026, Jennifer Koh & Thomas Sauer, Kennedy Center, Washington DC |
-| Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ |
+| Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ <br> 10/25/2026, Gilles Vonsattel, Alice Tully Hall, NYC |
 | Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) <br> 10/10/2024, Adelphi Orchestra, Fair Lawn, NJ |
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
 | Op.58 | Piano Concerto No.4 in G major | 01/05/2024, NY Philharmonic, NYC <br> 06/17/2025, Philadelphia Orchestra, Philadelphia, PA   |
@@ -245,7 +246,7 @@ Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.95 | String Quartet No.11 in F minor, "Serioso" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.96 | Sonata in G major for Violin and Piano | 02/02/2025, Alice Tully Hall, NYC, NY |
 | Op.102 | Sonata in C major for Cello and Piano, Op.102 No.1 <br> Sonata in D major for Cello and Piano, Op.102 No.2| 04/17/2025, Juilliard School, NYC <br> 05/06/2026, Alice Tully Hall, NYC |
-| Op.106 | Piano Sonata No.29 in B flat major, "Hammerklavier" | 10/12/2025, Marc-André Hamelin, College Park, MD |
+| Op.106 | Piano Sonata No.29 in B flat major, "Hammerklavier" | 10/12/2025, Marc-André Hamelin, College Park, MD <br> 10/25/2026, Gilles Vonsattel, Alice Tully Hall, NYC |
 | Op.110 | Piano Sonata No.31 in A flat major | 05/03/2024, Dame Imogen Cooper, NYC |
 | Op.111 | Piano Sonata No.32 in C minor | 03/13/2024, Danny Driver, Carnegie Hall, NYC |
 | Op.118 | Elegischer Gesang | 08/14/2026, National Symphony Orchestra, Wolf Trap, Vienna, VA |
