@@ -47,8 +47,7 @@
   date: 2025-09-14
   venue: "arXiv preprint"
   type: "preprint"
-  submitted: false
-  status: "under revision"
+  submitted: true
   submitted_version: null
   arxiv: "2509.11077"
   doi: null
