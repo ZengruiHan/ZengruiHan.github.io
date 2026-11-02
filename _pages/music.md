@@ -200,12 +200,12 @@ Total: 4
 
 ## "Beethoven Project"
 
-Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.2}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 38.4\%$.
+Current progress: $\frac{51 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\mathrm{Op.2}) + \frac{1}{3}\ (\mathrm{Op.10}) + \frac{1}{3}\ (\mathrm{Op.12}) + \frac{1}{3}\ (\mathrm{Op.31}) + \frac{1}{2}\ (\mathrm{Op.70})}{135}\approx 39.4\%$.
 
 | opus | works | dates, locations, performers |
 | ---- | ---- | ---- |
 | Op.1 | Trio in C minor for Piano, Violin, and Cello, Op.1, No.3 | 10/25/2024, Alice Tully Hall, NYC, NY |
-| Op.2 | Piano Sonata No.1 in F minor, Op.2 No.1 | 10/25/2026, Gilles Vonsattel, Alice Tully Hall, NYC |
+| Op.2 | Piano Sonata No.1 in F minor, Op.2 No.1 | 10/25/2026, Gilles Vonsattel, Alice Tully Hall, NYC <br> 11/01/2026, Igor Levit, Shriver Hall, Baltimore, MD |
 | Op.10 | Piano Sonata No.5 in C minor, Op.10 No.1 | 10/11/2024, Xiyao Luo, New York City, NY |
 | Op.12 | Violin Sonata No.1 in D major, Op.12 No.1 | 05/21/2026, Jennifer Koh & Thomas Sauer, Kennedy Center, Washington DC |
 | Op.15 | Piano Concerto No.1 in C major | 08/01/2026, Phil Orch |
@@ -216,10 +216,11 @@ Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.21 | Symphony No.1 in C major | 07/12/2026, Baltimore Symphony Orchestra, North Bethesda, MD |
 | Op.27 | Piano Sonata No. 13 in E-flat major, Op.27 No.1 <br> Piano Sonata No.14 in C-sharp minor, Op.27 No.2 |04/15/2025, Princeton, NJ <br> 05/01/2025, NYC, Emanuel Ax |
 | Op.29 | String Quintet in C major | 07/18/2026, NYC, Alice Tully Hall |
+| Op.31 | Piano Sonata No.17 in D minor, Op.31 No.2, "Tempest" | 11/01/2026, Igor Levit, Shriver Hall, Baltimore, MD |
 | Op.36 | Symphony No.2 in D major | 07/19/2026, Lenox MA, Boston Symphony Orchestra | 
 | Op.37 | Piano Concerto No.3 in C minor | 11/20/2024, NY Philharmonic & Yefim Bronfman, New York City, NY  |
 | Op.47 | Sonata for Violin and Piano No. 9 in A major, "Kreutzer" | 02/24/2024, Itzhak Perlman, New Brunswick, NJ <br> 05/21/2026, Jennifer Koh & Thomas Sauer, Kennedy Center, Washington DC |
-| Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ <br> 10/25/2026, Gilles Vonsattel, Alice Tully Hall, NYC |
+| Op.53 | Piano Sonata No.21 in C major, "Waldstein" | 09/24/2024, Per Tengstrand, Princeton, NJ <br> 10/25/2026, Gilles Vonsattel, Alice Tully Hall, NYC <br> 11/01/2026, Igor Levit, Shriver Hall, Baltimore, MD |
 | Op.55 | Symphony No.3 in E flat major, "Eroica" | 09/25/2022, Brook Orchestra, Bound Brook, NJ (a terrible performance) <br> 10/10/2024, Adelphi Orchestra, Fair Lawn, NJ |
 | Op.57 | Piano Sonata No.23 in F minor, "Appassionata" | 03/11/2023, Daniel Colalillo, East Brunswick, NJ |
 | Op.58 | Piano Concerto No.4 in G major | 01/05/2024, NY Philharmonic, NYC <br> 06/17/2025, Philadelphia Orchestra, Philadelphia, PA   |
@@ -237,6 +238,7 @@ Current progress: $\frac{50 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.73 | Piano Concerto No.5 in E flat major, "Emperor" | 02/29/2024, Haochen Zhang & Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman Center, New York City, NY <br> 04/26/2025, Philadelphia Orchestra, Philadelphia, PA |
 | Op.74 | String Quartet No.10 in E-flat major, "Harp" | 02/04/2025, Calidore String Quartet, NYC, Alice Tully Hall |
 | Op.77 | Fantasia in G minor | 05/04/2025, Pierre-Laurent Aimard, Carnegie Hall, NYC |
+| Op.79 | Piano Sonata No.25 in G major | 11/01/2026, Igor Levit, Shriver Hall, Baltimore, MD |
 | Op.84 | Egmont Overture | 10/19/2025, National Symphony Orchestra, Washington D.C.|
 | Op.85 | Mass in C major | 05/17/2025, Madison, NJ |
 | Op.86 | Oratorio, "Christus am Ölberge"("Christ on the Mount of Olives") | 05/17/2025, Madison, NJ |
