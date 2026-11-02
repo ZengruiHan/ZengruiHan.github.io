@@ -240,8 +240,8 @@ Current progress: $\frac{51 + \frac{1}{3}\ (\mathrm{Op.1}) + \frac{1}{3}\ (\math
 | Op.77 | Fantasia in G minor | 05/04/2025, Pierre-Laurent Aimard, Carnegie Hall, NYC |
 | Op.79 | Piano Sonata No.25 in G major | 11/01/2026, Igor Levit, Shriver Hall, Baltimore, MD |
 | Op.84 | Egmont Overture | 10/19/2025, National Symphony Orchestra, Washington D.C.|
-| Op.85 | Mass in C major | 05/17/2025, Madison, NJ |
-| Op.86 | Oratorio, "Christus am Ölberge"("Christ on the Mount of Olives") | 05/17/2025, Madison, NJ |
+| Op.85 | Oratorio, "Christus am Ölberge"("Christ on the Mount of Olives") | 05/17/2025, Madison, NJ |
+| Op.86 | Mass in C major | 05/17/2025, Madison, NJ |
 | Op.90 | Piano Sonata No.27 in E minor | 05/15/2024, Evgeny Kissin, Philadelphia, PA |
 | Op.92 | Symphony No.7 in A major | 02/29/2024, Phil Orch, Philadelphia, PA <br> 03/12/2025, Kaufman Center, New York City, NY |
 | Op.93 | Symphony No.8 in F major | 10/11/2026, Curtis Institute Orchestra, Philadelphia, PA |
